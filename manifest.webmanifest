@@ -1,0 +1,16 @@
+{
+  "name": "Tornado Racing",
+  "short_name": "Tornado",
+  "description": "Every 5-star horse in races with 8+ runners, on daily Jacobs Ladder staking — 10p a unit, first bet 30p a horse.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
