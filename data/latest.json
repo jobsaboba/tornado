@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T19:00:47+0000",
+  "updated": "2026-11-16T19:30:35+0000",
   "races": [
     {
       "time": "13:15",
@@ -234,11 +234,11 @@
           "odds": "9/2",
           "jockey": "Myla Coppins",
           "trainer": "A W Carroll",
-          "pos": 0,
-          "res": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 100.42
         }
       ]
     },
@@ -318,26 +318,26 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 9,
+    "settled": 10,
     "won": 2,
     "placed": 2,
-    "lost": 5,
+    "lost": 6,
     "nr": 0,
-    "pending": 4
+    "pending": 3
   },
   "day": {
     "bet": 0.4,
     "units": 4,
     "horses": 13,
-    "bet_horses": 9,
+    "bet_horses": 10,
     "total_stake": 5.2
   },
-  "staked": 3.6,
+  "staked": 4.0,
   "returned": 2.26,
-  "profit": -1.34,
+  "profit": -1.74,
   "bank": {
     "start": 102.16,
-    "end": 100.82,
+    "end": 100.42,
     "next_stake": 0.4,
     "ladder": [
       2,
@@ -345,6 +345,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 100.82
+    "season_end": 100.42
   }
 }
