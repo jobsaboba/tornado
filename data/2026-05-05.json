@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-05",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "name": "Half Price Brunch/Lunch At westernhousehotel Handicap",
+      "class": "6",
+      "distance": "5f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Canaria Queen",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "D Fentiman",
+          "trainer": "T D Easterby",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.8,
+          "profit": -2.8,
+          "bank": -16.13
+        }
+      ]
+    },
+    {
+      "time": "13:48",
+      "meeting": "Ffos Las",
+      "name": "Weatherbys nhstallions.co.uk Handicap Hurdle",
+      "class": "5",
+      "distance": "1m 7f 182y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Berkshire Smudge",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "S Bowen",
+          "trainer": "Miss R Curtis",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.8,
+          "profit": -2.8,
+          "bank": -18.93
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "name": "Luxury Breaks At Western House Hotel Handicap",
+      "class": "6",
+      "distance": "1m 1f 20y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Land Of The Giants",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Adam Caffrey",
+          "trainer": "A McGuinness",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.8,
+          "profit": 6.72,
+          "bank": -12.21
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ffos Las",
+      "name": "Gwyn Brace Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f",
+      "going": "Good (Good to Firm in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "This Sway",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "M Comley",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.8,
+          "profit": 0.7,
+          "bank": -11.51
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 1,
+    "placed": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 2.8,
+    "units": 28,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 11.2
+  },
+  "staked": 11.2,
+  "returned": 13.02,
+  "profit": 1.82,
+  "bank": {
+    "start": -13.33,
+    "end": -11.51,
+    "next_stake": 2.6,
+    "ladder": [
+      4,
+      5,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

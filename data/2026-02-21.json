@@ -1,0 +1,160 @@
+{
+  "date": "2026-02-21",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:40",
+      "meeting": "Chepstow",
+      "name": "Pertemps Network Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Diafoirus",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Charlie Deutsch",
+          "trainer": "H Merienne",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": 0.0,
+          "bank": 12.78
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Chepstow",
+      "name": "Pertemps Network Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 7f 131y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "A Perfect Day",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Bryan Carver",
+          "trainer": "Ben Clarke",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 12.48
+        }
+      ]
+    },
+    {
+      "time": "16:13",
+      "meeting": "Chepstow",
+      "name": "Pertemps Network EMEA Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 16y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Doctors Hill",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Sean Houlihan",
+          "trainer": "P Hobbs & J White",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 12.18
+        }
+      ]
+    },
+    {
+      "time": "16:48",
+      "meeting": "Chepstow",
+      "name": "Pertemps Network EMEA Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 100y",
+      "going": "Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Thorgath",
+          "stars": 5,
+          "odds": "11/5",
+          "jockey": "Stan Sheppard",
+          "trainer": "T Lacey",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 11.88
+        }
+      ]
+    },
+    {
+      "time": "17:18",
+      "meeting": "Chepstow",
+      "name": "Pertemps Network Maiden NH Flat Race (Conditional/Amateurs) (GBB Race)",
+      "class": "5",
+      "distance": "2m 16y",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bande Organisee",
+          "stars": 5,
+          "odds": "8/13",
+          "jockey": "Freddie Keighley",
+          "trainer": "Miss R Curtis",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.11,
+          "bank": 11.99
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 1,
+    "placed": 1,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 1.5
+  },
+  "staked": 1.5,
+  "returned": 0.71,
+  "profit": -0.79,
+  "bank": {
+    "start": 12.78,
+    "end": 11.99,
+    "next_stake": 0.4,
+    "ladder": [
+      1,
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

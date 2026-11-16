@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-19",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:20",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' Handicap",
+      "class": "2",
+      "distance": "1m",
+      "going": "Heavy",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Theoryofeverything",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Jason Hart",
+          "trainer": "D O'Meara",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 376.9,
+          "profit": -376.9,
+          "bank": -1108.36
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "name": "Ladbrokes Ayr Silver Cup Handicap",
+      "class": "2",
+      "distance": "6f",
+      "going": "Heavy",
+      "runners": 23,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Toyotomi",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Oisin Murphy",
+          "trainer": "D O'Meara",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 376.9,
+          "profit": -56.53,
+          "bank": -1164.89
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ayr",
+      "name": "Ladbrokes Ayr Gold Cup (Heritage Handicap)",
+      "class": "2",
+      "distance": "6f",
+      "going": "Heavy",
+      "runners": 24,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Binhareer",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Tom Marquand",
+          "trainer": "W J Haggas",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 376.9,
+          "profit": -376.9,
+          "bank": -1541.79
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 376.9,
+    "units": 3769,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 1130.7
+  },
+  "staked": 1130.7,
+  "returned": 320.37,
+  "profit": -810.33,
+  "bank": {
+    "start": -731.46,
+    "end": -1541.79,
+    "next_stake": 753.8,
+    "ladder": [
+      3769,
+      3769
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

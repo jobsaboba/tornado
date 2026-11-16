@@ -1,0 +1,112 @@
+{
+  "date": "2026-06-23",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "name": "Vibe Recruit Maiden Stakes (GBB Race)",
+      "class": "4",
+      "distance": "7f 80y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "English Time",
+          "stars": 5,
+          "odds": "4/6",
+          "jockey": "Lewis Edmunds",
+          "trainer": "Harry Charlton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 20.3,
+          "profit": 8.12,
+          "bank": -81.47
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ffos Las",
+      "name": "Morgan Enviromental Classified Stakes",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pureis King",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Callum Hutchinson",
+          "trainer": "Faye Bramley",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 20.3,
+          "profit": 12.18,
+          "bank": -69.29
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "name": "Zambezi Magic Handicap",
+      "class": "5",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Yokkell",
+          "stars": 5,
+          "odds": "16/5",
+          "jockey": "Joe Leavy",
+          "trainer": "A Wintle",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 20.3,
+          "profit": -20.3,
+          "bank": -89.59
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 2,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 20.3,
+    "units": 203,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 60.9
+  },
+  "staked": 60.9,
+  "returned": 60.9,
+  "profit": -0.0,
+  "bank": {
+    "start": -89.59,
+    "end": -89.59,
+    "next_stake": 18.1,
+    "ladder": [
+      54,
+      70,
+      89,
+      127
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

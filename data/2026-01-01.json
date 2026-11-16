@@ -1,0 +1,159 @@
+{
+  "date": "2026-01-01",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:30",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Juvenile Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 124y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Falls Of Acharn",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Freddie Gingell",
+          "trainer": "P F Nicholls",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.36,
+          "bank": 10.36
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet A Good Bet Hogmaneigh Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 3f 171y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fasol",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Miss Olive Nicholls",
+          "trainer": "P F Nicholls",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.72,
+          "bank": 11.08
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Auld Reekie Handicap Chase (GBB Race)",
+      "class": "2",
+      "distance": "2m 4f 68y",
+      "going": "Good to Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Kalooki Kid",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Callum Bewley",
+          "trainer": "N G Richards",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 10.78
+        }
+      ]
+    },
+    {
+      "time": "14:51",
+      "meeting": "Musselburgh",
+      "name": "LiveScore Bet Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 7f 180y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Biglesisback",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Gregor Walkingshaw",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": -0.1,
+          "bank": 10.68
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Supports Safe Gambling Handicap Hurdle",
+      "class": "3",
+      "distance": "1m 7f 124y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cueros",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "Harry Reed",
+          "trainer": "Harry Derham",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 4,
+    "won": 2,
+    "placed": 1,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 5,
+    "bet_horses": 4,
+    "total_stake": 1.2
+  },
+  "staked": 1.2,
+  "returned": 1.88,
+  "profit": 0.68,
+  "bank": {
+    "start": 10.0,
+    "end": 10.68,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

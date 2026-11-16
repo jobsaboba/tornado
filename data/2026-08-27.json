@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-27",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:07",
+      "meeting": "Ffos Las",
+      "name": "EX1 Digital Forensic Services Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Grand Pier",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Vigors",
+          "trainer": "W Greatrex",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 659.7,
+          "profit": 1319.4,
+          "bank": -7530.2
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 659.7,
+    "units": 6597,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 659.7
+  },
+  "staked": 659.7,
+  "returned": 1979.1,
+  "profit": 1319.4,
+  "bank": {
+    "start": -8849.6,
+    "end": -7530.2,
+    "next_stake": 629.2,
+    "ladder": [
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4824,
+      5415
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

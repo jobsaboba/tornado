@@ -1,0 +1,136 @@
+{
+  "date": "2026-02-10",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:35",
+      "meeting": "Ayr",
+      "name": "Join Racing TV Now Conditional Jockeys' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 100y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Burning It Up",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Dominic Hislop",
+          "trainer": "N W Alexander",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 12.37
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "name": "Every Race Live On Racing TV Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f 100y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Apache Tribe",
+          "stars": 5,
+          "odds": "4/6",
+          "jockey": "Mr O McGill",
+          "trainer": "N C Kelly",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.12,
+          "bank": 12.49
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ayr",
+      "name": "Join Racing TV Now Handicap Hurdle",
+      "class": "4",
+      "distance": "3m 70y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kasanova's Dream",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "S Bowen",
+          "trainer": "G Elliott",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:05",
+      "meeting": "Ayr",
+      "name": "Every Race Live On Racing TV Handicap Chase",
+      "class": "5",
+      "distance": "3m 20y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cowboy Cooper",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Craig Nichol",
+          "trainer": "D W Whillans",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "nr": 2,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 4,
+    "bet_horses": 2,
+    "total_stake": 0.6
+  },
+  "staked": 0.6,
+  "returned": 0.42,
+  "profit": -0.18,
+  "bank": {
+    "start": 12.67,
+    "end": 12.49,
+    "next_stake": 0.4,
+    "ladder": [
+      1,
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

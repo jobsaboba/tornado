@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-10",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "20:00",
+      "meeting": "Hamilton",
+      "name": "Hampton By Hilton Hamilton Park Handicap",
+      "class": "6",
+      "distance": "1m 68y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Spirit Catcher",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "C Lee",
+          "trainer": "P A Kirby",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 10.8,
+          "profit": -10.8,
+          "bank": -86.76
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 10.8,
+    "units": 108,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 10.8
+  },
+  "staked": 10.8,
+  "returned": 0.0,
+  "profit": -10.8,
+  "bank": {
+    "start": -75.96,
+    "end": -86.76,
+    "next_stake": 12.7,
+    "ladder": [
+      19,
+      22,
+      38,
+      54,
+      70,
+      89,
+      108
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

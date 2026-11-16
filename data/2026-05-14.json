@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-14",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:58",
+      "meeting": "Perth",
+      "name": "Edinburgh Gin Classic Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good to Soft",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lexington Wood",
+          "stars": 5,
+          "odds": "4/7",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 3.4,
+          "profit": -1.51,
+          "bank": -20.88
+        }
+      ]
+    },
+    {
+      "time": "16:28",
+      "meeting": "Perth",
+      "name": "Edinburgh Gin Open NH Flat Race (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sea Tempest",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "Stan Sheppard",
+          "trainer": "T Lacey",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.4,
+          "profit": -3.4,
+          "bank": -24.28
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.4,
+    "units": 34,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 6.8
+  },
+  "staked": 6.8,
+  "returned": 1.89,
+  "profit": -4.91,
+  "bank": {
+    "start": -19.37,
+    "end": -24.28,
+    "next_stake": 3.8,
+    "ladder": [
+      4,
+      5,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      26,
+      30,
+      34
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

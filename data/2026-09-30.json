@@ -1,0 +1,112 @@
+{
+  "date": "2026-09-30",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:48",
+      "meeting": "Musselburgh",
+      "name": "Invades Day Party Handicap",
+      "class": "6",
+      "distance": "7f 15y",
+      "going": "Good to Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Filey Beach",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "J P Sullivan",
+          "trainer": "Mrs R Carr",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 98.82
+        }
+      ]
+    },
+    {
+      "time": "14:23",
+      "meeting": "Musselburgh",
+      "name": "Dropkicks Split The G Nursery",
+      "class": "5",
+      "distance": "7f 15y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Brandenburg",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "P Mulrennan",
+          "trainer": "Mrs A Duffield",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 98.52
+        }
+      ]
+    },
+    {
+      "time": "14:58",
+      "meeting": "Musselburgh",
+      "name": "Weatherbys Stallion Book Handicap",
+      "class": "4",
+      "distance": "5f 1y",
+      "going": "Good to Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Azuinthejungle",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "Alex Jary",
+          "trainer": "N Tinkler",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 98.22
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 0.9
+  },
+  "staked": 0.9,
+  "returned": 0.0,
+  "profit": -0.9,
+  "bank": {
+    "start": 99.12,
+    "end": 98.22,
+    "next_stake": 0.4,
+    "ladder": [
+      1,
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

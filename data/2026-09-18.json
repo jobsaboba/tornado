@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-18",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:20",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' Fillies' Nursery",
+      "class": "4",
+      "distance": "7f 50y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diplomata",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Tom Marquand",
+          "trainer": "W J Haggas",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 753.8,
+          "profit": 1130.7,
+          "bank": -1369.05
+        }
+      ]
+    },
+    {
+      "time": "12:55",
+      "meeting": "Ayr",
+      "name": "Get Home Safe With Thistle Cabs EBF Nursery",
+      "class": "2",
+      "distance": "6f",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dontlookanyfurther",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Jason Hart",
+          "trainer": "J & S Quinn",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 753.8,
+          "profit": -753.8,
+          "bank": -2122.85
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "name": "British EBF Stallions Harry Rosebery Stakes (Listed)",
+      "class": "1",
+      "distance": "5f",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hickory Lad",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "S H James",
+          "trainer": "Phillip Makin",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 753.8,
+          "profit": -753.8,
+          "bank": -2876.65
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Ayr",
+      "name": "Arran Scottish Sprint EBF Fillies' Stakes (Fillies' & Mares' Listed)",
+      "class": "1",
+      "distance": "5f 110y",
+      "going": "Soft",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Beautiful Diamond",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Pierre-Louis Jamin",
+          "trainer": "K R Burke",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 753.8,
+          "profit": -254.41,
+          "bank": -3131.06
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ayr",
+      "name": "Ladbrokes Ayr Bronze Cup Handicap",
+      "class": "2",
+      "distance": "6f",
+      "going": "Soft",
+      "runners": 24,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eye Of Dubai",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Jason Hart",
+          "trainer": "J & S Quinn",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 753.8,
+          "profit": 3392.1,
+          "bank": 261.04
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "name": "Zenith Ltd Building Partnerships That Last Handicap (Div 1)",
+      "class": "5",
+      "distance": "1m",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kelpie Grey",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "D Tudhope",
+          "trainer": "J S Goldie",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 753.8,
+          "profit": 75.38,
+          "bank": 336.42
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "name": "Zenith Ltd Building Partnerships That Last Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Filly Eilish",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Jason Hart",
+          "trainer": "I Furtado",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 753.8,
+          "profit": -753.8,
+          "bank": -417.38
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Ayr",
+      "name": "Slater Menswear Handicap",
+      "class": "5",
+      "distance": "1m 5f 26y",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cascade Hall",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 753.8,
+          "profit": -314.08,
+          "bank": -731.46
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 8,
+    "races": 8,
+    "settled": 8,
+    "won": 2,
+    "placed": 3,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 753.8,
+    "units": 7538,
+    "horses": 8,
+    "bet_horses": 8,
+    "total_stake": 6030.4
+  },
+  "staked": 6030.4,
+  "returned": 7798.69,
+  "profit": 1768.29,
+  "bank": {
+    "start": -2499.75,
+    "end": -731.46,
+    "next_stake": 376.9,
+    "ladder": [
+      3769
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

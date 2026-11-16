@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-12",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:07",
+      "meeting": "Musselburgh",
+      "name": "No Napier No Party Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 2y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Book Of Life",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Ethan Tindall",
+          "trainer": "P Morris",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 720.1,
+          "profit": -720.1,
+          "bank": -4910.21
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Musselburgh",
+      "name": "EBF Restricted Maiden Stakes (GBB Race)",
+      "class": "4",
+      "distance": "7f 15y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Extragalactic",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Jason Hart",
+          "trainer": "W J Haggas",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 720.1,
+          "profit": -307.68,
+          "bank": -5217.89
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Musselburgh",
+      "name": "Royal Regiment Of Scotland Trophy Nursery",
+      "class": "5",
+      "distance": "5f 1y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Needin' U",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Billy Garritty",
+          "trainer": "M & D Easterby",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 720.1,
+          "profit": -162.02,
+          "bank": -5379.91
+        }
+      ]
+    },
+    {
+      "time": "16:50",
+      "meeting": "Musselburgh",
+      "name": "Jewson Edinburgh Selling Handicap",
+      "class": "5",
+      "distance": "1m 208y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Callianassa",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Pierre-Louis Jamin",
+          "trainer": "B Ellison",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 720.1,
+          "profit": -144.02,
+          "bank": -5523.93
+        }
+      ]
+    },
+    {
+      "time": "17:20",
+      "meeting": "Musselburgh",
+      "name": "Peterhead Fish Market Handicap",
+      "class": "5",
+      "distance": "7f 15y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Black Storm",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Jason Hart",
+          "trainer": "K Scott",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 720.1,
+          "profit": -720.1,
+          "bank": -6244.03
+        }
+      ]
+    },
+    {
+      "time": "18:20",
+      "meeting": "Musselburgh",
+      "name": "Lothian Supply Company Handicap",
+      "class": "6",
+      "distance": "5f 1y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "So Grateful",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Billy Garritty",
+          "trainer": "M & D Easterby",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 720.1,
+          "profit": -720.1,
+          "bank": -6964.13
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "races": 6,
+    "settled": 6,
+    "won": 0,
+    "placed": 3,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 720.1,
+    "units": 7201,
+    "horses": 6,
+    "bet_horses": 6,
+    "total_stake": 4320.6
+  },
+  "staked": 4320.6,
+  "returned": 1546.58,
+  "profit": -2774.02,
+  "bank": {
+    "start": -4190.11,
+    "end": -6964.13,
+    "next_stake": 957.8,
+    "ladder": [
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4824,
+      7201
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

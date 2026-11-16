@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-29",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Horse Sales Syndication Leasing Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 4f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sea Of Charm",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Myla Coppins",
+          "trainer": "G Nicholls",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 5.4,
+          "profit": -5.4,
+          "bank": -12.36
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Chepstow",
+      "name": "Finli Live Your Best Financial Life Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Regulus Black",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Ross Coakley",
+          "trainer": "H Palmer",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 5.4,
+          "profit": 6.08,
+          "bank": -6.28
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Chepstow",
+      "name": "Bill Lewtons 80th Birthday Novice Stakes (GBB/GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 2f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Alfaraz",
+          "stars": 5,
+          "odds": "10/11",
+          "jockey": "David Probert",
+          "trainer": "A M Balding",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 5.4,
+          "profit": -5.4,
+          "bank": -11.68
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Chepstow",
+      "name": "DragonBet Welsh Racing Festival 9-11th October Handicap",
+      "class": "6",
+      "distance": "7f 16y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ajrad",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Lewis Edmunds",
+          "trainer": "B R Millman",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 5.4,
+          "profit": -5.4,
+          "bank": -17.08
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 1,
+    "placed": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 5.4,
+    "units": 54,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 21.6
+  },
+  "staked": 21.6,
+  "returned": 11.48,
+  "profit": -10.12,
+  "bank": {
+    "start": -6.96,
+    "end": -17.08,
+    "next_stake": 7.0,
+    "ladder": [
+      16,
+      19,
+      22,
+      38,
+      54
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-04",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:45",
+      "meeting": "Chepstow",
+      "name": "Dunraven Windows / EBF 'National Hunt' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good-good to soft in places (prec inspection 12pm saturday)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Baron Noir",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Thomas Bellamy",
+          "trainer": "A King",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Chepstow",
+      "name": "Albert Bartlett Triple Crown Series Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good-good to soft in places (prec inspection 12pm saturday)",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Laughing John",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "James Bowen",
+          "trainer": "N J Henderson",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Chepstow",
+      "name": "Ladies Day 2026 Saturday 27th June Open Maiden NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m 16y",
+      "going": "Good-good to soft in places (prec inspection 12pm saturday)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cool Customer",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "J J Burke",
+          "trainer": "F O'Brien",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "nr": 3,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 3,
+    "bet_horses": 0,
+    "total_stake": 0.0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 10.41,
+    "end": 10.41,
+    "next_stake": 0.4,
+    "ladder": [
+      1,
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

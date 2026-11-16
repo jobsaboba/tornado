@@ -1,0 +1,759 @@
+{
+  "date": "2026-11-07",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "11:55",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet Training Series Final Apprentice Handicap (Div 1)",
+      "class": "4",
+      "distance": "7f 6y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Feel The Need",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Donagh Murphy",
+          "trainer": "M Herrington",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.98
+        }
+      ]
+    },
+    {
+      "time": "12:15",
+      "meeting": "Uttoxeter",
+      "name": "Matchbook Signup Get 20% Back On Losses Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 168y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lunar Trix",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Charlie Hammond",
+          "trainer": "S Edmunds",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.17,
+          "bank": 97.81
+        }
+      ]
+    },
+    {
+      "time": "12:25",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet Training Series Final Apprentice Handicap (Div 2)",
+      "class": "4",
+      "distance": "7f 6y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Beauty Choice",
+          "stars": 5,
+          "odds": "40/1",
+          "jockey": "Alfie Redman",
+          "trainer": "M & D Easterby",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.41
+        }
+      ]
+    },
+    {
+      "time": "12:45",
+      "meeting": "Gowran Park",
+      "name": "Gerry Comerford Drilling Beginners Chase",
+      "class": "",
+      "distance": "2m 4f",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Princess Aveen",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Alan O'Sullivan",
+          "trainer": "W R Crawford",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.01
+        }
+      ]
+    },
+    {
+      "time": "12:55",
+      "meeting": "Kelso",
+      "name": "Graeme Todd Memorial Handicap Hurdle (Div 1)",
+      "class": "5",
+      "distance": "2m 4f 189y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "King Horse",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Danny McMenamin",
+          "trainer": "N G Richards",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.36,
+          "bank": 97.37
+        }
+      ]
+    },
+    {
+      "time": "13:15",
+      "meeting": "Aintree",
+      "name": "William Hill Best Odds Guaranteed Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "1m 7f 176y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kadastral",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 96.97
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "name": "Graeme Todd Memorial Handicap Hurdle (Div 2)",
+      "class": "5",
+      "distance": "2m 4f 189y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lester Mail",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Bruce Lynn",
+          "trainer": "N W Alexander",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.06,
+          "bank": 96.91
+        }
+      ]
+    },
+    {
+      "time": "13:35",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet Supports Safer Gambling Nursery",
+      "class": "4",
+      "distance": "6f 2y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Resemblance",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "R L Moore",
+          "trainer": "M L W Bell",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 96.51
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "meeting": "Gowran Park",
+      "name": "PRL Group Maiden Hurdle",
+      "class": "",
+      "distance": "2m 20y",
+      "going": "Good to Yielding",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Brady Hartsfield",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Alex Harvey",
+          "trainer": "J C McConnell",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.06,
+          "bank": 96.45
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Uttoxeter",
+      "name": "Bet 20 Get 40 In Free Bets At matchbook.com Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 7f 70y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Harbour Light",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "N & W Twiston-Davies",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.36,
+          "bank": 96.81
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Southwell",
+      "name": "All-Weather Championship Is Back Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "going": "Standard",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Keats House",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "Rhys Elliott",
+          "trainer": "M & D Easterby",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": 0.16,
+          "bank": 96.97
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet Every Saturday Money Back Wentworth Stakes (Listed)",
+      "class": "1",
+      "distance": "6f 2y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 20,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Coul Angel",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Joanna Mason",
+          "trainer": "M Appleby",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.66,
+          "bank": 97.63
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "name": "AWC Finals Day At Newcastle 26th March Novice Stakes (GBB/GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 13y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Deputy General",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Shane Foley",
+          "trainer": "G Boughey",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.23
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet Daily Price Boosts Irish EBF Gillies Fillies' Stakes (Fillies' And Mares' Listed)",
+      "class": "1",
+      "distance": "1m 2f 43y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "I'm The One",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "S M Levey",
+          "trainer": "J & T Gosden",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 96.83
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Aintree",
+      "name": "Pertemps Network Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "3m 149y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Our Guide",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "J J Burke",
+          "trainer": "Jamie Snowden",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 96.43
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Uttoxeter",
+      "name": "0% Commission For 110 Days At Matchbook Mares' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 207y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Amberelli",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "S Bowen",
+          "trainer": "M Keighley",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.96,
+          "bank": 97.39
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Southwell",
+      "name": "Midnite Building The Future Of Betting Handicap",
+      "class": "6",
+      "distance": "7f 14y",
+      "going": "Standard",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ridger",
+          "stars": 5,
+          "odds": "6/5",
+          "jockey": "Billy Loughnane",
+          "trainer": "Ollie Sangster",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.15,
+          "bank": 97.24
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet November Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 3f 197y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 23,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Alfred Wincham",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "O J Orr",
+          "trainer": "P Neville",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.72,
+          "bank": 97.96
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Gowran Park",
+      "name": "Pat Carroll's Pub Kilkenny Mares Handicap Hurdle (0-100) (Div 1)",
+      "class": "",
+      "distance": "2m 3f 180y",
+      "going": "Good to Yielding",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kate Knows Best",
+          "stars": 5,
+          "odds": "18/1",
+          "jockey": "Ross Sugrue",
+          "trainer": "J P Ryan",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.56
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "name": "Play Lucky Stable With William Hill Handicap Chase (GBB Race)",
+      "class": "2",
+      "distance": "2m 3f 200y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Boombawn",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Uttoxeter",
+      "name": "Download The Matchbook App Mares' Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "1m 7f 168y",
+      "going": "Good",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wise Maiden",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Jack Andrews",
+          "trainer": "T Ellis",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.16
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Kelso",
+      "name": "luckytiger.co.uk Best Odds Guaranteed The Night Before Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 4f 189y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hourman",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Gregor Walkingshaw",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.1,
+          "bank": 97.06
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "name": "ARC All Weather Bonus Is Back EBF 'Confined' Restricted Maiden Stakes",
+      "class": "5",
+      "distance": "6f 16y",
+      "going": "Standard",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Palms Oasis",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Ross Coakley",
+          "trainer": "R Varian",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.48,
+          "bank": 97.54
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Doncaster",
+      "name": "Virgin Bet Daily Extra Places Handicap",
+      "class": "2",
+      "distance": "6f 2y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 22,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crestofdistinction",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "George Bass",
+          "trainer": "J Channon",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 2.64,
+          "bank": 100.18
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Gowran Park",
+      "name": "Pat Carroll's Pub Kilkenny Mares Handicap Hurdle (0-100) (Div 2)",
+      "class": "",
+      "distance": "2m 3f 180y",
+      "going": "Good to Yielding",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Poetic Focus",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Cian Quirke",
+          "trainer": "A Slattery",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 99.78
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "name": "Midnight A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "going": "Standard",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Drish Samphire",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "C Horgan",
+          "trainer": "L A Mullaney",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 99.38
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "name": "AWC Season 14 Has Begun Novice Stakes (GBB Race)",
+      "class": "4",
+      "distance": "4f 214y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Butterfly Beach",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "S D Bowen",
+          "trainer": "Ollie Sangster",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": 0.16,
+          "bank": 99.54
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "4",
+      "distance": "4f 214y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bona Fortuna",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Callum Shepherd",
+          "trainer": "M Appleby",
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 99.14
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "Midnite Built Different Handicap",
+      "class": "6",
+      "distance": "1m 4f 14y",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Masego",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Billy Loughnane",
+          "trainer": "A W Carroll",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.1,
+          "bank": 99.04
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "Join The Midnite Movement Apprentice Handicap",
+      "class": "5",
+      "distance": "2m 102y",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Junkyard Dog",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Cara Tuke",
+          "trainer": "I Jardine",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 98.64
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 30,
+    "races": 30,
+    "settled": 29,
+    "won": 7,
+    "placed": 8,
+    "lost": 14,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 30,
+    "bet_horses": 29,
+    "total_stake": 11.6
+  },
+  "staked": 11.6,
+  "returned": 11.86,
+  "profit": 0.26,
+  "bank": {
+    "start": 98.38,
+    "end": 98.64,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

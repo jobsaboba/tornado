@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-27",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "17:00",
+      "meeting": "Chepstow",
+      "name": "Hayleys Race To Happily Ever After Restricted Novice Stakes (GBB Race)",
+      "class": "5",
+      "distance": "6f 16y",
+      "going": "Good to Firm",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Curious Minx",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Joe Leavy",
+          "trainer": "R Hannon",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 19.7,
+          "profit": -19.7,
+          "bank": -103.89
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 19.7,
+    "units": 197,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 19.7
+  },
+  "staked": 19.7,
+  "returned": 0.0,
+  "profit": -19.7,
+  "bank": {
+    "start": -84.19,
+    "end": -103.89,
+    "next_stake": 26.7,
+    "ladder": [
+      70,
+      89,
+      127,
+      197
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

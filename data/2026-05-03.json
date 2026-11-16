@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-03",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:53",
+      "meeting": "Hamilton",
+      "name": "Aspire Cleaning & Facilities Throughout Scotland Handicap",
+      "class": "5",
+      "distance": "1m 68y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Izzari",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.5,
+          "profit": -2.5,
+          "bank": -12.25
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Hamilton",
+      "name": "Carolyn Murray Birthday Celebrations Handicap",
+      "class": "6",
+      "distance": "6f 6y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Liverpool Star",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "Billy Garritty",
+          "trainer": "M & D Easterby",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.5,
+          "profit": -2.5,
+          "bank": -14.75
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Hamilton",
+      "name": "Hampton By Hilton Hotel Hamilton Park Handicap",
+      "class": "6",
+      "distance": "5f 7y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mount Ruapehu",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.5,
+          "profit": -0.38,
+          "bank": -15.13
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Hamilton",
+      "name": "Racing TV Handicap",
+      "class": "5",
+      "distance": "1m 3f 15y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Alpine Sierra",
+          "stars": 5,
+          "odds": "6/5",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.5,
+          "profit": 1.8,
+          "bank": -13.33
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 1,
+    "placed": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 2.5,
+    "units": 25,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 10.0
+  },
+  "staked": 10.0,
+  "returned": 6.42,
+  "profit": -3.58,
+  "bank": {
+    "start": -9.75,
+    "end": -13.33,
+    "next_stake": 2.8,
+    "ladder": [
+      3,
+      4,
+      5,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      25
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

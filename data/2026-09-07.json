@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-07",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:20",
+      "meeting": "Perth",
+      "name": "Auto Services Perth 24-Hour Recovery Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Castleheath",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "S Bowen",
+          "trainer": "Ciaran Murphy",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 917.1,
+          "profit": -298.06,
+          "bank": -8530.55
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Perth",
+      "name": "www.asp.scot Stellantis Commercial Aftersales Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Follow Charlie",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Murray Dodd",
+          "trainer": "R M Smith",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 917.1,
+          "profit": -183.42,
+          "bank": -8713.97
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Perth",
+      "name": "Auto Services Perth Sales And Rentals Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Down Around",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "S Bowen",
+          "trainer": "G Elliott",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 917.1,
+          "profit": 962.95,
+          "bank": -7751.02
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 2,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 917.1,
+    "units": 9171,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 2751.3
+  },
+  "staked": 2751.3,
+  "returned": 3232.77,
+  "profit": 481.47,
+  "bank": {
+    "start": -8232.49,
+    "end": -7751.02,
+    "next_stake": 818.6,
+    "ladder": [
+      1913,
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4824,
+      6273
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

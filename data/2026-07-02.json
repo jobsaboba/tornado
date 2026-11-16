@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-02",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:18",
+      "meeting": "Perth",
+      "name": "Horizon Group Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Liberty Coach",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Harry Cobden",
+          "trainer": "J & S Quinn",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 28.6,
+          "profit": -7.15,
+          "bank": -129.32
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Perth",
+      "name": "PWA Architecture Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sonyourastar",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 28.6,
+          "profit": -28.6,
+          "bank": -157.92
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Perth",
+      "name": "AEJ Facilities Management Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Loro White",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 2,
+    "won": 0,
+    "placed": 1,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 28.6,
+    "units": 286,
+    "horses": 3,
+    "bet_horses": 2,
+    "total_stake": 57.2
+  },
+  "staked": 57.2,
+  "returned": 21.45,
+  "profit": -35.75,
+  "bank": {
+    "start": -122.17,
+    "end": -157.92,
+    "next_stake": 37.5,
+    "ladder": [
+      89,
+      127,
+      197,
+      286
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

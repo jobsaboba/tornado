@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-23",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:10",
+      "meeting": "Perth",
+      "name": "Download The Free Racing TV App Now Handicap Hurdle (Div 1)",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Joeybottles",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Toby Wynne",
+          "trainer": "O Greenall & J Guerriero",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.3,
+          "profit": -1.3,
+          "bank": 8.04
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Perth",
+      "name": "Download The Free Racing TV App Now Handicap Hurdle (Div 2)",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Soldier's Leap",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Miss Gina Andrews",
+          "trainer": "T Ellis",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.3,
+          "profit": -0.13,
+          "bank": 7.91
+        }
+      ]
+    },
+    {
+      "time": "15:10",
+      "meeting": "Perth",
+      "name": "Scone International Horse Trials Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fouroneohfever",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Elliott England",
+          "trainer": "B Pauling",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.3,
+          "profit": -1.3,
+          "bank": 6.61
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "name": "One Place. Every Race. Racing TV Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Shadowfax Of Rohan",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Charlie Maggs",
+          "trainer": "P Neville",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.3,
+          "profit": -1.3,
+          "bank": 5.31
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Perth",
+      "name": "Every Race Live On Racing TV Conditional Jockeys' Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 180y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Casual Observer",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "Harry Derham",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.3,
+          "profit": -1.3,
+          "bank": 4.01
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 0,
+    "placed": 1,
+    "lost": 4,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1.3,
+    "units": 13,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 6.5
+  },
+  "staked": 6.5,
+  "returned": 1.17,
+  "profit": -5.33,
+  "bank": {
+    "start": 9.34,
+    "end": 4.01,
+    "next_stake": 1.6,
+    "ladder": [
+      3,
+      4,
+      5,
+      7,
+      10,
+      13
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

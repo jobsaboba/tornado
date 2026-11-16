@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-21",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [],
+  "score": {
+    "picks": 0,
+    "races": 0,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 116.3,
+    "units": 1163,
+    "horses": 0,
+    "bet_horses": 0,
+    "total_stake": 0.0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": -311.32,
+    "end": -311.32,
+    "next_stake": 116.3,
+    "ladder": [
+      286,
+      375,
+      464,
+      591,
+      877
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

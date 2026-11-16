@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-24",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:49",
+      "meeting": "Perth",
+      "name": "House Of Bruar Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Expert Analysis",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "Sean Quinlan",
+          "trainer": "J Candlish",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": -0.12,
+          "bank": 97.61
+        }
+      ]
+    },
+    {
+      "time": "14:24",
+      "meeting": "Perth",
+      "name": "Equine Products UK Best Turned Out Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 180y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Another High Five",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "D R Fox",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 97.31
+        }
+      ]
+    },
+    {
+      "time": "14:59",
+      "meeting": "Perth",
+      "name": "Edinburgh Gin Owner Trainer Jockey Awards Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 7f 207y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Al Sayah",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Jack Tudor",
+          "trainer": "N P Mulholland",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 97.01
+        }
+      ]
+    },
+    {
+      "time": "15:34",
+      "meeting": "Perth",
+      "name": "Paul Ferguson's Jumpers To Follow Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Way Maker",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "James Bowen",
+          "trainer": "M Bowen",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": -0.06,
+          "bank": 96.95
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Perth",
+      "name": "A Place For You Here Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tigress Lilly",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "P W Wadge",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 96.65
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 0,
+    "placed": 2,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 1.5
+  },
+  "staked": 1.5,
+  "returned": 0.42,
+  "profit": -1.08,
+  "bank": {
+    "start": 97.73,
+    "end": 96.65,
+    "next_stake": 0.4,
+    "ladder": [
+      1,
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

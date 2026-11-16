@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-11",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "17:30",
+      "meeting": "Hamilton",
+      "name": "David & William McHarg Memorial Maiden Stakes (GBB Race)",
+      "class": "4",
+      "distance": "1m 68y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sheikhnshah",
+          "stars": 5,
+          "odds": "4/9",
+          "jockey": "Ryan Sexton",
+          "trainer": "Miss J A Camacho",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 376.9,
+          "profit": -171.7,
+          "bank": -2656.99
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Hamilton",
+      "name": "Kinrara Distillery Scottish Trophy Handicap",
+      "class": "3",
+      "distance": "1m 1f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Return To Unit",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "S D Bowen",
+          "trainer": "R Varian",
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 376.9,
+          "profit": -376.9,
+          "bank": -3033.89
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Hamilton",
+      "name": "Follow Us On X At HamiltonParkRC Handicap",
+      "class": "5",
+      "distance": "1m 68y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Second Fiddle",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 376.9,
+          "profit": 0.0,
+          "bank": -3033.89
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Hamilton",
+      "name": "Every Race Live On Racing TV Handicap",
+      "class": "4",
+      "distance": "6f 6y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Territorial Knight",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Shane Gray",
+          "trainer": "K A Ryan",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 376.9,
+          "profit": -376.9,
+          "bank": -3410.79
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Hamilton",
+      "name": "Book Your Christmas Party At Hamilton Park Handicap",
+      "class": "6",
+      "distance": "1m 4f 15y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fairydale",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 376.9,
+          "profit": -376.9,
+          "bank": -3787.69
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 0,
+    "placed": 2,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 376.9,
+    "units": 3769,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 1884.5
+  },
+  "staked": 1884.5,
+  "returned": 582.1,
+  "profit": -1302.4,
+  "bank": {
+    "start": -2485.29,
+    "end": -3787.69,
+    "next_stake": 423.3,
+    "ladder": [
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305,
+      3769
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

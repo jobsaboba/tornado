@@ -1,0 +1,90 @@
+{
+  "date": "2026-06-22",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:15",
+      "meeting": "Musselburgh",
+      "name": "Tamper-Proof Handicap",
+      "class": "6",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Qazaq",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Mark Winn",
+          "trainer": "I Jardine",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 16.5,
+          "profit": -4.54,
+          "bank": -82.71
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Musselburgh",
+      "name": "Racing TV Profits Returned To Racing Handicap",
+      "class": "6",
+      "distance": "5f 1y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wee Mary",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "Amie Waugh",
+          "trainer": "J S Goldie",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 16.5,
+          "profit": -6.88,
+          "bank": -89.59
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 2,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 16.5,
+    "units": 165,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 33.0
+  },
+  "staked": 33.0,
+  "returned": 21.58,
+  "profit": -11.42,
+  "bank": {
+    "start": -78.17,
+    "end": -89.59,
+    "next_stake": 20.3,
+    "ladder": [
+      38,
+      54,
+      70,
+      89,
+      127,
+      165
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

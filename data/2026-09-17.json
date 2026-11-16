@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-17",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "name": "Almins Vantage/Lallemand Magniva Classic EBF Novice Stakes (GBB/GBBPlus Race)",
+      "class": "3",
+      "distance": "1m",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bassrah",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Paddy Bradley",
+          "trainer": "C Fellowes",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 766.5,
+          "profit": -766.5,
+          "bank": -6293.93
+        }
+      ]
+    },
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "name": "Brandinghub For Signs & Graphics Handicap",
+      "class": "5",
+      "distance": "5f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 20,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Oriental Prince",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 4,
+          "res": "PLACE",
+          "stake": 766.5,
+          "profit": -38.32,
+          "bank": -6332.25
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' Kilkerran Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Impartiality",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "S H James",
+          "trainer": "Phillip Makin",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 766.5,
+          "profit": -153.3,
+          "bank": -6485.55
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "name": "IDP Supporting Care Through Better Purchasing Handicap (Div 1)",
+      "class": "5",
+      "distance": "1m",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Havana Touch",
+          "stars": 5,
+          "odds": "20/1",
+          "jockey": "Mikey Sheehy",
+          "trainer": "J Butler",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 766.5,
+          "profit": -766.5,
+          "bank": -7252.05
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "name": "IDP Supporting Care Through Better Purchasing Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sailthisshipalone",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Jason Hart",
+          "trainer": "I Furtado",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 766.5,
+          "profit": 3219.3,
+          "bank": -4032.75
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Get Racing Bet Builder Winnings Boosts' Handicap",
+      "class": "6",
+      "distance": "7f 50y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ice Cube",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Saffie Osborne",
+          "trainer": "R Spencer",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 766.5,
+          "profit": 2299.5,
+          "bank": -1733.25
+        }
+      ]
+    },
+    {
+      "time": "16:01",
+      "meeting": "Ayr",
+      "name": "Tennent's Lager Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 5f 26y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Minstrel Knight",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "O J Orr",
+          "trainer": "E Bethell",
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 766.5,
+          "profit": -766.5,
+          "bank": -2499.75
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 7,
+    "won": 2,
+    "placed": 2,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 766.5,
+    "units": 7665,
+    "horses": 7,
+    "bet_horses": 7,
+    "total_stake": 5365.5
+  },
+  "staked": 5365.5,
+  "returned": 8393.18,
+  "profit": 3027.68,
+  "bank": {
+    "start": -5527.43,
+    "end": -2499.75,
+    "next_stake": 753.8,
+    "ladder": [
+      3305,
+      3769,
+      4233
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

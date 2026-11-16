@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-19",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:30",
+      "meeting": "Ayr",
+      "name": "Magners Original Cider Restricted Maiden Stakes (GBB Race)",
+      "class": "5",
+      "distance": "6f",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stoneacre Joe",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Sean Kirrane",
+          "trainer": "T D Easterby",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 13.0,
+          "profit": -13.0,
+          "bank": -99.14
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Ayr",
+      "name": "Au Signature Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fans Favourite",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "C J Whiteley",
+          "trainer": "H Palmer",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 13.0,
+          "profit": 8.58,
+          "bank": -90.56
+        }
+      ]
+    },
+    {
+      "time": "17:40",
+      "meeting": "Ayr",
+      "name": "Millar Callaghan Engineering Handicap",
+      "class": "5",
+      "distance": "7f 50y",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Novak",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Lauren Young",
+          "trainer": "I Jardine",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 13.0,
+          "profit": -13.0,
+          "bank": -103.56
+        }
+      ]
+    },
+    {
+      "time": "18:17",
+      "meeting": "Ayr",
+      "name": "Tennent's Lager Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Star Cast",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Jake Dickson",
+          "trainer": "G Tutty",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 13.0,
+          "profit": 12.68,
+          "bank": -90.88
+        }
+      ]
+    },
+    {
+      "time": "18:52",
+      "meeting": "Ayr",
+      "name": "Outcider Handicap",
+      "class": "6",
+      "distance": "1m",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hunterian",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "A Mullen",
+          "trainer": "C Johnston",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 13.0,
+          "profit": 23.4,
+          "bank": -67.48
+        }
+      ]
+    },
+    {
+      "time": "19:25",
+      "meeting": "Ayr",
+      "name": "Mills Milk Scotland Handicap",
+      "class": "6",
+      "distance": "1m 7f",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gallus Norman",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 13.0,
+          "profit": 27.3,
+          "bank": -40.18
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Ayr",
+      "name": "Good Luck Scotland Classified Stakes",
+      "class": "6",
+      "distance": "1m 5f 26y",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Star Of Emerald",
+          "stars": 5,
+          "odds": "17/2",
+          "jockey": "Cam Hardie",
+          "trainer": "E Bethell",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 13.0,
+          "profit": -13.0,
+          "bank": -53.18
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 7,
+    "won": 4,
+    "placed": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 13.0,
+    "units": 130,
+    "horses": 7,
+    "bet_horses": 7,
+    "total_stake": 91.0
+  },
+  "staked": 91.0,
+  "returned": 123.96,
+  "profit": 32.96,
+  "bank": {
+    "start": -86.14,
+    "end": -53.18,
+    "next_stake": 12.7,
+    "ladder": [
+      38,
+      54,
+      70,
+      89
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

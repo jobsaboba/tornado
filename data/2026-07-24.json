@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-24",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:52",
+      "meeting": "Chepstow",
+      "name": "Apex Transport Planning Summer Sunset / EBF Restricted Maiden Stakes (GBB Race)",
+      "class": "5",
+      "distance": "6f 16y",
+      "going": "Good to Firm",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bossy Angel",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "George Wood",
+          "trainer": "B R Millman",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 116.3,
+          "profit": -116.3,
+          "bank": -427.62
+        }
+      ]
+    },
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "name": "3A's Caravan & Motorhome Classified Stakes",
+      "class": "6",
+      "distance": "1m 14y",
+      "going": "Good to Firm",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Prince Ali",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Zoe Lewis",
+          "trainer": "T Faulkner",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 116.3,
+          "profit": 5.82,
+          "bank": -421.8
+        }
+      ]
+    },
+    {
+      "time": "19:46",
+      "meeting": "Chepstow",
+      "name": "Weir Mechanical Solutions Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Midnight Media",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Ryan Kavanagh",
+          "trainer": "W Muir & C Grassick",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 116.3,
+          "profit": -23.26,
+          "bank": -445.06
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 2,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 116.3,
+    "units": 1163,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 348.9
+  },
+  "staked": 348.9,
+  "returned": 215.16,
+  "profit": -133.74,
+  "bank": {
+    "start": -311.32,
+    "end": -445.06,
+    "next_stake": 144.9,
+    "ladder": [
+      286,
+      375,
+      464,
+      591,
+      877,
+      1163
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

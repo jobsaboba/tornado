@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-12",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:16",
+      "meeting": "Perth",
+      "name": "Saints In The Community Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bold Light",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Gregor Walkingshaw",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 71.8,
+          "profit": -71.8,
+          "bank": -536.09
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 71.8,
+    "units": 718,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 71.8
+  },
+  "staked": 71.8,
+  "returned": 0.0,
+  "profit": -71.8,
+  "bank": {
+    "start": -464.29,
+    "end": -536.09,
+    "next_stake": 84.5,
+    "ladder": [
+      127,
+      197,
+      286,
+      375,
+      464,
+      591,
+      718
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

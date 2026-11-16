@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-16",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:10",
+      "meeting": "Bangor-on-Dee",
+      "name": "Family Fun Day 'National Hunt' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Mojo Risin",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Theo Gillard",
+          "trainer": "D McCain Jnr",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 4.2,
+          "profit": -1.68,
+          "bank": -29.91
+        }
+      ]
+    },
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "name": "Wigan Beer Company Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 123y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dream's Ka",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 4.2,
+          "profit": 6.3,
+          "bank": -23.61
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Bangor-on-Dee",
+      "name": "Remembering Kitty Warburton Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fasol",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Paddy Hanlon",
+          "trainer": "P F Nicholls",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 4.2,
+          "profit": -1.15,
+          "bank": -24.76
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Bangor-on-Dee",
+      "name": "Classic Additions Handicap Chase",
+      "class": "5",
+      "distance": "3m 30y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Special John",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Matt Griffiths",
+          "trainer": "S Thomas",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 4.2,
+          "profit": 7.56,
+          "bank": -17.2
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 2,
+    "placed": 2,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 4.2,
+    "units": 42,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 16.8
+  },
+  "staked": 16.8,
+  "returned": 27.83,
+  "profit": 11.03,
+  "bank": {
+    "start": -28.23,
+    "end": -17.2,
+    "next_stake": 3.9,
+    "ladder": [
+      5,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      26,
+      30,
+      34
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

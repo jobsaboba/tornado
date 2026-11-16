@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-28",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:29",
+      "meeting": "Hamilton",
+      "name": "John MacKenzie And Hamish MacGregor Memorial Handicap",
+      "class": "3",
+      "distance": "1m 68y",
+      "going": "Soft (Heavy in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lir Speciale",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Jason Hart",
+          "trainer": "B Ellison",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.24
+        }
+      ]
+    },
+    {
+      "time": "15:04",
+      "meeting": "Hamilton",
+      "name": "Barbara Ann Letham And Son Johnathan Memorial Handicap",
+      "class": "3",
+      "distance": "5f 7y",
+      "going": "Soft (Heavy in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "City Captain",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "D Tudhope",
+          "trainer": "H Bethell",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.26,
+          "bank": 97.5
+        }
+      ]
+    },
+    {
+      "time": "15:38",
+      "meeting": "Hamilton",
+      "name": "Phoenix Drilling Ground Investigation Handicap",
+      "class": "5",
+      "distance": "5f 7y",
+      "going": "Soft (Heavy in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Impressor",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Connor Beasley",
+          "trainer": "Phillip Makin",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.02,
+          "bank": 97.48
+        }
+      ]
+    },
+    {
+      "time": "16:13",
+      "meeting": "Hamilton",
+      "name": "Annual Members Of Hamilton Park Handicap",
+      "class": "6",
+      "distance": "1m 4f 15y",
+      "going": "Soft (Heavy in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Off Spin",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 1.2,
+          "bank": 98.68
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 2,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 1.6
+  },
+  "staked": 1.6,
+  "returned": 2.64,
+  "profit": 1.04,
+  "bank": {
+    "start": 97.64,
+    "end": 98.68,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

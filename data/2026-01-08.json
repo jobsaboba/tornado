@@ -1,0 +1,185 @@
+{
+  "date": "2026-01-08",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:40",
+      "meeting": "Ffos Las",
+      "name": "BOG On British Racing At DragonBet Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bossman Jack",
+          "stars": 5,
+          "odds": "10/11",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.22,
+          "bank": 10.63
+        }
+      ]
+    },
+    {
+      "time": "13:10",
+      "meeting": "Ffos Las",
+      "name": "Watch All UK Racing On DragonBet Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Giantsgrave",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 10.23
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Ffos Las",
+      "name": "Stream All British Racing On DragonBet Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Heavy",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mumbles",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Ellis Collier",
+          "trainer": "Evan Williams",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 9.83
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ffos Las",
+      "name": "DragonBet BOG On All British Racing Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "2m 7f 177y",
+      "going": "Heavy",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Itseemslikeit",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.6,
+          "bank": 10.43
+        }
+      ]
+    },
+    {
+      "time": "15:10",
+      "meeting": "Ffos Las",
+      "name": "DragonBet Backing British Racing Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 5f 192y",
+      "going": "Heavy",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Welcheston Warrier",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "R Patrick",
+          "trainer": "C Boultbee-Brooks",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Ffos Las",
+      "name": "Bet And Stream British At DragonBet Handicap Hurdle",
+      "class": "5",
+      "distance": "1m 7f 182y",
+      "going": "Heavy",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Out Of Focus",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Isabel Williams",
+          "trainer": "Evan Williams",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 10.03
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "races": 6,
+    "settled": 5,
+    "won": 2,
+    "placed": 0,
+    "lost": 3,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 6,
+    "bet_horses": 5,
+    "total_stake": 2.0
+  },
+  "staked": 2.0,
+  "returned": 1.62,
+  "profit": -0.38,
+  "bank": {
+    "start": 10.41,
+    "end": 10.03,
+    "next_stake": 0.5,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

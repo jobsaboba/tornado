@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-05",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:00",
+      "meeting": "Musselburgh",
+      "name": "Construction & Property Recruitment Handicap",
+      "class": "5",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stoic Poet",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 8.6,
+          "profit": -8.6,
+          "bank": -47.24
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Musselburgh",
+      "name": "Keith Mitchell Law Accountants Handicap",
+      "class": "5",
+      "distance": "1m 208y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Amidst The Chaos",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Alex Jary",
+          "trainer": "N Tinkler",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 8.6,
+          "profit": -2.9,
+          "bank": -50.14
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 8.6,
+    "units": 86,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 17.2
+  },
+  "staked": 17.2,
+  "returned": 5.7,
+  "profit": -11.5,
+  "bank": {
+    "start": -38.64,
+    "end": -50.14,
+    "next_stake": 10.2,
+    "ladder": [
+      16,
+      19,
+      22,
+      38,
+      54,
+      70,
+      86
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

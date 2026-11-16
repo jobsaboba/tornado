@@ -1,0 +1,139 @@
+{
+  "date": "2026-07-27",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:45",
+      "meeting": "Ayr",
+      "name": "'Ladbrokes Get More With Racing Bet Builder' Handicap",
+      "class": "6",
+      "distance": "6f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kelpie Grey",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Amie Waugh",
+          "trainer": "J S Goldie",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 144.9,
+          "profit": -144.9,
+          "bank": -589.96
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Get More With Ladbucks' Handicap",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good to Firm (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Runninsonofagun",
+          "stars": 5,
+          "odds": "8/15",
+          "jockey": "Jason Hart",
+          "trainer": "T Davidson",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 144.9,
+          "profit": -64.72,
+          "bank": -654.68
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Get Extra Places On Selected Races' Handicap",
+      "class": "6",
+      "distance": "5f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ski Angel",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "Amie Waugh",
+          "trainer": "R M Smith",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 144.9,
+          "profit": -144.9,
+          "bank": -799.58
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Free Rewards With Instant Spins' Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Firm (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Falcon Nine",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "K Shoemark",
+          "trainer": "I Jardine",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 144.9,
+          "profit": -14.49,
+          "bank": -814.07
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 0,
+    "placed": 2,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 144.9,
+    "units": 1449,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 579.6
+  },
+  "staked": 579.6,
+  "returned": 210.59,
+  "profit": -369.01,
+  "bank": {
+    "start": -445.06,
+    "end": -814.07,
+    "next_stake": 173.5,
+    "ladder": [
+      286,
+      375,
+      464,
+      591,
+      877,
+      1163,
+      1449
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

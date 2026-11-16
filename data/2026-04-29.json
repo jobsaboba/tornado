@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-29",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:40",
+      "meeting": "Musselburgh",
+      "name": "Edinburgh Rugby Handicap",
+      "class": "6",
+      "distance": "1m 4f 104y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "As Fast As Wind",
+          "stars": 5,
+          "odds": "4/7",
+          "jockey": "Rowan Scott",
+          "trainer": "T Davidson",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.2,
+          "profit": 0.75,
+          "bank": -5.24
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Musselburgh",
+      "name": "Hibernian Community Foundation Handicap",
+      "class": "4",
+      "distance": "5f 1y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rosenpur",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J Candlish",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.2,
+          "profit": -2.2,
+          "bank": -7.44
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet A Good Bet Handicap",
+      "class": "5",
+      "distance": "7f 15y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Qazaq",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Greg Fairley",
+          "trainer": "I Jardine",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.2,
+          "profit": -2.2,
+          "bank": -9.64
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Musselburgh",
+      "name": "Livescore Bet Handicap",
+      "class": "6",
+      "distance": "7f 15y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Gay Blade",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.2,
+          "profit": -0.11,
+          "bank": -9.75
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 1,
+    "placed": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 2.2,
+    "units": 22,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 8.8
+  },
+  "staked": 8.8,
+  "returned": 5.04,
+  "profit": -3.76,
+  "bank": {
+    "start": -5.99,
+    "end": -9.75,
+    "next_stake": 2.5,
+    "ladder": [
+      3,
+      4,
+      5,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

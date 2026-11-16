@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-15",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:50",
+      "meeting": "Perth",
+      "name": "IM Group Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lets Mingle",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Jack Power",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 469.7,
+          "profit": -469.7,
+          "bank": -5103.99
+        }
+      ]
+    },
+    {
+      "time": "14:32",
+      "meeting": "Perth",
+      "name": "Malcolm Group Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Broken Ice",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Alex Harvey",
+          "trainer": "J C McConnell",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 469.7,
+          "profit": -78.28,
+          "bank": -5182.27
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Perth",
+      "name": "Scone Estates Stone Of Destiny Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 47y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pure Gold",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Peter Kavanagh",
+          "trainer": "Miss L Harrison",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 469.7,
+          "profit": -469.7,
+          "bank": -5651.97
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 469.7,
+    "units": 4697,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 1409.1
+  },
+  "staked": 1409.1,
+  "returned": 391.42,
+  "profit": -1017.68,
+  "bank": {
+    "start": -4634.29,
+    "end": -5651.97,
+    "next_stake": 516.1,
+    "ladder": [
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4697
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "date": "2026-04-11",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:05",
+      "meeting": "Chepstow",
+      "name": "Tiptop Duel Flush Mares' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tenter Le Tout",
+          "stars": 5,
+          "odds": "1/2",
+          "jockey": "Freddie Gingell",
+          "trainer": "Chester Williams",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 0.21,
+          "bank": 10.44
+        }
+      ]
+    },
+    {
+      "time": "13:15",
+      "meeting": "Chepstow",
+      "name": "Tiptop Clean Convenience Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cosmic Connection",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Bryan Carver",
+          "trainer": "C Gordon",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 1.15,
+          "bank": 11.59
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "meeting": "Chepstow",
+      "name": "Tiptop Lavish Latrine Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 136y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Boola Boss",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Paul O'Brien",
+          "trainer": "Miss R Curtis",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 0.79,
+          "bank": 12.38
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Chepstow",
+      "name": "Tiptop Portable Event Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Thorgath",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Cameron Iles",
+          "trainer": "T Lacey",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.7,
+          "profit": -0.07,
+          "bank": 12.31
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 3,
+    "placed": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.7,
+    "units": 7,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 2.8
+  },
+  "staked": 2.8,
+  "returned": 4.88,
+  "profit": 2.08,
+  "bank": {
+    "start": 10.23,
+    "end": 12.31,
+    "next_stake": 0.7,
+    "ladder": [
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

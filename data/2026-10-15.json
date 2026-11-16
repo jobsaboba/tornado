@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-15",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "11:55",
+      "meeting": "Perth",
+      "name": "Join Racing TV Now Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ar Ais Aris",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "D R Fox",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.1,
+          "bank": 98.92
+        }
+      ]
+    },
+    {
+      "time": "12:55",
+      "meeting": "Perth",
+      "name": "Racing TV Profits Returned To Racing Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Old Habits",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.18,
+          "bank": 98.74
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Perth",
+      "name": "Every Irish Race Live On RacingTV Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Magnolia",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Joshua Thompson",
+          "trainer": "Micky Hammond",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.15,
+          "bank": 98.59
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Perth",
+      "name": "RacingTV, Home Of Live Racing Handicap Chase (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "2m 4f 20y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hombre De Guerra",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "P W Wadge",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 98.09
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 0,
+    "placed": 3,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.5,
+    "units": 5,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 2.0
+  },
+  "staked": 2.0,
+  "returned": 1.07,
+  "profit": -0.93,
+  "bank": {
+    "start": 99.02,
+    "end": 98.09,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

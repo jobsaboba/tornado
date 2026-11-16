@@ -1,0 +1,135 @@
+{
+  "date": "2026-01-30",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "name": "tigerbet.co.uk Price Boosts Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Heavy (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Buddy Holly",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "N de Boinville",
+          "trainer": "N J Henderson",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 10.55
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "meeting": "Ffos Las",
+      "name": "tigerbet.co.uk Best Odds Guaranteed Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Heavy (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Turenne",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.17,
+          "bank": 10.38
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "name": "tigerbet.co.uk Extra Places Paid Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 191y",
+      "going": "Heavy (Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Klic Boum",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Miss Eleanor Williams",
+          "trainer": "Evan Williams",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.06,
+          "bank": 10.32
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Ffos Las",
+      "name": "tigerbet.co.uk Money Back Specials Mares' Handicap Chase",
+      "class": "5",
+      "distance": "2m 3f 83y",
+      "going": "Heavy",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stamina Chope",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Lee Edwards",
+          "trainer": "Dave Roberts",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 1.8,
+          "bank": 12.12
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 1,
+    "placed": 2,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 1.6
+  },
+  "staked": 1.6,
+  "returned": 2.77,
+  "profit": 1.17,
+  "bank": {
+    "start": 10.95,
+    "end": 12.12,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

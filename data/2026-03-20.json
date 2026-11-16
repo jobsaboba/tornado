@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-20",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "name": "Racing Post+ Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 1f 87y",
+      "going": "Good to Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Alsakib",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Theo Gillard",
+          "trainer": "D McCain Jnr",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.1,
+          "profit": 1.49,
+          "bank": 11.88
+        }
+      ]
+    },
+    {
+      "time": "15:22",
+      "meeting": "Musselburgh",
+      "name": "Racing Post+ Subscription Go North Sea Pigeon Hurdle Series Final (Handicap Hurdle) (GBB Race)",
+      "class": "2",
+      "distance": "2m 1f 87y",
+      "going": "Good to Soft",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Disco Annie",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "Nathan Moscrop",
+          "trainer": "R Menzies",
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 10.78
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Musselburgh",
+      "name": "Racing Post+ Ultimate Go North Brindisi Breeze Hurdle Series Final (Handicap Hurdle) (GBB Race)",
+      "class": "2",
+      "distance": "2m 7f 180y",
+      "going": "Good to Soft",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dearkeithandkaty",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Jonjo O'Neill Jr.",
+          "trainer": "J & A O'Neill",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.1,
+          "profit": -0.39,
+          "bank": 10.39
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1.1,
+    "units": 11,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 3.3
+  },
+  "staked": 3.3,
+  "returned": 3.3,
+  "profit": -0.0,
+  "bank": {
+    "start": 10.39,
+    "end": 10.39,
+    "next_stake": 1.0,
+    "ladder": [
+      3,
+      5,
+      7
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

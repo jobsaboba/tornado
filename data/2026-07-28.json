@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-28",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "17:00",
+      "meeting": "Ffos Las",
+      "name": "Support Our Local On-Course Bookmakers Nursery",
+      "class": "6",
+      "distance": "7f 80y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jazzy Bay",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Callum Hutchinson",
+          "trainer": "Eve Johnson Houghton",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 173.5,
+          "profit": -173.5,
+          "bank": -987.57
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ffos Las",
+      "name": "Alan Bennett Racing/Keith Davies Handicap",
+      "class": "6",
+      "distance": "1m 3f 209y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pureis King",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Callum Hutchinson",
+          "trainer": "Faye Bramley",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 173.5,
+          "profit": -173.5,
+          "bank": -1161.07
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ffos Las",
+      "name": "Jack Bevan & Co/Pinno Bookmakers Handicap",
+      "class": "6",
+      "distance": "6f",
+      "going": "Good (Good to Firm in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamondsinthesand",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Taryn Langley",
+          "trainer": "A Wintle",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 173.5,
+          "profit": -173.5,
+          "bank": -1334.57
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 173.5,
+    "units": 1735,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 520.5
+  },
+  "staked": 520.5,
+  "returned": 0.0,
+  "profit": -520.5,
+  "bank": {
+    "start": -814.07,
+    "end": -1334.57,
+    "next_stake": 202.1,
+    "ladder": [
+      286,
+      375,
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1735
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

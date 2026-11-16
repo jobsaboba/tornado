@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-23",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:12",
+      "meeting": "Perth",
+      "name": "Harvesting What Matters Most Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Chicker",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Fern O'Brien",
+          "trainer": "F O'Brien",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1507.6,
+          "profit": -339.21,
+          "bank": -5254.25
+        }
+      ]
+    },
+    {
+      "time": "13:47",
+      "meeting": "Perth",
+      "name": "Lord Mansfield Memorial Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Frontier Prince",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Jack Hogan",
+          "trainer": "F O'Brien",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1507.6,
+          "profit": 4522.8,
+          "bank": -731.45
+        }
+      ]
+    },
+    {
+      "time": "14:22",
+      "meeting": "Perth",
+      "name": "Bet With The Dewhurst Ring Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Magnolia",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Joshua Thompson",
+          "trainer": "Micky Hammond",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1507.6,
+          "profit": -75.38,
+          "bank": -806.83
+        }
+      ]
+    },
+    {
+      "time": "15:32",
+      "meeting": "Perth",
+      "name": "Thank You To Kinneston Owners Handicap Chase",
+      "class": "5",
+      "distance": "2m 4f 20y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Delgany Second Now",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1507.6,
+          "profit": 1130.7,
+          "bank": 323.87
+        }
+      ]
+    },
+    {
+      "time": "16:07",
+      "meeting": "Perth",
+      "name": "Nairn's Oatcakes Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 207y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Forest Spirit",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "James Bowen",
+          "trainer": "M Bowen",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1507.6,
+          "profit": -226.14,
+          "bank": 97.73
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 2,
+    "placed": 3,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1507.6,
+    "units": 15076,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 7538.0
+  },
+  "staked": 7538.0,
+  "returned": 12550.77,
+  "profit": 5012.77,
+  "bank": {
+    "start": -4915.04,
+    "end": 97.73,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

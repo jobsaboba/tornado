@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-11",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:02",
+      "meeting": "Chepstow",
+      "name": "DragonBet Daily Extra Place Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ugo Bingo",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Brendan Powell",
+          "trainer": "J Tizzard",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.27,
+          "bank": 101.12
+        }
+      ]
+    },
+    {
+      "time": "14:12",
+      "meeting": "Chepstow",
+      "name": "DragonBet Best Odds Guaranteed Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 131y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Harbour Light",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "N & W Twiston-Davies",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.36,
+          "bank": 101.48
+        }
+      ]
+    },
+    {
+      "time": "14:47",
+      "meeting": "Chepstow",
+      "name": "DragonBet Cefnogi Rasio Ceffylau Cymreig Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 7f 131y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tune In A Box",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Stan Sheppard",
+          "trainer": "T Lacey",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 101.18
+        }
+      ]
+    },
+    {
+      "time": "15:22",
+      "meeting": "Chepstow",
+      "name": "DragonBet Born In Wales Seniors' Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dr T J Eckleburg",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "Conor Ring",
+          "trainer": "Mrs C Williams",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 100.88
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 2,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 1.2
+  },
+  "staked": 1.2,
+  "returned": 1.23,
+  "profit": 0.03,
+  "bank": {
+    "start": 100.85,
+    "end": 100.88,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-25",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "18:30",
+      "meeting": "Hamilton",
+      "name": "Patersons Of Greenoakhill Handicap",
+      "class": "3",
+      "distance": "5f 7y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Woohoo",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 18.1,
+          "profit": -18.1,
+          "bank": -107.69
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 18.1,
+    "units": 181,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 18.1
+  },
+  "staked": 18.1,
+  "returned": 0.0,
+  "profit": -18.1,
+  "bank": {
+    "start": -89.59,
+    "end": -107.69,
+    "next_stake": 23.5,
+    "ladder": [
+      54,
+      70,
+      89,
+      127,
+      181
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

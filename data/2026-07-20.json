@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-20",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "name": "Fergie & Myra Happel Ayr Gold Cup Trial Handicap",
+      "class": "3",
+      "distance": "6f",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jordan Electrics",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 87.7,
+          "profit": 144.71,
+          "bank": -135.92
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "name": "John Hamilton ScotRail Celebration Handicap",
+      "class": "5",
+      "distance": "1m",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Benacre",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Oliver Stammers",
+          "trainer": "C Johnston",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 87.7,
+          "profit": -87.7,
+          "bank": -223.62
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "name": "Try Racing TV For Free Now Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Firm",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Motawaared",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 87.7,
+          "profit": -87.7,
+          "bank": -311.32
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 87.7,
+    "units": 877,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 263.1
+  },
+  "staked": 263.1,
+  "returned": 232.41,
+  "profit": -30.69,
+  "bank": {
+    "start": -280.63,
+    "end": -311.32,
+    "next_stake": 116.3,
+    "ladder": [
+      286,
+      375,
+      464,
+      591,
+      877
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

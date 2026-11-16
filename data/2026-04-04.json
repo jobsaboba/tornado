@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-04",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:55",
+      "meeting": "Musselburgh",
+      "name": "LiveScore Bet Silver Arrow Handicap",
+      "class": "2",
+      "distance": "7f 15y",
+      "going": "Good to Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Midnight Gun",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "James Doyle",
+          "trainer": "H Al Jehani",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 9.81
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Daily Price Boost Queen's Cup Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 5f 216y",
+      "going": "Soft",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sportingsilvermine",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "Cieren Fallon",
+          "trainer": "James Owen",
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 9.21
+        }
+      ]
+    },
+    {
+      "time": "14:42",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Scottish Sprint Cup Handicap",
+      "class": "2",
+      "distance": "5f 1y",
+      "going": "Soft",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Democracy Dilemma",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Rossa Ryan",
+          "trainer": "R M H Cowell",
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 8.61
+        }
+      ]
+    },
+    {
+      "time": "15:12",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Supports Safe Gambling EBF Restricted Maiden Stakes (GBB Race)",
+      "class": "4",
+      "distance": "5f 1y",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Super Alpha",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Callum Shepherd",
+          "trainer": "C Johnston",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.6,
+          "profit": 0.18,
+          "bank": 8.79
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Musselburgh",
+      "name": "LiveScore Bet A Total Betting Experience Handicap",
+      "class": "4",
+      "distance": "5f 1y",
+      "going": "Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wheels Of Fire",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "S M Levey",
+          "trainer": "R Hannon",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.6,
+          "profit": 1.44,
+          "bank": 10.23
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 1,
+    "placed": 1,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.6,
+    "units": 6,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 3.0
+  },
+  "staked": 3.0,
+  "returned": 2.82,
+  "profit": -0.18,
+  "bank": {
+    "start": 10.41,
+    "end": 10.23,
+    "next_stake": 0.7,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

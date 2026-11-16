@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-21",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:25",
+      "meeting": "Musselburgh",
+      "name": "Never Standing Still Handicap",
+      "class": "3",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wild Nature",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "O J Orr",
+          "trainer": "E Bethell",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.6,
+          "profit": 0.9,
+          "bank": 0.07
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Horse Sales Syndication Leasing Restricted Maiden Stakes (GBB Race)",
+      "class": "4",
+      "distance": "6f 16y",
+      "going": "Good to Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Green Titan",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Billy Loughnane",
+          "trainer": "G Boughey",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 3.6,
+          "profit": -3.6,
+          "bank": -3.53
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Musselburgh",
+      "name": "Every Race Live On Racing TV Handicap",
+      "class": "6",
+      "distance": "5f 1y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Invincible Crown",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "T Eaves",
+          "trainer": "Mrs R Carr",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.6,
+          "profit": -3.6,
+          "bank": -7.13
+        }
+      ]
+    },
+    {
+      "time": "18:10",
+      "meeting": "Chepstow",
+      "name": "Treble Odds L15s At David Lucas Handicap",
+      "class": "5",
+      "distance": "7f 16y",
+      "going": "Good to Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Opening Bat",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Billy Loughnane",
+          "trainer": "Harry Charlton",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 3.6,
+          "profit": -3.6,
+          "bank": -10.73
+        }
+      ]
+    },
+    {
+      "time": "18:40",
+      "meeting": "Chepstow",
+      "name": "Get Raceday Ready With Lucas Bookies Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "going": "Good to Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dancing With Drums",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Charles Bishop",
+          "trainer": "Adam Kirby",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.6,
+          "profit": -0.18,
+          "bank": -10.91
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 0,
+    "placed": 2,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.6,
+    "units": 36,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 18.0
+  },
+  "staked": 18.0,
+  "returned": 7.92,
+  "profit": -10.08,
+  "bank": {
+    "start": -0.83,
+    "end": -10.91,
+    "next_stake": 4.6,
+    "ladder": [
+      10,
+      13,
+      16,
+      19,
+      22,
+      26,
+      36
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

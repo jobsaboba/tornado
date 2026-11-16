@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-04",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:05",
+      "meeting": "Musselburgh",
+      "name": "Veronika Walker: Moments That Matter Handicap",
+      "class": "5",
+      "distance": "5f 1y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Alnofoor",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Shane Gray",
+          "trainer": "C O'Connell",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.45,
+          "bank": 100.67
+        }
+      ]
+    },
+    {
+      "time": "12:35",
+      "meeting": "Musselburgh",
+      "name": "British Stallion Studs EBF Restricted Maiden Stakes (GBB Race)",
+      "class": "2",
+      "distance": "7f 15y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sequoiadendron",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "P Mulrennan",
+          "trainer": "R Hannon",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 100.17
+        }
+      ]
+    },
+    {
+      "time": "12:51",
+      "meeting": "Chepstow",
+      "name": "Free Tips On attheraces.com Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Red Acres Max",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.21,
+          "bank": 99.96
+        }
+      ]
+    },
+    {
+      "time": "13:10",
+      "meeting": "Musselburgh",
+      "name": "Burton Roofing Merchants Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 4f 104y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Flying Moonlight",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Greg Fairley",
+          "trainer": "A M Thomson",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.68,
+          "bank": 100.64
+        }
+      ]
+    },
+    {
+      "time": "13:25",
+      "meeting": "Chepstow",
+      "name": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Order On Time",
+          "stars": 5,
+          "odds": "1/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "P F Nicholls",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.23,
+          "bank": 100.41
+        }
+      ]
+    },
+    {
+      "time": "13:42",
+      "meeting": "Musselburgh",
+      "name": "Burton Roofing Merchants Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 4f 104y",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Idyllic",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "Greg Fairley",
+          "trainer": "W Storey",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 99.91
+        }
+      ]
+    },
+    {
+      "time": "13:58",
+      "meeting": "Chepstow",
+      "name": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "A Sight To Sea",
+          "stars": 5,
+          "odds": "4/7",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.17,
+          "bank": 100.08
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Musselburgh",
+      "name": "Hibernian FC Emerald Club Handicap",
+      "class": "5",
+      "distance": "1m 2y",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cavallo Pazzo",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Shane Gray",
+          "trainer": "D Bourke",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 99.58
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Chepstow",
+      "name": "DragonBet Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 98y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Mcwhinny",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Jack Andrews",
+          "trainer": "T Ellis",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:17",
+      "meeting": "Musselburgh",
+      "name": "Nairns Oatcakes Handicap",
+      "class": "3",
+      "distance": "7f 15y",
+      "going": "Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Resdev Scholar",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Joanna Mason",
+          "trainer": "M & D Easterby",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.9,
+          "bank": 100.48
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Musselburgh",
+      "name": "Thank You For The Fun Gweedore Handicap",
+      "class": "5",
+      "distance": "7f 15y",
+      "going": "Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wobwobwob",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Mikey Sheehy",
+          "trainer": "A Keatley",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 99.98
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Chepstow",
+      "name": "Dunraven Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Don't Panic",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "P F Nicholls",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.75,
+          "bank": 100.73
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 12,
+    "races": 12,
+    "settled": 11,
+    "won": 5,
+    "placed": 2,
+    "lost": 4,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.5,
+    "units": 5,
+    "horses": 12,
+    "bet_horses": 11,
+    "total_stake": 5.5
+  },
+  "staked": 5.5,
+  "returned": 6.01,
+  "profit": 0.51,
+  "bank": {
+    "start": 100.22,
+    "end": 100.73,
+    "next_stake": 0.2,
+    "ladder": [
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

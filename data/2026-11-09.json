@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-09",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:00",
+      "meeting": "Punchestown",
+      "name": "Matchbook Betting Exchange Handicap Chase (0-100)",
+      "class": "",
+      "distance": "3m 70y",
+      "going": "Good to Yielding",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Western Model",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Sean O'Keeffe",
+          "trainer": "A Kinirons",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "profit": 0.54,
+          "bank": 99.34
+        }
+      ]
+    },
+    {
+      "time": "12:20",
+      "meeting": "Carlisle",
+      "name": "Racing TV Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 1f 33y",
+      "going": "Good to Soft",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Poets Whisper",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Danny McMenamin",
+          "trainer": "N G Richards",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": -0.07,
+          "bank": 99.27
+        }
+      ]
+    },
+    {
+      "time": "13:00",
+      "meeting": "Punchestown",
+      "name": "Irish Stallion Farms EBF Fillies Academy Hurdle",
+      "class": "",
+      "distance": "2m 2f 132y",
+      "going": "Good to Yielding",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Glenageary",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Sean O'Keeffe",
+          "trainer": "W P Mullins",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.07
+        }
+      ]
+    },
+    {
+      "time": "13:10",
+      "meeting": "Stratford",
+      "name": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 70y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eastern Fire",
+          "stars": 5,
+          "odds": "8/15",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "profit": 0.06,
+          "bank": 99.13
+        }
+      ]
+    },
+    {
+      "time": "13:20",
+      "meeting": "Carlisle",
+      "name": "Fatty Renshaw Memorial Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 218y",
+      "going": "Good to Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Matching Energy",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Callum Bewley",
+          "trainer": "D Bourke",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Punchestown",
+      "name": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
+      "class": "",
+      "distance": "1m 7f 187y",
+      "going": "Good to Yielding",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Borora Aura",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Thomas O'Connor",
+          "trainer": "Gerard O'Leary",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": -0.01,
+          "bank": 99.12
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Stratford",
+      "name": "Jumps Look Better On Racing TV Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "2m 6f 125y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Major Fortune",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": -0.03,
+          "bank": 99.09
+        }
+      ]
+    },
+    {
+      "time": "14:27",
+      "meeting": "Carlisle",
+      "name": "Christmas Community Raceday 13th December Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 1f 33y",
+      "going": "Good to Soft",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gaelic Glow",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Jonathan England",
+          "trainer": "S England",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.89
+        }
+      ]
+    },
+    {
+      "time": "14:38",
+      "meeting": "Punchestown",
+      "name": "Matchbook Betting Exchange Handicap Hurdle",
+      "class": "",
+      "distance": "1m 7f 187y",
+      "going": "Good to Yielding",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sea Eagle",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Thomas O'Connor",
+          "trainer": "Gerard O'Leary",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "profit": 0.6,
+          "bank": 99.49
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Punchestown",
+      "name": "Matchbook 50/50 Series Mares Maiden Hurdle",
+      "class": "",
+      "distance": "2m 4f 164y",
+      "going": "Good to Yielding",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Brickfield Belle",
+          "stars": 5,
+          "odds": "4/9",
+          "jockey": "Darragh O'Keeffe",
+          "trainer": "H De Bromhead",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Carlisle",
+      "name": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m 1f 33y",
+      "going": "Good to Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lady Jetfire",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "profit": 0.1,
+          "bank": 99.59
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Punchestown",
+      "name": "Matchbook Betting Exchange Handicap Hurdle (0-100)",
+      "class": "",
+      "distance": "2m 4f 164y",
+      "going": "Good to Yielding",
+      "runners": 22,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tudorista",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Cian Quirke",
+          "trainer": "Edward F Power",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.39
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 12,
+    "races": 12,
+    "settled": 10,
+    "won": 4,
+    "placed": 3,
+    "lost": 3,
+    "nr": 2,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.2,
+    "units": 2,
+    "horses": 12,
+    "bet_horses": 10,
+    "total_stake": 2.0
+  },
+  "staked": 2.0,
+  "returned": 2.59,
+  "profit": 0.59,
+  "bank": {
+    "start": 98.8,
+    "end": 99.39,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

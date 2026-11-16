@@ -1,0 +1,260 @@
+{
+  "date": "2026-04-18",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:17",
+      "meeting": "Bangor-on-Dee",
+      "name": "Broxton Gates Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Senator",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.1,
+          "profit": -0.44,
+          "bank": 10.1
+        }
+      ]
+    },
+    {
+      "time": "12:52",
+      "meeting": "Bangor-on-Dee",
+      "name": "Gieves & Hawkes Novices' Handicap Chase",
+      "class": "5",
+      "distance": "3m 30y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Streamsforth Lad",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "G Sheehan",
+          "trainer": "G Hanmer",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.1,
+          "profit": -0.37,
+          "bank": 9.73
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "name": "Jordan Electrics Ltd Seafield Trophy Mares' Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "3m 70y",
+      "going": "Heavy (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Twistthenightaway",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "name": "Coral Scottish Grand National Handicap Chase (Premier Handicap) (GBB Race)",
+      "class": "1",
+      "distance": "3m 7f 176y",
+      "going": "Heavy (Soft in places)",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kim Roque",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "J J Slevin",
+          "trainer": "J P O'Brien",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.1,
+          "profit": -0.11,
+          "bank": 9.62
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Bangor-on-Dee",
+      "name": "Keegans Independent Drinks Suppliers Handicap Hurdle (Div 2)",
+      "class": "4",
+      "distance": "2m 3f 123y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamond Jim",
+          "stars": 5,
+          "odds": "17/2",
+          "jockey": "C J Todd",
+          "trainer": "O Greenall & J Guerriero",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 8.52
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "name": "Stagecoach Your Designated Driver Novices' Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 5f 91y",
+      "going": "Heavy (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "West Hill Verde",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Sean Houlihan",
+          "trainer": "J W Mullins",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.1,
+          "profit": 0.0,
+          "bank": 8.52
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Bangor-on-Dee",
+      "name": "Overton Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 7f 32y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dwight K Schrute",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 7.42
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ayr",
+      "name": "Golf Inn Prestwick Luxury Accommodation Open NH Flat Race (GBB Race)",
+      "class": "2",
+      "distance": "2m",
+      "going": "Heavy (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Keops Des Bordes",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 6.32
+        }
+      ]
+    },
+    {
+      "time": "16:17",
+      "meeting": "Bangor-on-Dee",
+      "name": "Family Funday On 16th May 'Junior' NH Flat Race (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Longlands",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "N de Boinville",
+          "trainer": "N J Henderson",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 5.22
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 9,
+    "races": 9,
+    "settled": 8,
+    "won": 0,
+    "placed": 4,
+    "lost": 4,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1.1,
+    "units": 11,
+    "horses": 9,
+    "bet_horses": 8,
+    "total_stake": 8.8
+  },
+  "staked": 8.8,
+  "returned": 3.48,
+  "profit": -5.32,
+  "bank": {
+    "start": 10.54,
+    "end": 5.22,
+    "next_stake": 1.3,
+    "ladder": [
+      2,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      11
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

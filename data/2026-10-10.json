@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-10",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:35",
+      "meeting": "Chepstow",
+      "name": "DragonBet Best Odds Guaranteed Juvenile Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Confused",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Harry Cobden",
+          "trainer": "Faye Bramley",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 95.23
+        }
+      ]
+    },
+    {
+      "time": "13:10",
+      "meeting": "Chepstow",
+      "name": "Paul Ferguson's Jumpers To Follow 'Four Years Old' Hurdle (Limited Handicap) (GBB Race)",
+      "class": "2",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Made U Blush",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:45",
+      "meeting": "Chepstow",
+      "name": "DragonBet Backing Welsh Racing Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stick To The Board",
+          "stars": 5,
+          "odds": "4/5",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "P F Nicholls",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.7,
+          "profit": -0.29,
+          "bank": 94.94
+        },
+        {
+          "rank": 2,
+          "horse": "Hitintheheadlines",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 5.88,
+          "bank": 100.82
+        }
+      ]
+    },
+    {
+      "time": "14:22",
+      "meeting": "Chepstow",
+      "name": "McCarthy Construction Mares' Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Only One Blue",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Freddie Mitchell",
+          "trainer": "M Comley",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 100.12
+        }
+      ]
+    },
+    {
+      "time": "15:02",
+      "meeting": "Chepstow",
+      "name": "Wasdell Group Silver Trophy Handicap Hurdle (Premier Handicap) (GBB Race)",
+      "class": "1",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Masked Man",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "J J Slevin",
+          "trainer": "N & W Twiston-Davies",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Chepstow",
+      "name": "DragonBet John Ayres Memorial Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 7f 131y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gold For Alec",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Benjamin Poste",
+          "trainer": "T Symonds",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Mares' Open NH Flat Race (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Northern Singer",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 0.73,
+          "bank": 100.85
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 8,
+    "races": 7,
+    "settled": 5,
+    "won": 2,
+    "placed": 1,
+    "lost": 2,
+    "nr": 3,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.7,
+    "units": 7,
+    "horses": 8,
+    "bet_horses": 5,
+    "total_stake": 3.5
+  },
+  "staked": 3.5,
+  "returned": 8.42,
+  "profit": 4.92,
+  "bank": {
+    "start": 95.93,
+    "end": 100.85,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

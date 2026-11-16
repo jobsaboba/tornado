@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-20",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:00",
+      "meeting": "Hamilton",
+      "name": "Heineken Zero Drink Responsibly At Hamilton Park Handicap",
+      "class": "6",
+      "distance": "5f 7y",
+      "going": "Heavy (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Impressor",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Connor Beasley",
+          "trainer": "Phillip Makin",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 753.8,
+          "profit": 1130.7,
+          "bank": -411.09
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Hamilton",
+      "name": "Big Drew Hunter Memorial Handicap",
+      "class": "4",
+      "distance": "1m 68y",
+      "going": "Heavy (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Monoceros",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "A Mullen",
+          "trainer": "I Jardine",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 753.8,
+          "profit": -753.8,
+          "bank": -1164.89
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Hamilton",
+      "name": "Every Race Live On Racing TV Handicap",
+      "class": "5",
+      "distance": "1m 1f 35y",
+      "going": "Heavy (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Motawaared",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 753.8,
+          "profit": -753.8,
+          "bank": -1918.69
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 753.8,
+    "units": 7538,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 2261.4
+  },
+  "staked": 2261.4,
+  "returned": 1884.5,
+  "profit": -376.9,
+  "bank": {
+    "start": -1541.79,
+    "end": -1918.69,
+    "next_stake": 1130.7,
+    "ladder": [
+      3769,
+      3769,
+      7538
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

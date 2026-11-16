@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-24",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:28",
+      "meeting": "Kelso",
+      "name": "Ladies Day Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 51y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Chemistry",
+          "stars": 5,
+          "odds": "4/9",
+          "jockey": "Sean Quinlan",
+          "trainer": "J Candlish",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 3.9,
+          "profit": -1.78,
+          "bank": -6.28
+        }
+      ]
+    },
+    {
+      "time": "14:37",
+      "meeting": "Kelso",
+      "name": "J.A. Wilson Contractors Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 189y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Newport",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Tom Midgley",
+          "trainer": "I Jardine",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 3.9,
+          "profit": -3.9,
+          "bank": -10.18
+        }
+      ]
+    },
+    {
+      "time": "16:22",
+      "meeting": "Kelso",
+      "name": "Borders Growers & Distillers Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 51y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Scots Poet",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "C O'Farrell",
+          "trainer": "Ewan Whillans",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.9,
+          "profit": 7.02,
+          "bank": -3.16
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.9,
+    "units": 39,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 11.7
+  },
+  "staked": 11.7,
+  "returned": 13.04,
+  "profit": 1.34,
+  "bank": {
+    "start": -4.5,
+    "end": -3.16,
+    "next_stake": 3.8,
+    "ladder": [
+      16,
+      19,
+      22
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-23",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:50",
+      "meeting": "Bangor-on-Dee",
+      "name": "Bangor-On-Dee Ladies Day Maiden Hurdle  (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ladies Day",
+          "stars": 5,
+          "odds": "4/7",
+          "jockey": "Jack Andrews",
+          "trainer": "T Ellis",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 4.6,
+          "profit": 1.58,
+          "bank": -9.33
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Bangor-on-Dee",
+      "name": "Cheshire Oaks Designer Outlet Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 3f 123y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Play Pretend",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Lee Edwards",
+          "trainer": "Dave Roberts",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 4.6,
+          "profit": -4.6,
+          "bank": -13.93
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Bangor-on-Dee",
+      "name": "Tom Jones Live At Chester Racecourse Mares' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 32y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Camshaft",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Jonjo O'Neill Jr.",
+          "trainer": "J & A O'Neill",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 4.6,
+          "profit": 9.2,
+          "bank": -4.73
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Bangor-on-Dee",
+      "name": "Wrexham Evening On Friday 26th June Mares' Open NH Flat Race (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bourbon Girl",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "C O'Farrell",
+          "trainer": "Ewan Whillans",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 4.6,
+          "profit": 0.23,
+          "bank": -4.5
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 2,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 4.6,
+    "units": 46,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 18.4
+  },
+  "staked": 18.4,
+  "returned": 24.81,
+  "profit": 6.41,
+  "bank": {
+    "start": -10.91,
+    "end": -4.5,
+    "next_stake": 3.9,
+    "ladder": [
+      13,
+      16,
+      19,
+      22,
+      26
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

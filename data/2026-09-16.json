@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-16",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:25",
+      "meeting": "Kelso",
+      "name": "RacingTV Proudly Supports Teenage Cancer Trust Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 2f 25y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cawthorne Cracker",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Toby Wynne",
+          "trainer": "O Greenall & J Guerriero",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 957.8,
+          "profit": 1436.7,
+          "bank": -5527.43
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 957.8,
+    "units": 9578,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 957.8
+  },
+  "staked": 957.8,
+  "returned": 2394.5,
+  "profit": 1436.7,
+  "bank": {
+    "start": -6964.13,
+    "end": -5527.43,
+    "next_stake": 766.5,
+    "ladder": [
+      2841,
+      3305,
+      3769,
+      4233,
+      4824
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

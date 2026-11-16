@@ -1,0 +1,160 @@
+{
+  "date": "2026-01-29",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:13",
+      "meeting": "Ayr",
+      "name": "Play Coral's Free 'Racing-Super-Series' Mares' 'National Hunt' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Coolkatie",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 11.02
+        }
+      ]
+    },
+    {
+      "time": "13:43",
+      "meeting": "Ayr",
+      "name": "Coral Daily Rewards Shaker Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 100y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamond Geezer",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.4,
+          "bank": 11.42
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "name": "Coral Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stede Bonnet",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "S Bowen",
+          "trainer": "G Elliott",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.13,
+          "bank": 11.55
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Ayr",
+      "name": "Coral Racing Club 'Join For Free' Handicap Hurdle",
+      "class": "4",
+      "distance": "3m 70y",
+      "going": "Soft",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Buzz Iceclear",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Jamie Hamilton",
+          "trainer": "M Walford",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 11.25
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "name": "Coral 'New' Horse Racing Bet Builder Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 110y",
+      "going": "Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wotter Trotter",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 10.95
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 2,
+    "placed": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 1.5
+  },
+  "staked": 1.5,
+  "returned": 1.13,
+  "profit": -0.37,
+  "bank": {
+    "start": 11.32,
+    "end": 10.95,
+    "next_stake": 0.4,
+    "ladder": [
+      1,
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

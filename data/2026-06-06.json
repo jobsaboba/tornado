@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-06",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:50",
+      "meeting": "Musselburgh",
+      "name": "Edinburgh Gin Classic Handicap",
+      "class": "4",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Modern Times",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 10.2,
+          "profit": -2.29,
+          "bank": -52.43
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Chepstow",
+      "name": "Michael Maine Memorial Cup Handicap",
+      "class": "6",
+      "distance": "5f 16y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tomarlo",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "George Wood",
+          "trainer": "Ollie Sangster",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 10.2,
+          "profit": -1.02,
+          "bank": -53.45
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "name": "Edinburgh Gin Cannonball Handicap",
+      "class": "6",
+      "distance": "1m 2y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Little Ted",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 10.2,
+          "profit": -1.7,
+          "bank": -55.15
+        }
+      ]
+    },
+    {
+      "time": "16:47",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Horse Sales Syndication Leasing / EBF Restricted Maiden Fillies' Stakes (GBB Race)",
+      "class": "4",
+      "distance": "5f 16y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Resemblance",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Ross Coakley",
+          "trainer": "M L W Bell",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 10.2,
+          "profit": -10.2,
+          "bank": -65.35
+        }
+      ]
+    },
+    {
+      "time": "17:53",
+      "meeting": "Chepstow",
+      "name": "Late Arron James Supporting Pancreatic Cancer Handicap",
+      "class": "4",
+      "distance": "7f 16y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kisskodi",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "George Wood",
+          "trainer": "Harry Eustace",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 10.2,
+          "profit": 36.72,
+          "bank": -28.63
+        }
+      ]
+    },
+    {
+      "time": "18:25",
+      "meeting": "Chepstow",
+      "name": "V3 UK - Principal Contractor Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 14y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fifty Sent",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Gina Mangan",
+          "trainer": "T Faulkner",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 10.2,
+          "profit": -10.2,
+          "bank": -38.83
+        }
+      ]
+    },
+    {
+      "time": "18:55",
+      "meeting": "Chepstow",
+      "name": "V3 UK - Principal Contractor Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 14y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Uncle Albert",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Finley Marsh",
+          "trainer": "A Wintle",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 10.2,
+          "profit": -10.2,
+          "bank": -49.03
+        }
+      ]
+    },
+    {
+      "time": "19:25",
+      "meeting": "Chepstow",
+      "name": "Capital Windscreens Supporting Autisitic Society Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Autumn Angel",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Cieren Fallon",
+          "trainer": "A W Carroll",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 10.2,
+          "profit": -10.2,
+          "bank": -59.23
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chepstow",
+      "name": "Capital Windscreens Supporting Mental Health Handicap",
+      "class": "6",
+      "distance": "1m 4f",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Big Win",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "L Morris",
+          "trainer": "James Owen",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 10.2,
+          "profit": 13.77,
+          "bank": -45.46
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 9,
+    "races": 9,
+    "settled": 9,
+    "won": 2,
+    "placed": 3,
+    "lost": 4,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 10.2,
+    "units": 102,
+    "horses": 9,
+    "bet_horses": 9,
+    "total_stake": 91.8
+  },
+  "staked": 91.8,
+  "returned": 96.48,
+  "profit": 4.68,
+  "bank": {
+    "start": -50.14,
+    "end": -45.46,
+    "next_stake": 8.9,
+    "ladder": [
+      19,
+      22,
+      38,
+      54,
+      70
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

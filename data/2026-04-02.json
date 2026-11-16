@@ -1,0 +1,234 @@
+{
+  "date": "2026-04-02",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Horse Sales - Syndication - Leasing Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cosmic Connection",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Harry Cobden",
+          "trainer": "C Gordon",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.14,
+          "bank": 12.16
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Kelso",
+      "name": "Every Race Live On Racing TV Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 51y",
+      "going": "Good to Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Word For Word",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "R T Dunne",
+          "trainer": "O Greenall & J Guerriero",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 11.66
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "name": "Racing TV Club Day Mares' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 189y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Parish Star",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Ryan Mania",
+          "trainer": "A Nicol",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.16,
+          "bank": 11.5
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "name": "Racing TV Profits Returned To Racing Handicap Chase",
+      "class": "5",
+      "distance": "2m 5f 133y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Benefit Ben",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Ryan Mania",
+          "trainer": "A Nicol",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 11.0
+        }
+      ]
+    },
+    {
+      "time": "15:07",
+      "meeting": "Chepstow",
+      "name": "South West Rail Solutions Ltd Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Beau Quali",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "Christian Williams",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": 0.25,
+          "bank": 11.25
+        }
+      ]
+    },
+    {
+      "time": "15:39",
+      "meeting": "Chepstow",
+      "name": "UB40 Live After Racing 24th July Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 131y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Italian Fox",
+          "stars": 5,
+          "odds": "4/11",
+          "jockey": "Brendan Powell",
+          "trainer": "J Tizzard",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.23,
+          "bank": 11.02
+        }
+      ]
+    },
+    {
+      "time": "15:46",
+      "meeting": "Kelso",
+      "name": "Join Racing TV Now Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 96y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Always A Reason",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Danny McMenamin",
+          "trainer": "R Menzies",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 10.52
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Chepstow",
+      "name": "InItTogether Festival 22nd-24th May Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Louxor De Grugy",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Ben Jones",
+          "trainer": "B Pauling",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.5,
+          "profit": -0.11,
+          "bank": 10.41
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 8,
+    "races": 8,
+    "settled": 8,
+    "won": 0,
+    "placed": 5,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.5,
+    "units": 5,
+    "horses": 8,
+    "bet_horses": 8,
+    "total_stake": 4.0
+  },
+  "staked": 4.0,
+  "returned": 2.11,
+  "profit": -1.89,
+  "bank": {
+    "start": 12.3,
+    "end": 10.41,
+    "next_stake": 0.6,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

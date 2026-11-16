@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-13",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:20",
+      "meeting": "Southwell",
+      "name": "DBS And Willmott Dixon Building Together Handicap Chase",
+      "class": "5",
+      "distance": "2m 4f 88y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Golly Gosh",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Jack Andrews",
+          "trainer": "T Ellis",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.13,
+          "bank": 100.45
+        }
+      ]
+    },
+    {
+      "time": "13:10",
+      "meeting": "Cheltenham",
+      "name": "AIS Conditional Jockeys' Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 5f",
+      "going": "Good-good to soft in places",
+      "runners": 19,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Glancing Jack",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Harry Atkins",
+          "trainer": "D Skelton",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": -0.1,
+          "bank": 100.35
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Cheltenham",
+      "name": "Jilly Cooper Veterans' Handicap Chase",
+      "class": "2",
+      "distance": "2m 4f 44y",
+      "going": "Good-good to soft in places",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Triple Trade",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Harry Cobden",
+          "trainer": "J Tizzard",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": -0.03,
+          "bank": 100.32
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Southwell",
+      "name": "Winter Ladies Day Saturday 28th November Handicap Hurdle",
+      "class": "5",
+      "distance": "1m 7f 182y",
+      "going": "Good-good to soft in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Northwest Passage",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "William Shanahan",
+          "trainer": "I Furtado",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 1.08,
+          "bank": 101.4
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Cheltenham",
+      "name": "Albert Bartlett Novices' Hurdle (Grade 2) (Registered As The Hyde) (GBB Race)",
+      "class": "1",
+      "distance": "2m 5f",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Divine Diva",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Cheltenham",
+      "name": "Valda Energy Novices' Handicap Hurdle (GBB Race)",
+      "class": "3",
+      "distance": "2m 87y",
+      "going": "Good-good to soft in places",
+      "runners": 18,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Way Of Stars",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": 0.09,
+          "bank": 101.49
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Dundalk",
+      "name": "Irish Stallion Farms EBF Race",
+      "class": "",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crayons In The Sky",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Jack Kearney",
+          "trainer": "Stephen Thorne",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 101.19
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Daamberdiplomat",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "Adam Caffrey",
+          "trainer": "A McGuinness",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 100.89
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Dundalk",
+      "name": "Book Online At DundalkStadium.com Apprentice Handicap (0-60)",
+      "class": "",
+      "distance": "1m 4f",
+      "going": "Standard",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Doctor Grace",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Cillian Rowan",
+          "trainer": "A McGuinness",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 1.26,
+          "bank": 102.15
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting 'Proud Supporter Of Irish Racing' Maiden",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sangreal",
+          "stars": 5,
+          "odds": "8/13",
+          "jockey": "Declan McDonogh",
+          "trainer": "J P O'Brien",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.3,
+          "profit": -0.13,
+          "bank": 102.02
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting 'Best Odds Guaranteed Overnight' Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "going": "Standard",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Anvika",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Robbie Colgan",
+          "trainer": "S Lavery",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 101.72
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Dundalk",
+      "name": "Now Racing Every Wednesday At Dundalk Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Glitter And Glory",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Patrick McGettigan",
+          "trainer": "Mrs J Harrington",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.54,
+          "bank": 102.26
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 12,
+    "races": 12,
+    "settled": 11,
+    "won": 4,
+    "placed": 4,
+    "lost": 3,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 12,
+    "bet_horses": 11,
+    "total_stake": 3.3
+  },
+  "staked": 3.3,
+  "returned": 5.24,
+  "profit": 1.94,
+  "bank": {
+    "start": 100.32,
+    "end": 102.26,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

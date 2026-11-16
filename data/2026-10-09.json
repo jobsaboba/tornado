@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-09",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:22",
+      "meeting": "Chepstow",
+      "name": "Wasdell Group Novices' Hurdle (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cooltobecareless",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.6,
+          "profit": 0.36,
+          "bank": 98.13
+        }
+      ]
+    },
+    {
+      "time": "12:57",
+      "meeting": "Chepstow",
+      "name": "Wasdell Group Novices' Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Saint Jeannais",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "N & W Twiston-Davies",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.6,
+          "profit": 0.3,
+          "bank": 98.43
+        }
+      ]
+    },
+    {
+      "time": "14:12",
+      "meeting": "Chepstow",
+      "name": "DragonBet 'Welsh Champion' Hurdle (Limited Handicap) (GBB Race)",
+      "class": "2",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gibbs Island",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Stan Sheppard",
+          "trainer": "T Lacey",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 97.83
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Chepstow",
+      "name": "DragonBet Persian War Novices' Hurdle (Grade 2) (GBB Race)",
+      "class": "1",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cosmic Connection",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Freddie Gordon",
+          "trainer": "C Gordon",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 97.23
+        }
+      ]
+    },
+    {
+      "time": "15:17",
+      "meeting": "Chepstow",
+      "name": "DragonBet Daily Dragonboosts Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Typhoon Warrior",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 96.63
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Chepstow",
+      "name": "LSL Racing Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Marlacoo",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Stan Sheppard",
+          "trainer": "T Lacey",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.6,
+          "profit": -0.6,
+          "bank": 96.03
+        }
+      ]
+    },
+    {
+      "time": "16:31",
+      "meeting": "Chepstow",
+      "name": "Alan Bushell Racing Remembers Alan Davies Mares' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 16y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sheezer Diva",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.6,
+          "profit": -0.1,
+          "bank": 95.93
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 7,
+    "won": 2,
+    "placed": 1,
+    "lost": 4,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.6,
+    "units": 6,
+    "horses": 7,
+    "bet_horses": 7,
+    "total_stake": 4.2
+  },
+  "staked": 4.2,
+  "returned": 2.36,
+  "profit": -1.84,
+  "bank": {
+    "start": 97.77,
+    "end": 95.93,
+    "next_stake": 0.7,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

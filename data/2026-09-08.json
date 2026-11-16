@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-08",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:42",
+      "meeting": "Bangor-on-Dee",
+      "name": "Paul Ferguson's Jumpers To Follow Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hidden Fortune",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 818.6,
+          "profit": 613.95,
+          "bank": -7137.07
+        }
+      ]
+    },
+    {
+      "time": "18:12",
+      "meeting": "Bangor-on-Dee",
+      "name": "Bangor-On-Dee Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 32y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Scottish Dancer",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Harry Reed",
+          "trainer": "T Reed",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 818.6,
+          "profit": 2946.96,
+          "bank": -4190.11
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 2,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 818.6,
+    "units": 8186,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 1637.2
+  },
+  "staked": 1637.2,
+  "returned": 5198.11,
+  "profit": 3560.91,
+  "bank": {
+    "start": -7751.02,
+    "end": -4190.11,
+    "next_stake": 720.1,
+    "ladder": [
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4824
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

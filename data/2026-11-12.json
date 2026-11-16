@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-12",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "11:43",
+      "meeting": "Thurles",
+      "name": "Racing Again November 19th Beginners Chase",
+      "class": "",
+      "distance": "2m 2f 55y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Whispering Willow",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Keith Donoghue",
+          "trainer": "G P Cromwell",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 99.05
+        }
+      ]
+    },
+    {
+      "time": "12:06",
+      "meeting": "Market Rasen",
+      "name": "PricedUp Bet Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 125y",
+      "going": "Good to soft-good in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ballydine Boy",
+          "stars": 5,
+          "odds": "4/5",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.17,
+          "bank": 98.88
+        }
+      ]
+    },
+    {
+      "time": "12:18",
+      "meeting": "Thurles",
+      "name": "Horse & Jockey Handicap Chase",
+      "class": "",
+      "distance": "2m 2f 55y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stoneyford Lady",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Darragh O'Keeffe",
+          "trainer": "H De Bromhead",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.84,
+          "bank": 99.72
+        }
+      ]
+    },
+    {
+      "time": "12:41",
+      "meeting": "Market Rasen",
+      "name": "PricedUp Now With Best Odds 'National Hunt' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f 139y",
+      "going": "Good to soft-good in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eastern Rock",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Ben Jones",
+          "trainer": "Miss E C Lavelle",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.72,
+          "bank": 100.44
+        }
+      ]
+    },
+    {
+      "time": "12:53",
+      "meeting": "Thurles",
+      "name": "www.thurlesraces.ie Handicap Chase (0-100)",
+      "class": "",
+      "distance": "2m 5f 132y",
+      "going": "Good",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Onefortheditch",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Darragh O'Keeffe",
+          "trainer": "E F Gallagher",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Hereford",
+      "name": "Paul Fergusons Jumpers To Follow EBF 'National Hunt' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 53y",
+      "going": "Good-good to firm in places",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Governors Rock",
+          "stars": 5,
+          "odds": "10/11",
+          "jockey": "Caoilin Quinn",
+          "trainer": "W Greatrex",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.22,
+          "bank": 100.66
+        }
+      ]
+    },
+    {
+      "time": "14:03",
+      "meeting": "Thurles",
+      "name": "Sign Up To GavinLynchRacing.com Maiden Hurdle",
+      "class": "",
+      "distance": "2m 4f",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Gunnery Sergeant",
+          "stars": 5,
+          "odds": "6/4",
+          "jockey": "Jack Kennedy",
+          "trainer": "G Elliott",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.36,
+          "bank": 101.02
+        }
+      ]
+    },
+    {
+      "time": "14:38",
+      "meeting": "Thurles",
+      "name": "Book Your Christmas Party Here On December 19th Mares Handicap Hurdle",
+      "class": "",
+      "distance": "2m 4f",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Theflyingbee",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "Mr J R Martin",
+          "trainer": "F G Hand",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 100.62
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Hereford",
+      "name": "CopyBet Overnight Best Odds Guaranteed Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 53y",
+      "going": "Good-good to firm in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Taritino",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "Callum Pritchard",
+          "trainer": "J Tickle",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": 0.2,
+          "bank": 100.82
+        }
+      ]
+    },
+    {
+      "time": "15:01",
+      "meeting": "Market Rasen",
+      "name": "PricedUp Boosts And BOG Mares' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 16y",
+      "going": "Good to soft-good in places",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Burning Embers",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 100.42
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Thurles",
+      "name": "Two-Mile Borris Handicap Hurdle (0-100) (Div 1)",
+      "class": "",
+      "distance": "2m 16y",
+      "going": "Good",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Liceo",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "P J O'Hanlon",
+          "trainer": "D A McLoughlin",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": 0.0,
+          "bank": 100.42
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Thurles",
+      "name": "Two-Mile Borris Handicap Hurdle (0-100) (Div 2)",
+      "class": "",
+      "distance": "2m 16y",
+      "going": "Good",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Topothelane",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Mike O'Connor",
+          "trainer": "P C O'Connor",
+          "pos": 4,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.1,
+          "bank": 100.32
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 12,
+    "races": 12,
+    "settled": 11,
+    "won": 4,
+    "placed": 4,
+    "lost": 3,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 12,
+    "bet_horses": 11,
+    "total_stake": 4.4
+  },
+  "staked": 4.4,
+  "returned": 5.27,
+  "profit": 0.87,
+  "bank": {
+    "start": 99.45,
+    "end": 100.32,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

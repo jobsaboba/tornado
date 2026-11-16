@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-04",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:51",
+      "meeting": "Hamilton",
+      "name": "Morton Fraser Macroberts LLP Handicap",
+      "class": "5",
+      "distance": "6f 6y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Iris Dancer",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Tom Kiely-Marshall",
+          "trainer": "T Davidson",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 7.0,
+          "profit": -7.0,
+          "bank": -24.08
+        }
+      ]
+    },
+    {
+      "time": "14:21",
+      "meeting": "Hamilton",
+      "name": "Weatherbys Global Stallions Handicap",
+      "class": "4",
+      "distance": "1m 1f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pearl Eye",
+          "stars": 5,
+          "odds": "16/5",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 7.0,
+          "profit": 13.44,
+          "bank": -10.64
+        }
+      ]
+    },
+    {
+      "time": "16:22",
+      "meeting": "Hamilton",
+      "name": "Hampton By Hilton Hamilton Park Handicap",
+      "class": "6",
+      "distance": "1m 4f 15y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Recobella",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Mikey Sheehy",
+          "trainer": "P A Kirby",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 7.0,
+          "profit": -7.0,
+          "bank": -17.64
+        }
+      ]
+    },
+    {
+      "time": "17:20",
+      "meeting": "Ffos Las",
+      "name": "Simply Safe Care Group Handicap",
+      "class": "5",
+      "distance": "5f",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "La Belle Forest",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "K Shoemark",
+          "trainer": "A Watson",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 7.0,
+          "profit": -7.0,
+          "bank": -24.64
+        }
+      ]
+    },
+    {
+      "time": "18:20",
+      "meeting": "Ffos Las",
+      "name": "Pro Panther Handicap",
+      "class": "5",
+      "distance": "1m",
+      "going": "Good to Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Devious Devan",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Jack Dace",
+          "trainer": "W Muir & C Grassick",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 7.0,
+          "profit": -7.0,
+          "bank": -31.64
+        }
+      ]
+    },
+    {
+      "time": "18:50",
+      "meeting": "Ffos Las",
+      "name": "New Thomas Arms Handicap",
+      "class": "5",
+      "distance": "1m 3f 209y",
+      "going": "Good to Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kelly Burn",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Daniel Muscutt",
+          "trainer": "J R Fanshawe",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 7.0,
+          "profit": -7.0,
+          "bank": -38.64
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "races": 6,
+    "settled": 6,
+    "won": 1,
+    "placed": 0,
+    "lost": 5,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 7.0,
+    "units": 70,
+    "horses": 6,
+    "bet_horses": 6,
+    "total_stake": 42.0
+  },
+  "staked": 42.0,
+  "returned": 20.44,
+  "profit": -21.56,
+  "bank": {
+    "start": -17.08,
+    "end": -38.64,
+    "next_stake": 8.6,
+    "ladder": [
+      16,
+      19,
+      22,
+      38,
+      54,
+      70
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

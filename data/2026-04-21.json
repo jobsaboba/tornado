@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-21",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:38",
+      "meeting": "Ffos Las",
+      "name": "South West Rail Solutions Ltd Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Good to Soft",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crystal Island",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "N de Boinville",
+          "trainer": "N J Henderson",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.1,
+          "profit": 0.66,
+          "bank": 8.07
+        }
+      ]
+    },
+    {
+      "time": "16:12",
+      "meeting": "Ffos Las",
+      "name": "SWRSL - Dan Boulton Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 191y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hidden Target",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "G Sheehan",
+          "trainer": "R T Phillips",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.1,
+          "profit": -1.1,
+          "bank": 6.97
+        }
+      ]
+    },
+    {
+      "time": "17:42",
+      "meeting": "Ffos Las",
+      "name": "South West Rail Solutions Ltd Handicap Chase",
+      "class": "5",
+      "distance": "2m 7f 177y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mythe Bridge",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "H D Daly",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "18:12",
+      "meeting": "Ffos Las",
+      "name": "SWRSL - Dan Ward Handicap Hurdle (Div 1)",
+      "class": "5",
+      "distance": "2m 4f",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lemon Leaf",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.1,
+          "profit": 3.3,
+          "bank": 10.27
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 3,
+    "won": 2,
+    "placed": 0,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1.1,
+    "units": 11,
+    "horses": 4,
+    "bet_horses": 3,
+    "total_stake": 3.3
+  },
+  "staked": 3.3,
+  "returned": 6.16,
+  "profit": 2.86,
+  "bank": {
+    "start": 7.41,
+    "end": 10.27,
+    "next_stake": 1.0,
+    "ladder": [
+      3,
+      4,
+      5,
+      7
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "date": "2026-04-17",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "name": "Slater Menswear Handicap Hurdle",
+      "class": "3",
+      "distance": "2m",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Castle Ivers",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 11.22
+        }
+      ]
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "name": "Irish Thoroughbred Marketing Novices' Limited Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "2m 110y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Grafter",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "R P McLernon",
+          "trainer": "S England",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "name": "Abbott Risk Consulting Ltd Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lirion",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 10.32
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "name": "Hillhouse Quarry Handicap Chase (GBB Race)",
+      "class": "2",
+      "distance": "2m 4f 110y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Donnacha",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "James Davies",
+          "trainer": "N J Hawke",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.9,
+          "profit": -0.09,
+          "bank": 10.23
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Ayr",
+      "name": "Coral Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 5f 91y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Came From Nowhere",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Lorcan Williams",
+          "trainer": "J Scott",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.9,
+          "profit": -0.14,
+          "bank": 10.09
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "name": "Get Home Safe With Thistle Cabs Handicap Hurdle",
+      "class": "3",
+      "distance": "3m 70y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Society Soldier",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "D R Fox",
+          "trainer": "L Russell & M Scudamore",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.9,
+          "profit": 0.09,
+          "bank": 10.18
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "name": "Jardine Utilities Race To Repair 'Hands & Heels' Handicap Hurdle (Conditionals/Amateurs)",
+      "class": "4",
+      "distance": "2m 4f 100y",
+      "going": "Soft (Heavy in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Travis Wheatley",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "Rian Corcoran",
+          "trainer": "A Nicol",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.9,
+          "profit": 0.36,
+          "bank": 10.54
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 6,
+    "won": 0,
+    "placed": 4,
+    "lost": 2,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.9,
+    "units": 9,
+    "horses": 7,
+    "bet_horses": 6,
+    "total_stake": 5.4
+  },
+  "staked": 5.4,
+  "returned": 3.82,
+  "profit": -1.58,
+  "bank": {
+    "start": 12.12,
+    "end": 10.54,
+    "next_stake": 1.1,
+    "ladder": [
+      2,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

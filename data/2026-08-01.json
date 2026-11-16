@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-01",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "18:00",
+      "meeting": "Hamilton",
+      "name": "PDM Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 5f 16y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cotton Bud",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Gina Mangan",
+          "trainer": "S Lycett",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 230.7,
+          "profit": -230.7,
+          "bank": -1598.95
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Hamilton",
+      "name": "Cube Glass 'Soba' Handicap",
+      "class": "2",
+      "distance": "5f 7y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Corolla Point",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "P J McDonald",
+          "trainer": "E Bethell",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 230.7,
+          "profit": 415.26,
+          "bank": -1183.69
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Hamilton",
+      "name": "Blitz Cleaning Commercial Cleaning Handicap",
+      "class": "5",
+      "distance": "5f 7y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hundred Caps",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "S H James",
+          "trainer": "Miss J A Camacho",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 230.7,
+          "profit": 0.0,
+          "bank": -1183.69
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Hamilton",
+      "name": "GSS Contracts Handicap",
+      "class": "5",
+      "distance": "1m 68y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mwafaq",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Ethan Tindall",
+          "trainer": "R A Fahey",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 230.7,
+          "profit": -57.67,
+          "bank": -1241.36
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Hamilton",
+      "name": "Wellman Cars Hamilton Handicap",
+      "class": "6",
+      "distance": "1m 1f 35y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pisanello",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "C J Whiteley",
+          "trainer": "D O'Meara",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 230.7,
+          "profit": 152.26,
+          "bank": -1089.1
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 2,
+    "placed": 2,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 230.7,
+    "units": 2307,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 1153.5
+  },
+  "staked": 1153.5,
+  "returned": 1432.65,
+  "profit": 279.15,
+  "bank": {
+    "start": -1368.25,
+    "end": -1089.1,
+    "next_stake": 211.0,
+    "ladder": [
+      375,
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1735
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

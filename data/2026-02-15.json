@@ -1,0 +1,87 @@
+{
+  "date": "2026-02-15",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:50",
+      "meeting": "Musselburgh",
+      "name": "Sunshine On Leith Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 124y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fantasy World",
+          "stars": 5,
+          "odds": "30/100",
+          "jockey": "N de Boinville",
+          "trainer": "N J Henderson",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 11.88
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Musselburgh",
+      "name": "Virgin Bet Supports Safe Gambling Handicap Hurdle",
+      "class": "5",
+      "distance": "1m 7f 124y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sattam",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Ryan Mania",
+          "trainer": "Mrs Dianne Sayer",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 0.9,
+          "bank": 12.78
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.5,
+    "units": 5,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 1.0
+  },
+  "staked": 1.0,
+  "returned": 1.4,
+  "profit": 0.4,
+  "bank": {
+    "start": 12.38,
+    "end": 12.78,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

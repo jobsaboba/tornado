@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-05",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:15",
+      "meeting": "Ayr",
+      "name": "Now Ayrshire Radio Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Altareq",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 46.4,
+          "profit": 62.64,
+          "bank": -99.03
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ayr",
+      "name": "Book The Sounds Of Summer Racenight Classified Stakes",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Langholm",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Rhys Elliott",
+          "trainer": "M Dods",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 46.4,
+          "profit": -46.4,
+          "bank": -145.43
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Ayr",
+      "name": "Glasgow Fair Family Raceday 20 July Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Zebra Star",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "D Tudhope",
+          "trainer": "R M Smith",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 46.4,
+          "profit": -46.4,
+          "bank": -191.83
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Ayr",
+      "name": "Summer Mile Handicap",
+      "class": "3",
+      "distance": "1m",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dwindling Funds",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 46.4,
+          "profit": -7.73,
+          "bank": -199.56
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Ayr",
+      "name": "Sunday Roast At westernhousehotel Available Now Handicap",
+      "class": "6",
+      "distance": "7f 50y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Toy Soldier",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Leigh Roche",
+          "trainer": "Maurice Ahern",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 46.4,
+          "profit": -46.4,
+          "bank": -245.96
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 1,
+    "placed": 1,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 46.4,
+    "units": 464,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 232.0
+  },
+  "staked": 232.0,
+  "returned": 147.71,
+  "profit": -84.29,
+  "bank": {
+    "start": -161.67,
+    "end": -245.96,
+    "next_stake": 55.3,
+    "ladder": [
+      89,
+      127,
+      197,
+      286,
+      375,
+      464
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

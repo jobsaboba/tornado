@@ -1,0 +1,112 @@
+{
+  "date": "2026-03-15",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:10",
+      "meeting": "Chepstow",
+      "name": "Beware The Brides Of March Mares' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eremenko",
+          "stars": 5,
+          "odds": "4/6",
+          "jockey": "James Bowen",
+          "trainer": "N J Henderson",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.7,
+          "profit": -0.3,
+          "bank": 12.16
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Chepstow",
+      "name": "Celebrating Tricia And Pauls Wedding Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "2m 7f 136y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Check The Score",
+          "stars": 5,
+          "odds": "17/2",
+          "jockey": "Jack Hogan",
+          "trainer": "F O'Brien",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 11.46
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Chepstow",
+      "name": "georgebakerracing.com - Have Horse Will Travel Mares' Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 3f 100y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Siog Geal",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Fern O'Brien",
+          "trainer": "F O'Brien",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.7,
+          "profit": -0.17,
+          "bank": 11.29
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 2,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.7,
+    "units": 7,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 2.1
+  },
+  "staked": 2.1,
+  "returned": 0.93,
+  "profit": -1.17,
+  "bank": {
+    "start": 12.46,
+    "end": 11.29,
+    "next_stake": 0.9,
+    "ladder": [
+      2,
+      3,
+      5,
+      7
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

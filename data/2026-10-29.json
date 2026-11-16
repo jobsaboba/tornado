@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-29",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Ffos Las",
+      "name": "bettingsites.co.uk Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Heavy (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Arcadian Star",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Charlie Hammond",
+          "trainer": "S Edmunds",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.1,
+          "bank": 100.28
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ffos Las",
+      "name": "Dandara Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Heavy (Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Passage Guenot",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Harry Cobden",
+          "trainer": "P Hobbs & J White",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.11,
+          "bank": 100.17
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 2,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 0.8
+  },
+  "staked": 0.8,
+  "returned": 0.59,
+  "profit": -0.21,
+  "bank": {
+    "start": 100.38,
+    "end": 100.17,
+    "next_stake": 0.5,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-09",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:41",
+      "meeting": "Chepstow",
+      "name": "Coral Supports Chepstow Centenary Celebrations Nursery",
+      "class": "6",
+      "distance": "5f 16y",
+      "going": "Good to Firm",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dreamlover",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "George Wood",
+          "trainer": "R Spencer",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 284.1,
+          "profit": -284.1,
+          "bank": -1521.59
+        }
+      ]
+    },
+    {
+      "time": "14:16",
+      "meeting": "Chepstow",
+      "name": "Wasdell Supports Chepstow Centenary Celebrations / EBF Restricted Maiden Fillies' Stakes",
+      "class": "5",
+      "distance": "6f 16y",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Global Success",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Taylor Fisher",
+          "trainer": "J S Moore",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 284.1,
+          "profit": -106.54,
+          "bank": -1628.13
+        }
+      ]
+    },
+    {
+      "time": "14:51",
+      "meeting": "Chepstow",
+      "name": "Floyds Turfcare Supports Chepstow Centenary Celebrations Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "going": "Good to Firm",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Go Victor",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Callum Shepherd",
+          "trainer": "T Culhane & S Barclay",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 284.1,
+          "profit": -92.33,
+          "bank": -1720.46
+        }
+      ]
+    },
+    {
+      "time": "15:26",
+      "meeting": "Chepstow",
+      "name": "DragonBet Supports Chepstow Centenary Celebrations Handicap",
+      "class": "6",
+      "distance": "1m 14y",
+      "going": "Good to Firm",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Desert Charm",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Callum Shepherd",
+          "trainer": "M Murphy",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 284.1,
+          "profit": -284.1,
+          "bank": -2004.56
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 0,
+    "placed": 2,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 284.1,
+    "units": 2841,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 1136.4
+  },
+  "staked": 1136.4,
+  "returned": 369.33,
+  "profit": -767.07,
+  "bank": {
+    "start": -1237.49,
+    "end": -2004.56,
+    "next_stake": 330.5,
+    "ladder": [
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

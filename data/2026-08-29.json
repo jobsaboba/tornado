@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-29",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "17:45",
+      "meeting": "Chepstow",
+      "name": "Free Race Replays On attheraces.com Handicap",
+      "class": "6",
+      "distance": "7f 16y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Emery Down",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "P Cosgrave",
+          "trainer": "J Ryan",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 716.9,
+          "profit": 1182.88,
+          "bank": -8234.92
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Chepstow",
+      "name": "Free Bets On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 4f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dash Of Class",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Jack Doughty",
+          "trainer": "Dr R Newland",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 716.9,
+          "profit": -716.9,
+          "bank": -8951.82
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 716.9,
+    "units": 7169,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 1433.8
+  },
+  "staked": 1433.8,
+  "returned": 1899.78,
+  "profit": 465.98,
+  "bank": {
+    "start": -9417.8,
+    "end": -8951.82,
+    "next_stake": 657.8,
+    "ladder": [
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4824,
+      5415
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

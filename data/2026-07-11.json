@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-11",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:40",
+      "meeting": "Hamilton",
+      "name": "Hamilton Park Apprentice Handicap",
+      "class": "6",
+      "distance": "5f 7y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Azuinthejungle",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Alex Jary",
+          "trainer": "N Tinkler",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 59.1,
+          "profit": -14.78,
+          "bank": -464.29
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 59.1,
+    "units": 591,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 59.1
+  },
+  "staked": 59.1,
+  "returned": 44.32,
+  "profit": -14.78,
+  "bank": {
+    "start": -449.51,
+    "end": -464.29,
+    "next_stake": 71.8,
+    "ladder": [
+      127,
+      197,
+      286,
+      375,
+      464,
+      591
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

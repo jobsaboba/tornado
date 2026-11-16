@@ -1,0 +1,237 @@
+{
+  "date": "2026-08-10",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' EBF Maiden Fillies' Stakes (GBB Race)",
+      "class": "4",
+      "distance": "6f",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Next Of Kin",
+          "stars": 5,
+          "odds": "10/11",
+          "jockey": "Cieren Fallon",
+          "trainer": "W J Haggas",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 330.5,
+          "profit": 180.27,
+          "bank": -1824.29
+        }
+      ]
+    },
+    {
+      "time": "13:15",
+      "meeting": "Ayr",
+      "name": "'Ladbrokes Get More With Racing Bet Builder' Classified Stakes",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hostelry",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Joanna Mason",
+          "trainer": "Mrs R Carr",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 330.5,
+          "profit": 495.75,
+          "bank": -1328.54
+        }
+      ]
+    },
+    {
+      "time": "13:45",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Big Daily Boosts On Racing' Handicap",
+      "class": "6",
+      "distance": "7f 50y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Keep Me Stable",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "Tom Kiely-Marshall",
+          "trainer": "Miss L A Perratt",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 330.5,
+          "profit": 132.2,
+          "bank": -1196.34
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Get More With Ladbucks' Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f",
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Star Cast",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Jake Dickson",
+          "trainer": "G Tutty",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 330.5,
+          "profit": 33.05,
+          "bank": -1163.29
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Insure Your Acca On Football' Handicap",
+      "class": "6",
+      "distance": "6f",
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Velvet Skies",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Barry McHugh",
+          "trainer": "W G Harrison",
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 330.5,
+          "profit": -330.5,
+          "bank": -1493.79
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Free Rewards With Instant Spins' Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lesrico",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Mark Winn",
+          "trainer": "L Williamson",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 330.5,
+          "profit": -330.5,
+          "bank": -1824.29
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "name": "Ladbrokes 'Free Rewards With Instant Spins' Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Soft (Good in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Motawaared",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 330.5,
+          "profit": -330.5,
+          "bank": -2154.79
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "name": "'Ladbrokes Play 1-2-Free' Handicap",
+      "class": "5",
+      "distance": "1m",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Paroda Diva",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "A Mullen",
+          "trainer": "P Neville",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 330.5,
+          "profit": -330.5,
+          "bank": -2485.29
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 8,
+    "races": 8,
+    "settled": 8,
+    "won": 2,
+    "placed": 2,
+    "lost": 4,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 330.5,
+    "units": 3305,
+    "horses": 8,
+    "bet_horses": 8,
+    "total_stake": 2644.0
+  },
+  "staked": 2644.0,
+  "returned": 2163.27,
+  "profit": -480.73,
+  "bank": {
+    "start": -2004.56,
+    "end": -2485.29,
+    "next_stake": 376.9,
+    "ladder": [
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

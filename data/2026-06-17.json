@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-17",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:25",
+      "meeting": "Hamilton",
+      "name": "Follow Us On X At HamiltonParkRC Handicap",
+      "class": "4",
+      "distance": "5f 7y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Solar Aclaim",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "S H James",
+          "trainer": "Miss J A Camacho",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 14.6,
+          "profit": 30.66,
+          "bank": -67.53
+        }
+      ]
+    },
+    {
+      "time": "15:02",
+      "meeting": "Hamilton",
+      "name": "Cleanstay At Hampton By Hilton Handicap",
+      "class": "5",
+      "distance": "6f 6y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stirrup Cup",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 14.6,
+          "profit": -14.6,
+          "bank": -82.13
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Ffos Las",
+      "name": "Oil 4 Wales Restricted Maiden Fillies' Stakes (GBB Race)",
+      "class": "4",
+      "distance": "1m 2f",
+      "going": "Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ziata",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "George Downing",
+          "trainer": "E Walker",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 14.6,
+          "profit": -4.01,
+          "bank": -86.14
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 14.6,
+    "units": 146,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 43.8
+  },
+  "staked": 43.8,
+  "returned": 55.85,
+  "profit": 12.05,
+  "bank": {
+    "start": -98.19,
+    "end": -86.14,
+    "next_stake": 13.0,
+    "ladder": [
+      22,
+      38,
+      54,
+      70,
+      89,
+      108
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-16",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:30",
+      "meeting": "Ffos Las",
+      "name": "Blackmores Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Soft (Heavy in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sioux Falls",
+          "stars": 5,
+          "odds": "11/1",
+          "jockey": "Conor Ring",
+          "trainer": "Mrs C Williams",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.9,
+          "profit": -0.9,
+          "bank": 10.39
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.9,
+    "units": 9,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 0.9
+  },
+  "staked": 0.9,
+  "returned": 0.0,
+  "profit": -0.9,
+  "bank": {
+    "start": 11.29,
+    "end": 10.39,
+    "next_stake": 1.1,
+    "ladder": [
+      2,
+      3,
+      5,
+      7,
+      9
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

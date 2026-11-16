@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-26",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "17:33",
+      "meeting": "Bangor-on-Dee",
+      "name": "Wrexham Evening Handicap Chase",
+      "class": "5",
+      "distance": "3m 30y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Glenmalure Flyer",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 23.5,
+          "profit": 47.0,
+          "bank": -60.69
+        }
+      ]
+    },
+    {
+      "time": "19:53",
+      "meeting": "Bangor-on-Dee",
+      "name": "Tom Jones Live At Chester Conditional Jockeys' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 32y",
+      "going": "Good (Good to Firm in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Golden Glance",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Charlie Maggs",
+          "trainer": "O Greenall & J Guerriero",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 23.5,
+          "profit": -23.5,
+          "bank": -84.19
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 23.5,
+    "units": 235,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 47.0
+  },
+  "staked": 47.0,
+  "returned": 70.5,
+  "profit": 23.5,
+  "bank": {
+    "start": -107.69,
+    "end": -84.19,
+    "next_stake": 19.7,
+    "ladder": [
+      70,
+      89,
+      127
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

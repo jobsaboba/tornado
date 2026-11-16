@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-13",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Perth",
+      "name": "Murrayshall Country Estate Mares' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kaydence",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.0,
+          "profit": -1.17,
+          "bank": -14.76
+        }
+      ]
+    },
+    {
+      "time": "14:08",
+      "meeting": "Perth",
+      "name": "Murrayshall Golf Handicap Hurdle",
+      "class": "4",
+      "distance": "3m 2f 127y",
+      "going": "Good to Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Suspected",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Mr Kit Alexander",
+          "trainer": "N W Alexander",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.0,
+          "profit": -1.01,
+          "bank": -15.77
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Perth",
+      "name": "Murrayshall Cairns Handicap Chase",
+      "class": "5",
+      "distance": "2m 7f 180y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sir Carnegie",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "James Bowen",
+          "trainer": "M Bowen",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.0,
+          "profit": -0.45,
+          "bank": -16.22
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Perth",
+      "name": "Murrayshall Meetings And Events Conditional Jockeys' Handicap Hurdle (Div 1)",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good to Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Dublinofficecallin",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "Ewan Whillans",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 3.0,
+          "profit": -3.0,
+          "bank": -19.22
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Perth",
+      "name": "Murrayshall Meetings And Events Conditional Jockeys' Handicap Hurdle (Div 2)",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Betteryouthanme",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "William Maggs",
+          "trainer": "R M Smith",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.0,
+          "profit": -0.15,
+          "bank": -19.37
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 5,
+    "won": 0,
+    "placed": 4,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.0,
+    "units": 30,
+    "horses": 5,
+    "bet_horses": 5,
+    "total_stake": 15.0
+  },
+  "staked": 15.0,
+  "returned": 9.22,
+  "profit": -5.78,
+  "bank": {
+    "start": -13.59,
+    "end": -19.37,
+    "next_stake": 3.4,
+    "ladder": [
+      4,
+      5,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      26,
+      30
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

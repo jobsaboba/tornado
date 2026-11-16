@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-08",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "name": "Each Way Extra At bet365 Handicap",
+      "class": "6",
+      "distance": "1m 14y",
+      "going": "Good to Firm",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Tony",
+          "stars": 5,
+          "odds": "6/5",
+          "jockey": "Callum Rodriguez",
+          "trainer": "Owen Burrows",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 64.2,
+          "profit": 46.22,
+          "bank": -449.51
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 64.2,
+    "units": 642,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 64.2
+  },
+  "staked": 64.2,
+  "returned": 110.42,
+  "profit": 46.22,
+  "bank": {
+    "start": -495.73,
+    "end": -449.51,
+    "next_stake": 59.1,
+    "ladder": [
+      127,
+      197,
+      286,
+      375,
+      464
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

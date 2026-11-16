@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-12",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:07",
+      "meeting": "Ffos Las",
+      "name": "Birthday Boy Leighton Happy 80th Handicap",
+      "class": "6",
+      "distance": "5f",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sheik Yerbouti",
+          "stars": 5,
+          "odds": "18/1",
+          "jockey": "Ashley Lewis",
+          "trainer": "G Harris",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 423.3,
+          "profit": -423.3,
+          "bank": -4210.99
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "name": "Dandara Homes Handicap",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Nammos",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "William Carson",
+          "trainer": "J L Flint",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 423.3,
+          "profit": -423.3,
+          "bank": -4634.29
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "races": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 423.3,
+    "units": 4233,
+    "horses": 2,
+    "bet_horses": 2,
+    "total_stake": 846.6
+  },
+  "staked": 846.6,
+  "returned": 0.0,
+  "profit": -846.6,
+  "bank": {
+    "start": -3787.69,
+    "end": -4634.29,
+    "next_stake": 469.7,
+    "ladder": [
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305,
+      3769,
+      4233
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

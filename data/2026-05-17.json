@@ -1,0 +1,188 @@
+{
+  "date": "2026-05-17",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:15",
+      "meeting": "Hamilton",
+      "name": "Sun's 'Save Our Bets' Handicap",
+      "class": "4",
+      "distance": "6f 6y",
+      "going": "Good",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Red Spells Danger",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.9,
+          "profit": 5.27,
+          "bank": -11.93
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Hamilton",
+      "name": "Sky Bet Extra Places Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 5f 16y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ride The Thunder",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Ray Dawson",
+          "trainer": "R Varian",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.9,
+          "profit": -0.97,
+          "bank": -12.9
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Hamilton",
+      "name": "Sky Bet Build A Bet Handicap",
+      "class": "3",
+      "distance": "5f 7y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jordan Electrics",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 3.9,
+          "profit": -3.9,
+          "bank": -16.8
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Hamilton",
+      "name": "Sky Bet Price Boosts Fillies' Handicap",
+      "class": "3",
+      "distance": "1m 1f 35y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Seren Star",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Tom Marquand",
+          "trainer": "W J Haggas",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.9,
+          "profit": 0.0,
+          "bank": -16.8
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Hamilton",
+      "name": "Sky Bet For The Fans Handicap",
+      "class": "4",
+      "distance": "6f 6y",
+      "going": "Good",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Montezuma",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 3.9,
+          "profit": -3.9,
+          "bank": -20.7
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Hamilton",
+      "name": "Flutter Proud To Support Young Lives Vs Cancer Apprentice Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 3f 15y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Letsbefrank",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.9,
+          "profit": 5.85,
+          "bank": -14.85
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "races": 6,
+    "settled": 6,
+    "won": 2,
+    "placed": 2,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.9,
+    "units": 39,
+    "horses": 6,
+    "bet_horses": 6,
+    "total_stake": 23.4
+  },
+  "staked": 23.4,
+  "returned": 25.75,
+  "profit": 2.35,
+  "bank": {
+    "start": -17.2,
+    "end": -14.85,
+    "next_stake": 3.7,
+    "ladder": [
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      26,
+      30
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

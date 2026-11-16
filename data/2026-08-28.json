@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-28",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:35",
+      "meeting": "Ffos Las",
+      "name": "Golwg Gwendraeth Handicap",
+      "class": "5",
+      "distance": "7f 80y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bella Bisbee",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "K T O'Neill",
+          "trainer": "S Dixon",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 629.2,
+          "profit": -629.2,
+          "bank": -8159.4
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Ffos Las",
+      "name": "Thomas Arms Llanelli Classified Stakes",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Alice's Influence",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Joe Leavy",
+          "trainer": "P D Evans",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 629.2,
+          "profit": -629.2,
+          "bank": -8788.6
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Ffos Las",
+      "name": "K P Tyres Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good to Soft",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sunshine And Roses",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Rose Dawes",
+          "trainer": "J Channon",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 629.2,
+          "profit": -629.2,
+          "bank": -9417.8
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 629.2,
+    "units": 6292,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 1887.6
+  },
+  "staked": 1887.6,
+  "returned": 0.0,
+  "profit": -1887.6,
+  "bank": {
+    "start": -7530.2,
+    "end": -9417.8,
+    "next_stake": 716.9,
+    "ladder": [
+      877,
+      1163,
+      1449,
+      1913,
+      2377,
+      2841,
+      3305,
+      3769,
+      4233,
+      4824,
+      5415,
+      6292
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

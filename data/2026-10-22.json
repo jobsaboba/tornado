@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-22",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "11:51",
+      "meeting": "Ffos Las",
+      "name": "bettingsites.co.uk Fast Withdrawal Mares' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fairy Park",
+          "stars": 5,
+          "odds": "2/7",
+          "jockey": "Brendan Powell",
+          "trainer": "J Tizzard",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.6,
+          "profit": 0.1,
+          "bank": 98.19
+        }
+      ]
+    },
+    {
+      "time": "12:26",
+      "meeting": "Ffos Las",
+      "name": "bettingsites.co.uk Instant Withdrawal Novices' Hurdle (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Quickkick",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Sean Houlihan",
+          "trainer": "P Hobbs & J White",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.6,
+          "profit": -0.06,
+          "bank": 98.13
+        }
+      ]
+    },
+    {
+      "time": "13:01",
+      "meeting": "Ffos Las",
+      "name": "bettingsites.co.uk Instant Withdrawal Novices' Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Trojan Tale",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Harry Cobden",
+          "trainer": "Dan Horsford",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:36",
+      "meeting": "Ffos Las",
+      "name": "bettingsites.co.uk Same Day Payouts Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 7f 191y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kilwaughter",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Jack Stenhouse",
+          "trainer": "P Hobbs & J White",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.6,
+          "profit": 0.81,
+          "bank": 98.94
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Ffos Las",
+      "name": "bettingsites.co.uk Quickest Withdrawal Bookies Handicap Chase",
+      "class": "5",
+      "distance": "2m 3f 83y",
+      "going": "Soft (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rap Soul",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "J M Quinlan",
+          "trainer": "R Bandey",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "races": 5,
+    "settled": 3,
+    "won": 2,
+    "placed": 1,
+    "lost": 0,
+    "nr": 2,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.6,
+    "units": 6,
+    "horses": 5,
+    "bet_horses": 3,
+    "total_stake": 1.8
+  },
+  "staked": 1.8,
+  "returned": 2.65,
+  "profit": 0.85,
+  "bank": {
+    "start": 98.09,
+    "end": 98.94,
+    "next_stake": 0.6,
+    "ladder": [
+      2,
+      2,
+      3,
+      4
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

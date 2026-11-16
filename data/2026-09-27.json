@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-27",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:19",
+      "meeting": "Ffos Las",
+      "name": "Alex And Salvo Welcome You To The Bridge Handicap",
+      "class": "6",
+      "distance": "6f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Macarone",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Ben Ffrench-Davis",
+          "trainer": "G Harris",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.72,
+          "bank": 97.37
+        }
+      ]
+    },
+    {
+      "time": "12:49",
+      "meeting": "Ffos Las",
+      "name": "Bridge, The Home Of The Carvery Nursery",
+      "class": "5",
+      "distance": "5f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rhodes Runner",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Rhys Clutterbuck",
+          "trainer": "R M Beckett",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.54,
+          "bank": 97.91
+        }
+      ]
+    },
+    {
+      "time": "15:09",
+      "meeting": "Ffos Las",
+      "name": "Bridge, For All Family Occasions Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m",
+      "going": "Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rosemary's Rose",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Saffie Osborne",
+          "trainer": "B R Millman",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.11,
+          "bank": 97.8
+        }
+      ]
+    },
+    {
+      "time": "15:44",
+      "meeting": "Ffos Las",
+      "name": "Bridge, For All Family Occasions Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Arvana Belle",
+          "stars": 5,
+          "odds": "10/11",
+          "jockey": "Saffie Osborne",
+          "trainer": "B R Millman",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.16,
+          "bank": 97.64
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "races": 4,
+    "settled": 4,
+    "won": 2,
+    "placed": 2,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 4,
+    "bet_horses": 4,
+    "total_stake": 1.6
+  },
+  "staked": 1.6,
+  "returned": 2.59,
+  "profit": 0.99,
+  "bank": {
+    "start": 96.65,
+    "end": 97.64,
+    "next_stake": 0.4,
+    "ladder": [
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

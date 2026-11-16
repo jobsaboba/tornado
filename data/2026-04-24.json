@@ -1,0 +1,259 @@
+{
+  "date": "2026-04-24",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:30",
+      "meeting": "Perth",
+      "name": "GS Group Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Misterdoc",
+          "stars": 5,
+          "odds": "30/100",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.6,
+          "profit": 0.29,
+          "bank": 4.3
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Perth",
+      "name": "QuinnBet Highland National Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "3m 6f 121y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fever Dream",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Jack Tudor",
+          "trainer": "Christian Williams",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.6,
+          "profit": -1.6,
+          "bank": 2.7
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Perth",
+      "name": "Perth Racecourse Racing & Events Handicap Hurdle",
+      "class": "3",
+      "distance": "3m 2f 127y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Roaring Conquest",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.6,
+          "profit": -1.6,
+          "bank": 1.1
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Chepstow",
+      "name": "Dunraven Windows Miss Millbrook Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 100y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Beau Quali",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "Toby McCain-Mitchell",
+          "trainer": "Christian Williams",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.6,
+          "profit": 1.06,
+          "bank": 2.16
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Perth",
+      "name": "One Place. Every Race. Racing TV Novices' Handicap Hurdle (Div 1)",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Jukebox",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "Harry Bannister",
+          "trainer": "W Greatrex",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.6,
+          "profit": -0.67,
+          "bank": 1.49
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Perth",
+      "name": "One Place. Every Race. Racing TV Novices' Handicap Hurdle (Div 2)",
+      "class": "5",
+      "distance": "2m 4f 35y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Star Vantage",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Charlie Maggs",
+          "trainer": "R Menzies",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.6,
+          "profit": -1.6,
+          "bank": -0.11
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Chepstow",
+      "name": "Braceys My Coranna Maiden Hurdle (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "My Boy Aaron",
+          "stars": 5,
+          "odds": "4/9",
+          "jockey": "Sean Houlihan",
+          "trainer": "R Stephens",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Perth",
+      "name": "Every Race Live On Racing TV Open NH Flat Race (GBB Race)",
+      "class": "4",
+      "distance": "2m 47y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kill Vanhowe",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Jordan Gainford",
+          "trainer": "A J Martin",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.6,
+          "profit": -1.6,
+          "bank": -1.71
+        }
+      ]
+    },
+    {
+      "time": "17:05",
+      "meeting": "Chepstow",
+      "name": "Braceys My Coranna Maiden Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "2m 16y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "One Island",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Cobden",
+          "trainer": "P F Nicholls",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.6,
+          "profit": -0.27,
+          "bank": -1.98
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 9,
+    "races": 9,
+    "settled": 8,
+    "won": 2,
+    "placed": 2,
+    "lost": 4,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1.6,
+    "units": 16,
+    "horses": 9,
+    "bet_horses": 8,
+    "total_stake": 12.8
+  },
+  "staked": 12.8,
+  "returned": 6.81,
+  "profit": -5.99,
+  "bank": {
+    "start": 4.01,
+    "end": -1.98,
+    "next_stake": 1.9,
+    "ladder": [
+      3,
+      4,
+      5,
+      7,
+      10,
+      13,
+      16
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

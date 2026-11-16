@@ -1,0 +1,302 @@
+{
+  "date": "2026-11-11",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Bangor-on-Dee",
+      "name": "Yorton Mares' Novices' Chase (Listed) (GBB Race)",
+      "class": "1",
+      "distance": "2m 1f 77y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mighty Fleur",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "S Bowen",
+          "trainer": "M Bowen",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.07,
+          "bank": 99.0
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Ayr",
+      "name": "Coral 'Pipped-At-The-Post And Win' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Attin",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Danny McMenamin",
+          "trainer": "N G Richards",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.16,
+          "bank": 98.84
+        }
+      ]
+    },
+    {
+      "time": "14:13",
+      "meeting": "Ayr",
+      "name": "Coral 'Daily Rewards Shaker' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 110y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jack Dempsey",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Callum Bewley",
+          "trainer": "I A Duncan",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.04,
+          "bank": 98.8
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "5f",
+      "going": "Standard",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lethimfly",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Nicola Burns",
+          "trainer": "G Keane",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.08,
+          "bank": 98.72
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "name": "'Play Coral Racing-Super-Series For Free' Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 100y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Boston Jury",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Conor Rabbitt",
+          "trainer": "A B Hamilton",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "name": "Book Online At DundalkStadium.com Nursery Handicap",
+      "class": "",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Invincible Irish",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Scott McCullagh",
+          "trainer": "Daniel McLoughlin",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.13,
+          "bank": 98.59
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Claiming Race",
+      "class": "",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Shoot To Kill",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Erin Dunseath",
+          "trainer": "N C Kelly",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.96,
+          "bank": 99.55
+        }
+      ]
+    },
+    {
+      "time": "16:02",
+      "meeting": "Dundalk",
+      "name": "Bet On The Best Night Out At Dundalk Stadium Maiden",
+      "class": "",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lookingforarainbow",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Gavin Ryan",
+          "trainer": "Donnacha O'Brien",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.72,
+          "bank": 100.27
+        }
+      ]
+    },
+    {
+      "time": "16:32",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Median Auction Maiden",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Marcescence",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Jack Kearney",
+          "trainer": "G P Cromwell",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 99.87
+        }
+      ]
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "name": "Celebrate Your Special Occasion At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Go Out",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Jack Kearney",
+          "trainer": "Daniel Murphy",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.02,
+          "bank": 99.85
+        }
+      ]
+    },
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "name": "Now Racing Every Wednesday At Dundalk Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eastern Peace",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Billy Lee",
+          "trainer": "R O'Sullivan",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 99.45
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 11,
+    "races": 11,
+    "settled": 10,
+    "won": 2,
+    "placed": 6,
+    "lost": 2,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 11,
+    "bet_horses": 10,
+    "total_stake": 4.0
+  },
+  "staked": 4.0,
+  "returned": 4.38,
+  "profit": 0.38,
+  "bank": {
+    "start": 99.07,
+    "end": 99.45,
+    "next_stake": 0.4,
+    "ladder": [
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

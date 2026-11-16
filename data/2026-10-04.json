@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-04",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "15:40",
+      "meeting": "Kelso",
+      "name": "Join Racing TV Now Conditional Jockeys' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 189y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "My My My Delilah",
+          "stars": 5,
+          "odds": "17/2",
+          "jockey": "Murray Dodd",
+          "trainer": "W Coltherd",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 97.82
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 0.4
+  },
+  "staked": 0.4,
+  "returned": 0.0,
+  "profit": -0.4,
+  "bank": {
+    "start": 98.22,
+    "end": 97.82,
+    "next_stake": 0.5,
+    "ladder": [
+      1,
+      2,
+      2,
+      3,
+      4
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

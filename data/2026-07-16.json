@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-16",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:15",
+      "meeting": "Hamilton",
+      "name": "Wellman Cars Hamilton Handicap",
+      "class": "6",
+      "distance": "5f 7y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Classy Clarets",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Jack Nicholls",
+          "trainer": "I Jardine",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 91.5,
+          "profit": 54.9,
+          "bank": -463.63
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Chepstow",
+      "name": "EBF / UB40 ft. Ali Campbell 24th July Restricted Novice Stakes",
+      "class": "4",
+      "distance": "5f 16y",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Amber Ocean",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Rossa Ryan",
+          "trainer": "Dr R Newland",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 91.5,
+          "profit": 274.5,
+          "bank": -189.13
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Chepstow",
+      "name": "Bet Now With fairplaybet.co.uk Handicap",
+      "class": "6",
+      "distance": "7f 16y",
+      "going": "Good to Firm",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tomarlo",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Billy Loughnane",
+          "trainer": "Ollie Sangster",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 91.5,
+          "profit": -91.5,
+          "bank": -280.63
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 3,
+    "won": 2,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 91.5,
+    "units": 915,
+    "horses": 3,
+    "bet_horses": 3,
+    "total_stake": 274.5
+  },
+  "staked": 274.5,
+  "returned": 512.4,
+  "profit": 237.9,
+  "bank": {
+    "start": -518.53,
+    "end": -280.63,
+    "next_stake": 87.7,
+    "ladder": [
+      286,
+      375,
+      464,
+      591
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-27",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:05",
+      "meeting": "Hamilton",
+      "name": "ICB (Water Proofing) Handicap",
+      "class": "4",
+      "distance": "6f 6y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Siouxpersonic",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Ryan Sexton",
+          "trainer": "Miss J A Camacho",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.8,
+          "profit": -3.8,
+          "bank": -6.96
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.8,
+    "units": 38,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 3.8
+  },
+  "staked": 3.8,
+  "returned": 0.0,
+  "profit": -3.8,
+  "bank": {
+    "start": -3.16,
+    "end": -6.96,
+    "next_stake": 5.4,
+    "ladder": [
+      16,
+      19,
+      22,
+      38
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

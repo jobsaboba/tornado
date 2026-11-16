@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-29",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:22",
+      "meeting": "Ffos Las",
+      "name": "Dress For The Occasions Handicap",
+      "class": "6",
+      "distance": "1m 3f 209y",
+      "going": "Good (Good To Firm in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Captain Cairney",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Jack Doughty",
+          "trainer": "W Muir & C Grassick",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 26.7,
+          "profit": -26.7,
+          "bank": -130.59
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 26.7,
+    "units": 267,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 26.7
+  },
+  "staked": 26.7,
+  "returned": 0.0,
+  "profit": -26.7,
+  "bank": {
+    "start": -103.89,
+    "end": -130.59,
+    "next_stake": 33.7,
+    "ladder": [
+      70,
+      89,
+      127,
+      197,
+      267
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-20",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:12",
+      "meeting": "Ayr",
+      "name": "Kronenbourg 1664 Handicap",
+      "class": "6",
+      "distance": "6f",
+      "going": "Good to Firm",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jet Warrior",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "C Lee",
+          "trainer": "B Haslam",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.7,
+          "profit": 14.43,
+          "bank": -0.42
+        }
+      ]
+    },
+    {
+      "time": "13:42",
+      "meeting": "Ayr",
+      "name": "Schweppes Cherry Pepper Handicap",
+      "class": "4",
+      "distance": "1m 1f 20y",
+      "going": "Good to Firm",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pearl Eye",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.7,
+          "profit": -3.7,
+          "bank": -4.12
+        }
+      ]
+    },
+    {
+      "time": "14:42",
+      "meeting": "Ayr",
+      "name": "Tennent's Lager Handicap",
+      "class": "4",
+      "distance": "1m",
+      "going": "Good to Firm",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Return To Unit",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "P J McDonald",
+          "trainer": "R Varian",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 3.7,
+          "profit": -3.7,
+          "bank": -7.82
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "name": "Happy 1st Birthday Idris Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 191y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Green Asset",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Shane Fenelon",
+          "trainer": "M Bowen",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.7,
+          "profit": 12.21,
+          "bank": 4.39
+        }
+      ]
+    },
+    {
+      "time": "15:12",
+      "meeting": "Ayr",
+      "name": "Birra Poretti Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 50y",
+      "going": "Good to Firm",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Al Muqdad",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "D Nolan",
+          "trainer": "D O'Meara",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.7,
+          "profit": -0.18,
+          "bank": 4.21
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Ayr",
+      "name": "Birra Poretti Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 50y",
+      "going": "Good to Firm",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Qazaq",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Cam Hardie",
+          "trainer": "I Jardine",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.7,
+          "profit": -3.7,
+          "bank": 0.51
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "name": "Oasis Summer Fruits Apprentice Handicap",
+      "class": "6",
+      "distance": "1m",
+      "going": "Good to Firm",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wolf Of Badenoch",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "C J Whiteley",
+          "trainer": "T Culhane & S Barclay",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.7,
+          "profit": -1.34,
+          "bank": -0.83
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 7,
+    "won": 2,
+    "placed": 2,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 3.7,
+    "units": 37,
+    "horses": 7,
+    "bet_horses": 7,
+    "total_stake": 25.9
+  },
+  "staked": 25.9,
+  "returned": 39.92,
+  "profit": 14.02,
+  "bank": {
+    "start": -14.85,
+    "end": -0.83,
+    "next_stake": 3.6,
+    "ladder": [
+      10,
+      13,
+      16,
+      19,
+      22,
+      26
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

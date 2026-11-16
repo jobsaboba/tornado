@@ -1,0 +1,494 @@
+{
+  "date": "2026-11-15",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "11:40",
+      "meeting": "Navan",
+      "name": "BAR 1 Casino 3-Y-O Maiden Hurdle",
+      "class": "",
+      "distance": "2m",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Norman Prince",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Jack Kennedy",
+          "trainer": "G Elliott",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 101.54
+        }
+      ]
+    },
+    {
+      "time": "12:10",
+      "meeting": "Navan",
+      "name": "Irish Stallion Farms EBF Mares Maiden Hurdle",
+      "class": "",
+      "distance": "2m",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 19,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "La Valserine",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Paul Townend",
+          "trainer": "W P Mullins",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.1,
+          "bank": 101.44
+        }
+      ]
+    },
+    {
+      "time": "12:30",
+      "meeting": "Fontwell",
+      "name": "StoneX Commodities Conditional Jockeys' Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 1f 162y",
+      "going": "Good to soft-good in places",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Kamaxos",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Daire James McConville",
+          "trainer": "C E Longsdon",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 101.04
+        }
+      ]
+    },
+    {
+      "time": "12:40",
+      "meeting": "Navan",
+      "name": "Gaeil Colmcille GAA Kells 'Day At The Races' Handicap Hurdle (0-100)",
+      "class": "",
+      "distance": "2m",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 28,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Caulfield",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Mr O McGill",
+          "trainer": "N C Kelly",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": 0.12,
+          "bank": 101.16
+        }
+      ]
+    },
+    {
+      "time": "12:50",
+      "meeting": "Cheltenham",
+      "name": "mallardjewellers.com Maiden Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 87y",
+      "going": "Good-good to firm in places",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wolf Rayet",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "R T Dunne",
+          "trainer": "S Drinkwater",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.08,
+          "bank": 101.08
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Fontwell",
+      "name": "StoneX Southern National Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "3m 3f 149y",
+      "going": "Good to soft-good in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mask Of Zorro",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Dylan Johnston",
+          "trainer": "J Tizzard",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:25",
+      "meeting": "Cheltenham",
+      "name": "WKD Novices' Limited Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "2m 4f 44y",
+      "going": "Good-good to firm in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crystal Island",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "N de Boinville",
+          "trainer": "N J Henderson",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:43",
+      "meeting": "Fontwell",
+      "name": "StoneX Bullion Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 1f 162y",
+      "going": "Good to soft-good in places",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Bass Hunter",
+          "stars": 5,
+          "odds": "4/11",
+          "jockey": "Freddie Gordon",
+          "trainer": "C Gordon",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.09,
+          "bank": 101.17
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "meeting": "Navan",
+      "name": "BAR 1 Betting 'Bet 10 Get 50' Tara Handicap Hurdle",
+      "class": "",
+      "distance": "2m 5f",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Paddy's Milestone",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Sam Ewing",
+          "trainer": "S R B Crawford",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 1.92,
+          "bank": 103.09
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Cheltenham",
+      "name": "Weatherite Air Conditioning Handicap Chase (GBB Race)",
+      "class": "3",
+      "distance": "1m 7f 199y",
+      "going": "Good-good to firm in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Shakeyatailfeather",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Fontwell",
+      "name": "StoneX Payments Juvenile Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 1f 162y",
+      "going": "Good to soft-good in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Silver State",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Tom Cannon",
+          "trainer": "A King",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "profit": 0.45,
+          "bank": 103.54
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Navan",
+      "name": "Race And Stay Irish EBF Beginners Chase",
+      "class": "",
+      "distance": "2m 4f 150y",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Classical Creek",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Jack Kennedy",
+          "trainer": "G Elliott",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.04,
+          "bank": 103.5
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Cheltenham",
+      "name": "Oddschecker Handicap Chase (Premier Handicap) (Registered As The Tom Olliver Handicap Chase) (GBB Race)",
+      "class": "1",
+      "distance": "3m 3f 71y",
+      "going": "Good-good to firm in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Havaila",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Caoilin Quinn",
+          "trainer": "Jamie & Josh Moore",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Fontwell",
+      "name": "John Rogerson Memorial Handicap Chase",
+      "class": "5",
+      "distance": "2m 5f 135y",
+      "going": "Good to soft-good in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Majestic Moment",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Rian Corcoran",
+          "trainer": "D Summersby",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Navan",
+      "name": "BAR 1 Betting Troytown Handicap Chase (Grade 3)",
+      "class": "1",
+      "distance": "3m",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 18,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Enabler",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Danny Gilligan",
+          "trainer": "G Elliott",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 103.1
+        }
+      ]
+    },
+    {
+      "time": "15:10",
+      "meeting": "Cheltenham",
+      "name": "Unibet Greatwood Handicap Hurdle (Premier Handicap) (GBB Race)",
+      "class": "1",
+      "distance": "2m 87y",
+      "going": "Good-good to firm in places",
+      "runners": 18,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Let It Rain",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 4,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": 0.0,
+          "bank": 103.1
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Fontwell",
+      "name": "Maria's And Aidie's 25th Wedding Anniversary Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 5f 164y",
+      "going": "Good to soft-good in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Asta La Vista",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Joe Anderson",
+          "trainer": "T Britten",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 102.7
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Navan",
+      "name": "Coolmore N.H. Sires Hurricane Lane Irish EBF Mares Flat Race (Listed)",
+      "class": "1",
+      "distance": "2m",
+      "going": "Hurdle: good to yielding-yielding in places; chase: yielding-good to yielding in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sarahs Lawn",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Mr D L Queally",
+          "trainer": "D Queally",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.4,
+          "profit": -0.14,
+          "bank": 102.56
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Cheltenham",
+      "name": "Three Counties Christmas Open NH Flat Race (Listed) (Registered As The William Kidd) (GBB Race)",
+      "class": "1",
+      "distance": "2m 87y",
+      "going": "Good-good to firm in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "New Grange",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Harry Cobden",
+          "trainer": "T Cooper",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 102.16
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 19,
+    "races": 19,
+    "settled": 14,
+    "won": 3,
+    "placed": 6,
+    "lost": 5,
+    "nr": 5,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.4,
+    "units": 4,
+    "horses": 19,
+    "bet_horses": 14,
+    "total_stake": 5.6
+  },
+  "staked": 5.6,
+  "returned": 5.82,
+  "profit": 0.22,
+  "bank": {
+    "start": 101.94,
+    "end": 102.16,
+    "next_stake": 0.4,
+    "ladder": [
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

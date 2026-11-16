@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-25",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "14:00",
+      "meeting": "Bangor-on-Dee",
+      "name": "Wynnstay Mares' 'National Hunt' Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 145y",
+      "going": "Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Longhouse Gem",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Ben Jones",
+          "trainer": "B Pauling",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 11.09
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Bangor-on-Dee",
+      "name": "Alfa Aggregates Products North Wales National Handicap Chase (GBB Race)",
+      "class": "4",
+      "distance": "3m 5f 142y",
+      "going": "Soft (Heavy in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Planned Paradise",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Jack Tudor",
+          "trainer": "Christian Williams",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "profit": 1.2,
+          "bank": 12.29
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Bangor-on-Dee",
+      "name": "Nightingale House Hospice Novices' Handicap Chase",
+      "class": "5",
+      "distance": "2m 1f 77y",
+      "going": "Soft (Heavy in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Copper Cove",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Thomas Bellamy",
+          "trainer": "D Elsworth & R Hatch",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.5,
+    "units": 5,
+    "horses": 3,
+    "bet_horses": 2,
+    "total_stake": 1.0
+  },
+  "staked": 1.0,
+  "returned": 1.7,
+  "profit": 0.7,
+  "bank": {
+    "start": 11.59,
+    "end": 12.29,
+    "next_stake": 0.5,
+    "ladder": [
+      2,
+      2,
+      3
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

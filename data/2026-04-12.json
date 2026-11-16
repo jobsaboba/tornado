@@ -1,0 +1,306 @@
+{
+  "date": "2026-04-12",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:03",
+      "meeting": "Ffos Las",
+      "name": "3A's Wales' Largest Motorhome Sales Mares' Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Miss Kassiopi",
+          "stars": 5,
+          "odds": "4/5",
+          "jockey": "Harry Bannister",
+          "trainer": "R Bandey",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.7,
+          "profit": -0.29,
+          "bank": 12.02
+        }
+      ]
+    },
+    {
+      "time": "13:38",
+      "meeting": "Ffos Las",
+      "name": "Amroth Bay Static Caravan Sales Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Doujadou",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "S Bowen",
+          "trainer": "Miss R Curtis",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 1.15,
+          "bank": 13.17
+        }
+      ]
+    },
+    {
+      "time": "14:13",
+      "meeting": "Ffos Las",
+      "name": "Paned At 3A's Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cinquenta",
+          "stars": 5,
+          "odds": "4/9",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 0.19,
+          "bank": 13.36
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "name": "Tommy Williams Memorial Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Thewoodcorner",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "James Bowen",
+          "trainer": "N J Henderson",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 0.68,
+          "bank": 14.04
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Musselburgh",
+      "name": "Enter ITV7 For Free Handicap",
+      "class": "5",
+      "distance": "1m 2y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Blues And Royals",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "H Crouch",
+          "trainer": "M L W Bell",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.7,
+          "profit": -0.17,
+          "bank": 13.87
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Ffos Las",
+      "name": "3A's Horsebox Hire And Sales Handicap Chase",
+      "class": "5",
+      "distance": "2m 3f 83y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Boston Joe",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Ben Jones",
+          "trainer": "Miss R Curtis",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 13.17
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet For The Fans Holyrood Handicap",
+      "class": "3",
+      "distance": "1m 208y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sea Force",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Cieren Fallon",
+          "trainer": "W J Haggas",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 12.47
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Ffos Las",
+      "name": "Barry Murphy Racing Syndicate Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 191y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "An Buachaill Rua",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Callum Pritchard",
+          "trainer": "Sheila Lewis",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Extra Places Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 104y",
+      "going": "Good",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Velvet Whisper",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Callum Rodriguez",
+          "trainer": "E Bethell",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 11.77
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Proud To Support Young Lives Vs Cancer Handicap",
+      "class": "4",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sea Suite",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Cieren Fallon",
+          "trainer": "James Owen",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.7,
+          "profit": -0.7,
+          "bank": 11.07
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Price Boosts Handicap",
+      "class": "4",
+      "distance": "5f 1y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Montezuma",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.7,
+          "profit": 1.05,
+          "bank": 12.12
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 11,
+    "races": 11,
+    "settled": 10,
+    "won": 4,
+    "placed": 2,
+    "lost": 4,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.7,
+    "units": 7,
+    "horses": 11,
+    "bet_horses": 10,
+    "total_stake": 7.0
+  },
+  "staked": 7.0,
+  "returned": 6.81,
+  "profit": -0.19,
+  "bank": {
+    "start": 12.31,
+    "end": 12.12,
+    "next_stake": 0.9,
+    "ladder": [
+      2,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

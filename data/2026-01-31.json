@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-31",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:43",
+      "meeting": "Musselburgh",
+      "name": "bet365 Scottish County Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "1m 7f 124y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Welsh Charger",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "C Gethings",
+          "trainer": "A Ralph",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "name": "bet365 Scottish Champion Chase (For The Bowes-Lyon Trophy) (Handicap) (GBB Race)",
+      "class": "2",
+      "distance": "2m 4f 68y",
+      "going": "Good to Soft (Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Kalooki Kid",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Danny McMenamin",
+          "trainer": "N G Richards",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 11.82
+        }
+      ]
+    },
+    {
+      "time": "15:37",
+      "meeting": "Musselburgh",
+      "name": "bet365 Handicap Hurdle",
+      "class": "4",
+      "distance": "1m 7f 124y",
+      "going": "Good to Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Magna Victor",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "C Gethings",
+          "trainer": "A Ralph",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "profit": 0.6,
+          "bank": 12.42
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 3,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.3,
+    "units": 3,
+    "horses": 3,
+    "bet_horses": 2,
+    "total_stake": 0.6
+  },
+  "staked": 0.6,
+  "returned": 0.9,
+  "profit": 0.3,
+  "bank": {
+    "start": 12.12,
+    "end": 12.42,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

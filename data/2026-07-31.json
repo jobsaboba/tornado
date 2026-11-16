@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-31",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "16:45",
+      "meeting": "Musselburgh",
+      "name": "Edinburgh Childrens Hospital Charity Handicap",
+      "class": "6",
+      "distance": "1m 5f",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jedhi Knight",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "D Nolan",
+          "trainer": "P T Midgley",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 202.1,
+          "profit": -33.68,
+          "bank": -1368.25
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "races": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 202.1,
+    "units": 2021,
+    "horses": 1,
+    "bet_horses": 1,
+    "total_stake": 202.1
+  },
+  "staked": 202.1,
+  "returned": 168.42,
+  "profit": -33.68,
+  "bank": {
+    "start": -1334.57,
+    "end": -1368.25,
+    "next_stake": 230.7,
+    "ladder": [
+      286,
+      375,
+      464,
+      591,
+      877,
+      1163,
+      1449,
+      1735,
+      2021
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

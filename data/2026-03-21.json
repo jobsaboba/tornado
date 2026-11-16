@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-21",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Kelso",
+      "name": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
+      "class": "1",
+      "distance": "3m 100y",
+      "going": "Good to Soft",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "World Of Fortunes",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Jordan Gainford",
+          "trainer": "J W Kenny",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.0,
+          "profit": 1.65,
+          "bank": 12.04
+        }
+      ]
+    },
+    {
+      "time": "13:07",
+      "meeting": "Bangor-on-Dee",
+      "name": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f 123y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mossy Fen Coolio",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "K Brogan",
+          "trainer": "J & A O'Neill",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.0,
+          "profit": -0.25,
+          "bank": 11.79
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "name": "BetWright Herring Queen Series Final Mares' Novices' Handicap Hurdle (GBB Race)",
+      "class": "2",
+      "distance": "2m 51y",
+      "going": "Good to Soft",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamonds Galore",
+          "stars": 5,
+          "odds": "12/1",
+          "jockey": "David Bass",
+          "trainer": "N J Henderson",
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "name": "BetWright Novices' Handicap Chase (GBB Race)",
+      "class": "2",
+      "distance": "2m 5f 133y",
+      "going": "Good to Soft",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamond Dealer",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Tristan Durrell",
+          "trainer": "D Skelton",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.0,
+          "profit": 2.0,
+          "bank": 13.79
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Bangor-on-Dee",
+      "name": "Wrexham Lager Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 32y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "An Buachaill Rua",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Atkins",
+          "trainer": "Sheila Lewis",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.0,
+          "profit": -0.17,
+          "bank": 13.62
+        }
+      ]
+    },
+    {
+      "time": "16:23",
+      "meeting": "Kelso",
+      "name": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
+      "class": "2",
+      "distance": "2m 51y",
+      "going": "Good to Soft",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamond White",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Jonjo O'Neill Jr.",
+          "trainer": "J & A O'Neill",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.0,
+          "profit": -0.15,
+          "bank": 13.47
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Bangor-on-Dee",
+      "name": "Tom Jones Live At Chester Racecourse Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 123y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ayyadieh",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Theo Gillard",
+          "trainer": "D McCain Jnr",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.0,
+          "profit": -0.1,
+          "bank": 13.37
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 7,
+    "races": 7,
+    "settled": 6,
+    "won": 2,
+    "placed": 4,
+    "lost": 0,
+    "nr": 1,
+    "pending": 0
+  },
+  "day": {
+    "bet": 1.0,
+    "units": 10,
+    "horses": 7,
+    "bet_horses": 6,
+    "total_stake": 6.0
+  },
+  "staked": 6.0,
+  "returned": 8.98,
+  "profit": 2.98,
+  "bank": {
+    "start": 10.39,
+    "end": 13.37,
+    "next_stake": 0.3,
+    "ladder": [
+      1,
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}

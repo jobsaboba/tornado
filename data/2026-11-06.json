@@ -1,0 +1,555 @@
+{
+  "date": "2026-11-06",
+  "updated": "2026-11-16T06:03:24+0000",
+  "races": [
+    {
+      "time": "12:50",
+      "meeting": "Fontwell",
+      "name": "KSR Lighting Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 1f 162y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Smokehouse",
+          "stars": 5,
+          "odds": "4/7",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "profit": 0.07,
+          "bank": 100.8
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Fontwell",
+      "name": "Gary Wrights Big 40th Birthday Celebration Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 3f 29y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "So You Know",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Thomas Bellamy",
+          "trainer": "K Bailey & M Nicholls",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 100.6
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Hexham",
+      "name": "carpetgallop.co.uk Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 28y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Titanium Ring",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Stan Sheppard",
+          "trainer": "H D Daly",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": -0.07,
+          "bank": 100.53
+        }
+      ]
+    },
+    {
+      "time": "14:53",
+      "meeting": "Newcastle",
+      "name": "Midnite A Next Generation Betting App Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 2f 42y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sovereign View",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "L Morris",
+          "trainer": "J Tate",
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 100.33
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Hexham",
+      "name": "carpetgallop.co.uk Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f 28y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Boy Aaron",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "B S Hughes",
+          "trainer": "A Nicol",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": -0.06,
+          "bank": 100.27
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "name": "BetMGM Handicap Chase (Premier Handicap) (GBB Race)",
+      "class": "1",
+      "distance": "3m 210y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Here Comes Georgie",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 100.07
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Fontwell",
+      "name": "Weddings At Fontwell Park Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 1f 162y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Winston's Oath",
+          "stars": 5,
+          "odds": "11/10",
+          "jockey": "J J Burke",
+          "trainer": "James Owen",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": -0.08,
+          "bank": 99.99
+        }
+      ]
+    },
+    {
+      "time": "15:52",
+      "meeting": "Hexham",
+      "name": "Debra Corner Happy Birthday Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 7f 63y",
+      "going": "Good (Good to Soft in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Jet Noir",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "P W Wadge",
+          "trainer": "Mrs J Stephen",
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.79
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Newcastle",
+      "name": "AWC Finals Day At Newcastle 26th March Nursery",
+      "class": "6",
+      "distance": "7f 14y",
+      "going": "Standard",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Odegaard",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "Aiden Brookes",
+          "trainer": "Micky Hammond",
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": 0.08,
+          "bank": 99.87
+        }
+      ]
+    },
+    {
+      "time": "16:05",
+      "meeting": "Aintree",
+      "name": "Gamble Responsibly At BetMGM Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 209y",
+      "going": "Good to Soft (Good in places)",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Quaviste",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.67
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Newcastle",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 EBF Maiden Fillies' Stakes (GBB Race)",
+      "class": "3",
+      "distance": "7f 14y",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mobilizing",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "S H James",
+          "trainer": "K R Burke",
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.47
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "5",
+      "distance": "5f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Frantic",
+          "stars": 5,
+          "odds": "9/1",
+          "jockey": "K Shoemark",
+          "trainer": "E Walker",
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.27
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "name": "Irish Stallion Farms EBF Fillies Maiden",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sensational Filly",
+          "stars": 5,
+          "odds": "8/15",
+          "jockey": "Billy Lee",
+          "trainer": "P Twomey",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 99.07
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "name": "All-Weather Championship Season 14 Has Begun Handicap",
+      "class": "6",
+      "distance": "1m 5y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Book Of Life",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Paddy Bradley",
+          "trainer": "P Morris",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": 0.05,
+          "bank": 99.12
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting 'Acca Boost' Apprentice Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Soaring Sun",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Robyn Donaghue-Leahy",
+          "trainer": "P J Flynn",
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.92
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Blazing Son",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "O McSweeney",
+          "trainer": "B Smart",
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "profit": 0.1,
+          "bank": 99.02
+        },
+        {
+          "rank": 2,
+          "horse": "Showtime Mahomes",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "S H James",
+          "trainer": "Grant Tuer",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.82
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "name": "Irish Stallion Farms EBF Cooley Fillies Stakes (Fillies' And Mares' Listed)",
+      "class": "1",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Aviatrice",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Billy Lee",
+          "trainer": "D Marnane",
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "profit": 0.36,
+          "bank": 99.18
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Marianne Mozart",
+          "stars": 5,
+          "odds": "14/1",
+          "jockey": "K S McHugh",
+          "trainer": "I Mohammed & J Santos",
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.98
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "name": "Irish Stallion Farms EBF (C & G) Maiden",
+      "class": "",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "On Just Terms",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "J M Sheridan",
+          "trainer": "J P O'Brien",
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.78
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting '2Up Early Payout' Handicap",
+      "class": "",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Daler",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "Colin Keane",
+          "trainer": "G M Lyons",
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.58
+        }
+      ]
+    },
+    {
+      "time": "20:15",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting Bet Builder Boost Handicap (0-60)",
+      "class": "",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Hooves Your Daddy",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Colin Keane",
+          "trainer": "J P Fahey",
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.2,
+          "profit": -0.2,
+          "bank": 98.38
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 22,
+    "races": 21,
+    "settled": 22,
+    "won": 2,
+    "placed": 6,
+    "lost": 14,
+    "nr": 0,
+    "pending": 0
+  },
+  "day": {
+    "bet": 0.2,
+    "units": 2,
+    "horses": 22,
+    "bet_horses": 22,
+    "total_stake": 4.4
+  },
+  "staked": 4.4,
+  "returned": 2.05,
+  "profit": -2.35,
+  "bank": {
+    "start": 100.73,
+    "end": 98.38,
+    "next_stake": 0.4,
+    "ladder": [
+      2,
+      2
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 102.16
+  }
+}
