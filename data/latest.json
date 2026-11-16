@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T20:30:56+0000",
+  "updated": "2026-11-16T21:00:43+0000",
   "races": [
     {
       "time": "13:15",
@@ -306,11 +306,11 @@
           "odds": "13/8",
           "jockey": "Jack Dace",
           "trainer": "D M Simcock",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 99.22
         }
       ]
     }
@@ -318,33 +318,34 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 12,
+    "settled": 13,
     "won": 2,
     "placed": 2,
-    "lost": 8,
+    "lost": 9,
     "nr": 0,
-    "pending": 1
+    "pending": 0
   },
   "day": {
     "bet": 0.4,
     "units": 4,
     "horses": 13,
-    "bet_horses": 12,
+    "bet_horses": 13,
     "total_stake": 5.2
   },
-  "staked": 4.8,
+  "staked": 5.2,
   "returned": 2.26,
-  "profit": -2.54,
+  "profit": -2.94,
   "bank": {
     "start": 102.16,
-    "end": 99.62,
-    "next_stake": 0.4,
+    "end": 99.22,
+    "next_stake": 0.6,
     "ladder": [
       2,
-      2
+      2,
+      4
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 99.62
+    "season_end": 99.22
   }
 }
