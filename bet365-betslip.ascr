@@ -1,0 +1,2622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scriptfile>
+    <settings program="actiona" version="3.10.1" scriptVersion="1.1.0" os="GNU/Linux"/>
+    <actions>
+        <action name="ActionKey" version="1.0.0"/>
+        <action name="ActionClick" version="1.0.0"/>
+        <action name="ActionWriteText" version="1.0.0"/>
+        <action name="ActionMessageBox" version="1.0.0"/>
+        <action name="ActionNotify" version="1.0.0"/>
+        <action name="ActionWindow" version="1.0.0"/>
+        <action name="ActionMoveCursor" version="1.0.0"/>
+        <action name="ActionWheel" version="1.0.0"/>
+    </actions>
+    <parameters/>
+    <resources/>
+    <script pauseBefore="0" pauseAfter="0">
+        <action name="ActionNotify">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="icon">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Tornado betslip — 13 bets · £5.20 total</subParameter>
+            </parameter>
+            <parameter name="timeout">
+                <subParameter name="value" code="0">5000</subParameter>
+            </parameter>
+            <parameter name="title">
+                <subParameter name="value" code="0">Tornado</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMessageBox">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="customIcon">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="icon">
+                <subParameter name="value" code="0">none</subParameter>
+            </parameter>
+            <parameter name="ifNo">
+                <subParameter name="action" code="0">do_nothing</subParameter>
+                <subParameter name="line" code="0"></subParameter>
+            </parameter>
+            <parameter name="ifYes">
+                <subParameter name="action" code="0">do_nothing</subParameter>
+                <subParameter name="line" code="0"></subParameter>
+            </parameter>
+            <parameter name="message">
+                <subParameter name="value" code="0">1. Open Bet365 in your browser and log in.
+2. Make sure the betslip is EMPTY.
+3. Press OK — the script fills the slip
+    and STOPS before 'Place bets'.</subParameter>
+            </parameter>
+            <parameter name="textMode">
+                <subParameter name="value" code="0">automatic</subParameter>
+            </parameter>
+            <parameter name="title">
+                <subParameter name="value" code="0">Tornado betslip</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">ok</subParameter>
+            </parameter>
+            <parameter name="windowIcon">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWindow" comment="Bring Bet365 to the front — stops if not open">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="title">
+                <subParameter name="value" code="0">*bet365*</subParameter>
+            </parameter>
+            <parameter name="action">
+                <subParameter name="value" code="0">setForeground</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="13:15 Plumpton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Cadillac Ranch (10/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Cadillac Ranch</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Cadillac Ranch" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="14:15 Plumpton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Kamille Au Kanada (4/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Kamille Au Kanada</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Kamille Au Kanada" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="14:45 Plumpton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Ephyra (25/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Ephyra</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Ephyra" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="15:45 Plumpton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Sir Edward Lear (3/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Sir Edward Lear</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Sir Edward Lear" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="16:30 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Go Go Girl (9/2)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Go Go Girl</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Go Go Girl" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="17:00 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Desert Romance (2/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Desert Romance</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Desert Romance" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="17:30 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Leading Role (5/4)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Leading Role</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Leading Role" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="18:00 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Al Lahbab (10/11)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Al Lahbab</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Al Lahbab" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="18:30 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Rhythm N Hooves (4/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Rhythm N Hooves</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Rhythm N Hooves" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMoveCursor" comment="ANCHOR:slip_scroll — CALIBRATE: a point over the betslip" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWheel" pauseAfter="400">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="intensity">
+                <subParameter name="value" code="0">-4</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="19:00 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Newsreader (9/2)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Newsreader</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Newsreader" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMoveCursor" comment="ANCHOR:slip_scroll — CALIBRATE: a point over the betslip" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWheel" pauseAfter="400">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="intensity">
+                <subParameter name="value" code="0">-4</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="19:30 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: R P Mcmurphy (5/2)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">R P Mcmurphy</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: R P Mcmurphy" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMoveCursor" comment="ANCHOR:slip_scroll — CALIBRATE: a point over the betslip" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWheel" pauseAfter="400">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="intensity">
+                <subParameter name="value" code="0">-4</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="20:00 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Ted Le Saux (6/1)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Ted Le Saux</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Ted Le Saux" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMoveCursor" comment="ANCHOR:slip_scroll — CALIBRATE: a point over the betslip" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWheel" pauseAfter="400">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="intensity">
+                <subParameter name="value" code="0">-4</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_btn — CALIBRATE: the magnifier/search button" pauseAfter="800">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="20:30 Wolverhampton — clear the search box" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">true</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">A</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="ANCHOR_NONE — search: Saxophonic (13/8)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Saxophonic</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionKey" comment="search: Saxophonic" pauseAfter="2500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="alt">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ctrl">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="key">
+                <subParameter name="isQtKey" code="0">true</subParameter>
+                <subParameter name="key" code="0">Return</subParameter>
+            </parameter>
+            <parameter name="meta">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">10</subParameter>
+            </parameter>
+            <parameter name="shift">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">Win32</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:search_odds — CALIBRATE: first search result's odds button" pauseAfter="1200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMoveCursor" comment="ANCHOR:slip_scroll — CALIBRATE: a point over the betslip" pauseAfter="200">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWheel" pauseAfter="400">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="intensity">
+                <subParameter name="value" code="0">-4</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_stake — CALIBRATE: first slip row's stake box (0.40)" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionWriteText" comment="stake £0.40" pauseAfter="300">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="noUnicodeCharacters">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+            <parameter name="pause">
+                <subParameter name="value" code="0">0</subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">0.40</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" comment="ANCHOR:slip_ew_dx — CALIBRATE: Each Way tick (offset from stake box)" pauseAfter="600">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>
+            <exception id="33" action="1" line=""/>            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="value" code="0">0,0</subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionNotify">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="1" line=""/>            <parameter name="icon">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="text">
+                <subParameter name="value" code="0">Betslip built — 13 bets · £5.20 · CHECK IT</subParameter>
+            </parameter>
+            <parameter name="timeout">
+                <subParameter name="value" code="0">5000</subParameter>
+            </parameter>
+            <parameter name="title">
+                <subParameter name="value" code="0">Tornado</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMessageBox">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>            <parameter name="customIcon">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="icon">
+                <subParameter name="value" code="0">none</subParameter>
+            </parameter>
+            <parameter name="ifNo">
+                <subParameter name="action" code="0">do_nothing</subParameter>
+                <subParameter name="line" code="0"></subParameter>
+            </parameter>
+            <parameter name="ifYes">
+                <subParameter name="action" code="0">do_nothing</subParameter>
+                <subParameter name="line" code="0"></subParameter>
+            </parameter>
+            <parameter name="message">
+                <subParameter name="value" code="0">Betslip built: 13 bets, £5.20 total.
+Check every stake and the Each Way ticks,
+then press 'Place bets' YOURSELF.</subParameter>
+            </parameter>
+            <parameter name="textMode">
+                <subParameter name="value" code="0">automatic</subParameter>
+            </parameter>
+            <parameter name="title">
+                <subParameter name="value" code="0">Tornado — your turn</subParameter>
+            </parameter>
+            <parameter name="type">
+                <subParameter name="value" code="0">ok</subParameter>
+            </parameter>
+            <parameter name="windowIcon">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+        </action>
+    </script>
+</scriptfile>
