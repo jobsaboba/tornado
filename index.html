@@ -75,7 +75,6 @@
   .pick .hn .nm{overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
   .pick .st{color:var(--gold); font-size:.6rem; letter-spacing:1px; flex-shrink:0}
 
-  /* the box: the horse's odds, on the pick's right */
   .obox{flex-shrink:0; text-align:center; background:var(--panel2); border:1px solid var(--line);
     border-radius:11px; padding:4px 9px; min-width:52px}
   .obox .tv{font-weight:900; font-size:1.02rem; color:var(--sky2); line-height:1.1; font-variant-numeric:tabular-nums; white-space:nowrap}
@@ -86,26 +85,19 @@
   .res.WIN{background:#0b2e21; color:var(--em)} .res.PLACE{background:#123227; color:#86efac}
   .res.LOSE{background:#331111; color:#fca5a5} .res.NR{background:#1c2a44; color:var(--dim)}
   .res.PEND{background:#2d2410; color:#fcd34d}
-  .resline .money{color:var(--sky2); font-weight:800}
-  .resline .money.neg{color:#fca5a5}
-  .resline .money.pos{color:var(--em)}
 
   .rc-count{font-size:.62rem; color:var(--dim); margin-top:8px; text-align:right}
 
-  /* the day's book — returns in, total stake out, the ladder line under */
   .card{background:var(--panel); border:1px solid var(--line); border-radius:18px;
     padding:16px; margin-bottom:12px; box-shadow:0 8px 22px rgba(0,0,0,.35)}
   .label{font-size:.65rem; color:var(--dim); text-transform:uppercase; letter-spacing:1.5px; margin-bottom:6px}
-  .row{display:flex; justify-content:space-between; align-items:center; gap:8px}
-  .lrow{display:flex; gap:8px; align-items:flex-end}
-  .lbox{display:flex; flex-direction:column; gap:2px}
-  .lbox.grow{flex:1; min-width:0}
+  .lrow{display:flex; gap:8px; align-items:flex-end; margin-bottom:8px}
+  .lbox{display:flex; flex-direction:column; gap:2px; flex:1; min-width:0}
   .lbox input{background:var(--panel2); border:1px solid var(--line); border-radius:10px; color:var(--ink);
     font-weight:900; font-size:1.05rem; padding:9px 10px; width:100%; outline:none; -webkit-appearance:none}
   .lbox input:focus{border-color:var(--sky)}
   .lbox select{background:var(--panel2); border:1px solid var(--line); border-radius:10px; color:var(--ink);
-    font-weight:900; font-size:.95rem; padding:9px 8px; outline:none}
-  .lval{font-weight:900; font-size:1.05rem; color:var(--sky2); padding:9px 0; font-variant-numeric:tabular-nums; white-space:nowrap}
+    font-weight:900; font-size:.95rem; padding:9px 8px; outline:none; width:100%}
   .lline{font-size:.72rem; color:var(--dim); margin-top:10px; line-height:1.5}
   .lline b{color:var(--sky2)} .lline .up{color:#fcd34d; font-weight:800} .lline .win{color:var(--em); font-weight:800}
   .chip{background:#1c2a44; border:1px solid var(--line); border-radius:999px; padding:2px 8px; font-size:.68rem; color:var(--dim)}
@@ -138,7 +130,7 @@
 
 <div class="views">
   <button id="v-day" class="on" onclick="setView('day')">The day</button>
-  <button id="v-season" onclick="setView('season')">The run</button>
+  <button id="v-season" onclick="setView('ledger')">My ledger</button>
 </div>
 
 <div class="days" id="days"></div>
@@ -148,25 +140,31 @@
   <div class="stat"><div class="label">Places</div><div class="v place" id="stP">–</div></div>
   <div class="stat"><div class="label">Losers</div><div class="v lose" id="stL">–</div></div>
   <div class="stat"><div class="label">To run</div><div class="v und" id="stU">–</div></div>
-  <div class="stat"><div class="label">Bank</div><div class="v bank" id="stBk">–</div></div>
+  <div class="stat"><div class="label">My bank</div><div class="v bank" id="stBk">–</div></div>
 </div>
 
 <div id="app"><div class="err">Loading…</div></div>
 
-<!-- the day's book: returns in · total stake out · the ladder line -->
+<!-- the day's book: bank · stakes · returns — all yours, typed in -->
 <div class="card" id="ledger" style="display:none">
-  <div class="label">The day's book — Jacobs Ladder · every bet that day stakes the same</div>
+  <div class="label">The day's book — your bank · your stakes · your returns</div>
   <div class="lrow">
-    <div class="lbox grow">
+    <div class="lbox">
       <div class="label" style="margin-bottom:2px">Day returns (£)</div>
       <input id="retBox" inputmode="decimal" placeholder="—" autocomplete="off">
     </div>
     <div class="lbox">
-      <div class="label" style="margin-bottom:2px">Total stake</div>
-      <div class="lval" id="totStake">—</div>
+      <div class="label" style="margin-bottom:2px">Day stakes (£)</div>
+      <input id="stakeBox" inputmode="decimal" placeholder="—" autocomplete="off">
     </div>
+  </div>
+  <div class="lrow">
     <div class="lbox">
-      <div class="label" style="margin-bottom:2px">Unit</div>
+      <div class="label" style="margin-bottom:2px">Bank (£)</div>
+      <input id="bankBox" inputmode="decimal" placeholder="—" autocomplete="off">
+    </div>
+    <div class="lbox" style="max-width:110px">
+      <div class="label" style="margin-bottom:2px">Base stake</div>
       <select id="unitSel">
         <option value="0.10">10p</option>
         <option value="0.05">5p</option>
@@ -179,17 +177,19 @@
 <footer class="hint">
   Every <b style="color:var(--gold)">★★★★★</b> horse in races with <b>8+ runners</b> — that's it.
   <b style="color:var(--sky2)">Blue box</b>: the odds. The result — WIN · PLACE · LOST — lands next to each selection as it comes in.<br>
-  Tornado's ledger: £10 bank · <b>Jacobs Ladder per day</b> — the day's bet is (first + last) × your unit
-  (ladder 1-2-2 at 10p = <b>30p a horse</b>). Day returns under the total stake and the ladder climbs
-  (1-2-2-3 → 40p); over it, the ladder shrinks; a new bank high resets to 1-2-2. Each-way at Ladbrokes: ½ win · ½ place at 1/5 odds.
+  The book is yours: type the <b>bank</b>, the day's <b>stakes</b> and the day's <b>returns</b> — the ladder line follows
+  <b>Jacobs Ladder by the day</b> off your numbers: returns under the stakes and it climbs
+  (1-2-2-3 → 4× base), over the stakes it trims both ends, a new bank high resets to 1-2-2.
   <span id="updated" style="display:block"></span>
 </footer>
 
 <script>
 "use strict";
-/* Tornado v1 — viewer + day book. The laptop slices the Holy Grail's sheet
-   of record (every 5★ horse in every 8+-runner race) and walks the daily
-   Jacobs Ladder; the returns box on the phone tracks the day live. */
+/* Tornado v2 — viewer + your own day book. No planned stakes, no paper
+   money: the laptop slices the Holy Grail's sheet of record (every 5★
+   horse in every 8+-runner race) and delivers the selections + results;
+   the bank, the stakes and the returns are typed in, and the daily
+   Jacobs Ladder line runs off YOUR numbers. */
 
 const $ = (id) => document.getElementById(id);
 
@@ -213,26 +213,64 @@ let DAY = null;
 let DATA = null;
 let deferredInstall = null;
 
-/* the phone's own day book: unit stake (5p/10p) + the day's returns */
+/* your day book: bank, stakes and returns, typed in and kept per day */
 let UNIT = parseFloat(localStorage.getItem("tornado-unit")) || 0.10;
 function retKey(d){ return "tornado-ret-" + d; }
-function dayReturns(d){ const v = parseFloat(localStorage.getItem(retKey(d))); return isNaN(v) ? null : v; }
-function factor(){ return (DAY === todayStr()) ? UNIT / 0.10 : 1; }
+function stakeKey(d){ return "tornado-stake-" + d; }
+function bankKey(d){ return "tornado-bank-" + d; }
+function num(v){ const n = parseFloat(v); return isNaN(n) ? null : n; }
 
-/* ladder preview: what the day's returns do to 1-2-2 */
-function ladderPreview(ret, total, ladder, unit){
-  const eps = 0.005;
-  if(ret == null) return null;
-  const climb = ret < total - eps;
-  let next;
-  if(climb){
-    next = ladder.concat([ladder.length > 1 ? ladder[0] + ladder[ladder.length-1] : ladder[0]]);
-  } else {
-    next = (ladder.length <= 2) ? [1,2,2] : ladder.slice(1, -1);
+/* your ladder, walked off your logged days in date order — faithful:
+   losing day appends the day's bet units, winning day trims both ends
+   (reset at two), a new bank high resets straight to 1-2-2. */
+function loggedDays(skipDate){
+  const days = [];
+  for(let i = 0; i < localStorage.length; i++){
+    const k = localStorage.key(i);
+    if(!k || !k.startsWith("tornado-ret-")) continue;
+    const d = k.slice(12);
+    if(d === skipDate) continue;
+    const r = num(localStorage.getItem(retKey(d)));
+    const s = num(localStorage.getItem(stakeKey(d)));
+    if(r == null || s == null) continue;
+    const b = num(localStorage.getItem(bankKey(d)));
+    days.push({d: d, r: r, s: s, b: b});
   }
-  const units = next.length > 1 ? next[0] + next[next.length-1] : next[0];
-  return {climb: climb, next: next, nextBet: Math.round(units * unit * 100) / 100};
+  days.sort((a, b) => (a.d < b.d ? -1 : 1));
+  return days;
 }
+
+function ladderStep(ladder, r, s, bank, peak){
+  const eps = 0.005;
+  const u = (ladder.length > 1) ? (ladder[0] + ladder[ladder.length-1]) : ladder[0];
+  let next;
+  if(r < s - eps){
+    next = ladder.concat([u]);                       // losing day — climb
+  } else if(bank != null && bank > peak + eps){
+    peak = bank;                                     // new bank high — reset
+    next = [1, 2, 2];
+  } else {
+    next = (ladder.length <= 2) ? [1, 2, 2] : ladder.slice(1, -1);
+  }
+  if(bank != null && bank > peak) peak = bank;
+  return {ladder: next, peak: peak};
+}
+
+/* walk the logged days → {ladder, rows:[{d, r, s, bank}]} */
+function myWalk(skipDate){
+  let ladder = [1, 2, 2], peak = 10.0, lastBank = 10.0;
+  const rows = [];
+  for(const day of loggedDays(skipDate)){
+    const bank = (day.b != null) ? day.b : r2(lastBank + (day.r - day.s));
+    const st = ladderStep(ladder, day.r, day.s, bank, peak);
+    ladder = st.ladder; peak = st.peak; lastBank = bank;
+    rows.push({d: day.d, r: day.r, s: day.s, bank: bank});
+  }
+  return {ladder: ladder, peak: peak, rows: rows};
+}
+
+function unitsOf(l){ return (l.length > 1) ? (l[0] + l[l.length-1]) : l[0]; }
+function nextBetOf(l, unit){ return r2(unitsOf(l) * unit); }
 
 function renderDays(){
   const box = $("days");
@@ -264,38 +302,35 @@ async function loadDay(d){
   }
 }
 
+/* your bank as it stood on a date: typed that day, else the walked
+   estimate off your own numbers, else — */
+function myBankFor(d){
+  const mine = num(localStorage.getItem(bankKey(d)));
+  if(mine != null) return mine;
+  const rows = myWalk(null).rows.filter(x => x.d <= d);
+  return rows.length ? rows[rows.length-1].bank : null;
+}
+
 function renderStats(){
   const sc = DATA && DATA.score;
   $("stW").textContent = sc ? sc.won : "–";
   $("stP").textContent = sc ? sc.placed : "–";
   $("stL").textContent = sc ? sc.lost : "–";
   $("stU").textContent = sc ? sc.pending : "–";
-  $("stBk").textContent = DATA ? gbp(DATA.bank.end) : "–";
+  const bk = DAY ? myBankFor(DAY) : null;
+  $("stBk").textContent = bk != null ? gbp(bk) : "–";
   $("datechip").textContent = (DAY || "—") + (DAY === todayStr() ? " · today" : "");
   $("updated").textContent = DATA && DATA.updated ? "sheet updated " + DATA.updated.replace("T", " ").slice(0, 16) : "";
 }
 
-function moneyLine(p, f){
-  const shown = (p.profit == null && p.stake != null) ? r2(p.stake * f) : p.stake;
+/* results only — no money on the picks: the book below carries yours */
+function moneyLine(p){
   if(p.res === "NR") return '<span class="res NR">VOID</span><span>never ran — no stake on it</span>';
-  if(p.profit != null && p.stake != null){
-    if(p.res === "WIN") return '<span class="res WIN">WON</span>' +
-      '<span class="money pos">' + gbp(shown) + ' → +' + gbp(p.profit) + '</span>' +
-      '<span>bank ' + gbp(p.bank) + '</span>';
-    if(p.res === "PLACE") return '<span class="res PLACE">PLACE</span>' +
-      (p.profit >= 0
-        ? '<span class="money pos">' + gbp(shown) + ' → +' + gbp(p.profit) + '</span>'
-        : '<span class="money neg">' + gbp(shown) + ' → −' + gbp(p.profit) + '</span>') +
-      '<span>bank ' + gbp(p.bank) + '</span>';
-    if(p.res === "LOSE") return '<span class="res LOSE">LOST</span>' +
-      '<span class="money neg">−' + gbp(shown) + '</span>' +
-      '<span>bank ' + gbp(p.bank) + '</span>';
-  }
-  if(p.res && p.res !== "?")
-    return '<span class="res PEND">WAITING</span><span>race not all in — planned ' +
-      (shown != null ? gbp(shown) : "—") + '</span>';
-  return '<span class="res PEND">TO RUN</span><span>planned ' +
-    (shown != null ? gbp(shown) : "—") + ' at the off</span>';
+  if(p.res === "WIN") return '<span class="res WIN">WON</span>';
+  if(p.res === "PLACE") return '<span class="res PLACE">PLACE</span>';
+  if(p.res === "LOSE") return '<span class="res LOSE">LOST</span>';
+  if(p.res && p.res !== "?") return '<span class="res PEND">WAITING</span>';
+  return '<span class="res PEND">TO RUN</span>';
 }
 
 function render(){
@@ -308,7 +343,6 @@ function render(){
     app.innerHTML = '<div class="err">No 5★ horses on ' + (DAY||"") + '.</div>';
     return;
   }
-  const f = factor();
   let html = "";
   for(const rc of races){
     const meta = [rc.runners + " runners", rc.distance, rc.going, rc.class]
@@ -322,7 +356,7 @@ function render(){
         (stars ? '<span class="st">' + stars + '</span>' : '') + '</div></div>' +
         '<div class="obox"><div class="tv">' + esc(p.odds || "—") + '</div><div class="tl">odds</div></div>' +
         '</div>' +
-        '<div class="resline">' + moneyLine(p, f) + '</div>';
+        '<div class="resline">' + moneyLine(p) + '</div>';
     }
     html += '<section class="racecard"><div class="rc-head">' +
       '<div class="t">' + esc(rc.time) + " " + esc(rc.meeting) + '</div>' +
@@ -334,103 +368,131 @@ function render(){
 }
 
 /* ---------------------------------------------------------- the day book */
+function readBoxes(){
+  return {
+    r: num($("retBox").value),
+    s: num($("stakeBox").value),
+    b: num($("bankBox").value)
+  };
+}
+
 function renderLedger(){
   const card = $("ledger");
   if(VIEW !== "day" || !DATA || !(DATA.races || []).length){ card.style.display = "none"; return; }
   card.style.display = "";
   $("unitSel").value = String(UNIT);
-  const f = factor();
-  const d = DATA.day || {};
-  const total = (d.total_stake != null) ? r2(d.total_stake * (DAY === todayStr() ? f : 1)) : null;
-  $("totStake").textContent = total != null ? gbp(total) : "—";
-  const box = $("retBox");
-  const mine = dayReturns(DAY);
-  if(document.activeElement !== box) box.value = mine != null ? mine : "";
-  const computed = DATA.returned;
-  box.placeholder = computed != null && computed > 0 ? computed.toFixed(2) : "—";
-  const ret = mine != null ? mine : ((DAY === todayStr() || !d.total_stake) ? computed : computed);
+
+  const walkAll = myWalk(null);                 // incl. this day if logged
+  const walkIn  = myWalk(DAY);                  // ladder before this day
+  const rIn = walkIn.rows.length ? walkIn.rows[walkIn.rows.length-1].bank : 10.0;
+
+  // prefill from your stored numbers (never over a box you're typing in)
+  const setBox = (id, key, v) => {
+    const el = $(id);
+    if(document.activeElement === el) return;
+    el.value = (v != null) ? v : "";
+  };
+  setBox("retBox",   null, num(localStorage.getItem(retKey(DAY))));
+  setBox("stakeBox", null, num(localStorage.getItem(stakeKey(DAY))));
+  setBox("bankBox",  null, (num(localStorage.getItem(bankKey(DAY))) != null)
+                          ? num(localStorage.getItem(bankKey(DAY))) : r2(rIn));
+
+  const boxes = readBoxes();
+  const r = (boxes.r != null) ? boxes.r : num(localStorage.getItem(retKey(DAY)));
+  const s = (boxes.s != null) ? boxes.s : num(localStorage.getItem(stakeKey(DAY)));
+  const b = (boxes.b != null) ? boxes.b : num(localStorage.getItem(bankKey(DAY)));
+
   const line = $("ladderLine");
-  const ladder = (DATA.bank && DATA.bank.ladder) || [1,2,2];
-  const pl = (ret != null && total != null) ? r2(ret - total) : null;
-  if(DAY === todayStr()){
-    if(mine == null){
-      line.innerHTML = "Returns so far (computed) <b>" + (computed != null ? gbp(computed) : "—") +
-        "</b> · total stake <b>" + (total != null ? gbp(total) : "—") + "</b>" +
-        (pl != null ? " · day so far <b class='" + (pl >= 0 ? "win" : "up") + "'>" + (pl >= 0 ? "+" : "−") + gbp(pl) + "</b>" : "") +
-        "<br>Type your returns when you're paid — the ladder below updates as you type.";
-    } else {
-      const pv = ladderPreview(ret, total, ladder, UNIT);
-      line.innerHTML = "Your returns <b>" + gbp(ret) + "</b> vs total stake <b>" + gbp(total) +
-        "</b> · day P/L <b class='" + (pl >= 0 ? "win" : "up") + "'>" + (pl >= 0 ? "+" : "−") + gbp(Math.abs(pl)) + "</b><br>" +
-        (pv ? (pv.climb
-          ? "Under the stake — ladder climbs to <span class='up'>" + pv.next.join("-") + "</span> → next day bet <b>" + gbp(pv.nextBet) + "</b>"
-          : "Over the stake — winning day → ladder <span class='win'>" + pv.next.join("-") + "</span> → next day bet <b>" + gbp(pv.nextBet) + "</b> (a new bank high resets to 1-2-2)") : "");
-    }
+  const eps = 0.005;
+  if(r != null && s != null){
+    const pl = r2(r - s);
+    const st = ladderStep(walkIn.ladder, r, s, b, walkIn.peak);
+    const nb = nextBetOf(st.ladder, UNIT);
+    const tag = (r < s - eps) ? "under the stakes — ladder climbs to <span class='up'>"
+                               + st.ladder.join("-") + "</span>"
+              : "over the stakes — winning day → ladder <span class='win'>" + st.ladder.join("-") + "</span>";
+    line.innerHTML = "Your returns <b>" + gbp(r) + "</b> vs stakes <b>" + gbp(s) + "</b> · day P/L <b class='"
+      + (pl >= 0 ? "win" : "up") + "'>" + (pl >= 0 ? "+" : "−") + gbp(Math.abs(pl)) + "</b><br>"
+      + tag + " → next day " + unitsOf(st.ladder) + "× base = <b>" + gbp(nb) + "</b> a horse at "
+      + (UNIT === 0.05 ? "5p" : "10p")
+      + " <span style='color:var(--dim)'>(a new bank high resets to 1-2-2)</span>";
   } else {
-    const ns = DATA.bank ? DATA.bank.next_stake : null;
-    line.innerHTML = "Day P/L <b class='" + (pl != null && pl >= 0 ? "win" : "up") + "'>" +
-      (pl != null ? (pl >= 0 ? "+" : "−") + gbp(Math.abs(pl)) : "—") + "</b> · ladder after this day <b>" +
-      ladder.join("-") + "</b> · next day bet <b>" + (ns != null ? gbp(ns) : "—") + "</b>";
+    const nb = nextBetOf(walkIn.ladder, UNIT);
+    line.innerHTML = "Ladder now <b>" + walkIn.ladder.join("-") + "</b> → this morning "
+      + unitsOf(walkIn.ladder) + "× base = <b>" + gbp(nb) + "</b> a horse at "
+      + (UNIT === 0.05 ? "5p" : "10p")
+      + "<br>Type your stakes and returns when the day's done — the line shows tomorrow's move as you type.";
   }
 }
 
-$("retBox").addEventListener("input", () => {
-  const v = parseFloat($("retBox").value);
-  if(!isNaN(v) && v >= 0) localStorage.setItem(retKey(DAY), String(v));
-  else localStorage.removeItem(retKey(DAY));
-  renderLedger();
+["retBox", "stakeBox", "bankBox"].forEach((id, i) => {
+  $(id).addEventListener("input", () => {
+    const key = [retKey, stakeKey, bankKey][i](DAY);
+    const v = num($(id).value);
+    if(v != null && v >= 0) localStorage.setItem(key, String(v));
+    else localStorage.removeItem(key);
+    renderLedger();
+    if(id === "bankBox") renderStats();
+  });
 });
 $("unitSel").addEventListener("change", () => {
   UNIT = parseFloat($("unitSel").value) || 0.10;
   localStorage.setItem("tornado-unit", String(UNIT));
-  render();
+  renderLedger();
 });
 
 function esc(s){
-  return String(s ?? "").replace(/[&<>"']/g, c =>
-    ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  return String(s ?? "").replace(/[&<>\"']/g, c =>
+    ({"&":"&amp;","<":"&lt;",">":"&gt;",'\"':"&quot;","'":"&#39;"}[c]));
 }
 
-/* ------------------------------------------------------------- the run */
-function renderSeason(){
+/* ------------------------------------------------------------ my ledger */
+function renderLedgerView(){
   const app = $("app");
-  app.innerHTML = '<div class="err">Loading the run…</div>';
-  jget("data/stats.json").then(st => {
-    const s = st.season;
-    let html = '<section class="card"><div class="label">The whole run — £10 bank · daily Jacobs Ladder, 10p a unit</div>' +
-      '<div class="row"><div style="font-weight:900;font-size:1.3rem;color:var(--sky2)">' +
-      gbp(s.bank_start) + ' → ' + gbp(s.bank_end) + '</div>' +
-      '<span class="chip blue">ROI ' + (s.roi>=0?"+":"") + s.roi + '%</span></div>' +
-      '<div style="font-size:.72rem;color:var(--dim);margin-top:6px">' +
-      s.picks + ' picks over ' + s.days + ' days · ' + s.won + ' won · ' +
-      s.placed + ' placed · ' + s.lost + ' lost' +
-      (s.nr ? ' · ' + s.nr + ' void' : '') + '</div>' +
-      '<div style="font-size:.72rem;margin-top:6px">staked ' + gbp(s.staked) +
-      ' → returned <b style="color:var(--em)">' + gbp(s.returned) + '</b></div></section>';
-    if(st.best_day)
-      html += '<section class="card"><div class="label">Best day</div>' +
-        '<div style="font-size:.78rem"><b>' + esc(st.best_day.date) + '</b> — ' +
-        st.best_day.picks + ' picks → <span style="color:var(--em);font-weight:800">+' +
-        gbp(st.best_day.profit) + '</span></div></section>';
-    const months = Object.entries(st.monthly || {});
-    if(months.length)
-      html += '<section class="card"><div class="label">Monthly P/L</div><table>' +
-        '<tr><th>month</th><th>P/L</th></tr>' +
-        months.map(([m, v]) => '<tr><td>' + esc(m) + '</td><td class="' +
-          (v>=0?"pos":"neg") + '">' + (v>=0?"+":"−") + gbp(v) + '</td></tr>').join("") +
-        '</table></section>';
-    app.innerHTML = html;
-  }).catch(() => {
-    app.innerHTML = '<div class="err">No season stats yet.</div>';
-  });
-  $("datechip").textContent = "the whole run";
+  const walk = myWalk(null);
+  const staked = r2(walk.rows.reduce((a, x) => a + x.s, 0));
+  const returned = r2(walk.rows.reduce((a, x) => a + x.r, 0));
+  const pl = r2(returned - staked);
+  const bank = walk.rows.length ? walk.rows[walk.rows.length-1].bank : null;
+  const nb = nextBetOf(walk.ladder, UNIT);
+
+  let html = '<section class="card"><div class="label">Your run — your numbers, your ladder</div>' +
+    '<div class="row" style="display:flex;justify-content:space-between;align-items:center;gap:8px">' +
+    '<div style="font-weight:900;font-size:1.3rem;color:var(--sky2)">' +
+    (bank != null ? gbp(bank) : "£10.00") + ' <span style="font-size:.7rem;color:var(--dim)">in the bank</span></div>' +
+    '<span class="chip blue">' + walk.rows.length + ' days logged</span></div>' +
+    '<div style="font-size:.72rem;margin-top:6px">staked ' + gbp(staked) +
+    ' → returned <b style="color:var(--em)">' + gbp(returned) + '</b> · P/L <b class="' +
+    (pl >= 0 ? "" : "neg") + '" style="color:' + (pl >= 0 ? "var(--em)" : "var(--red)") + '">' +
+    (pl >= 0 ? "+" : "−") + gbp(Math.abs(pl)) + '</b></div>' +
+    '<div style="font-size:.72rem;color:var(--dim);margin-top:4px">ladder <b style="color:var(--sky2)">' +
+    walk.ladder.join("-") + '</b> → next day ' + unitsOf(walk.ladder) + '× base = <b>' + gbp(nb) +
+    '</b> a horse at ' + (UNIT === 0.05 ? "5p" : "10p") + '</div></section>';
+
+  if(walk.rows.length){
+    const rows = walk.rows.slice().reverse().map(x =>
+      '<tr><td>' + x.d.slice(5).replace("-", "/") + '</td>' +
+      '<td>' + gbp(x.s) + '</td><td>' + gbp(x.r) + '</td>' +
+      '<td class="' + (x.r - x.s >= 0 ? "pos" : "neg") + '">' +
+      (x.r - x.s >= 0 ? "+" : "−") + gbp(Math.abs(r2(x.r - x.s))) + '</td>' +
+      '<td>' + gbp(x.bank) + '</td></tr>').join("");
+    html += '<section class="card"><div class="label">Every day logged</div>' +
+      '<table><tr><th>day</th><th>stakes</th><th>returns</th><th>P/L</th><th>bank</th></tr>' +
+      rows + '</table></section>';
+  } else {
+    html += '<section class="card"><div class="label">Your run</div>' +
+      '<div style="font-size:.78rem;color:var(--dim)">Nothing logged yet — type the stakes and returns ' +
+      'on a day and it lands here.</div></section>';
+  }
+  app.innerHTML = html;
+  $("datechip").textContent = "your run";
 }
 
 $("refresh").addEventListener("click", () => {
   const b = $("refresh");
   b.classList.add("spin");
   const done = () => b.classList.remove("spin");
-  if(VIEW === "season"){ renderSeason(); done(); }
+  if(VIEW === "ledger"){ renderLedgerView(); done(); }
   else loadDay(DAY || todayStr()).then(done);
 });
 
@@ -438,10 +500,10 @@ let VIEW = "day";
 function setView(v){
   VIEW = v;
   $("v-day").className = (VIEW === "day" ? "on" : "");
-  $("v-season").className = (VIEW === "season" ? "on" : "");
+  $("v-season").className = (VIEW === "ledger" ? "on" : "");
   $("days").style.display = v === "day" ? "" : "none";
   $("stats").style.display = v === "day" ? "" : "none";
-  if(v === "season") renderSeason(); else render();
+  if(v === "ledger") renderLedgerView(); else render();
   window.scrollTo(0, 0);
 }
 

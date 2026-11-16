@@ -12,9 +12,13 @@ rule — staked with the **Jacobs Ladder, one day at a time**.
   **returns over it → the ladder shrinks** (scratch first and last, reset
   when ≤2 remain); **a day that lifts the bank past its previous high
   resets straight back to 1-2-2**.
-- **The day's book** lives at the bottom of the horses list: type your
-  **returns** on the left, the **total stake** sits to its right, and the
-  **unit box** (5p / 10p) rescales today's planned stakes as you like.
+- **The day's book** lives at the bottom of the horses list and it's all
+  **yours**: type the **bank**, the day's **stakes** and the day's
+  **returns** — nothing is planned or computed for you. The **ladder
+  line** follows Jacobs Ladder by the day off **your** numbers: returns
+  under your stakes → the ladder climbs (1-2-2-3 → 4× base), over them
+  → it trims both ends, a new bank high resets to 1-2-2. The **My
+  ledger** tab keeps every day you log: stakes, returns, P/L, bank.
 - Each-way at Ladbrokes (½ win · ½ place at 1/5 odds), settled with the
   Grail's bet maths. Non-runners are refunded and don't stake; an
   unfinished day shows planned stakes and leaves the ladder alone.

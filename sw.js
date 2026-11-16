@@ -1,5 +1,5 @@
 /* Tornado Racing — service worker (app shell cache + fresh data) */
-const CACHE = "tornado-v1";
+const CACHE = "tornado-v2";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
