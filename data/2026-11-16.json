@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T19:30:35+0000",
+  "updated": "2026-11-16T20:00:36+0000",
   "races": [
     {
       "time": "13:15",
@@ -258,11 +258,11 @@
           "odds": "5/2",
           "jockey": "Jack Dace",
           "trainer": "M Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 12,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 100.02
         }
       ]
     },
@@ -318,26 +318,26 @@
   "score": {
     "picks": 13,
     "races": 13,
-    "settled": 10,
+    "settled": 11,
     "won": 2,
     "placed": 2,
-    "lost": 6,
+    "lost": 7,
     "nr": 0,
-    "pending": 3
+    "pending": 2
   },
   "day": {
     "bet": 0.4,
     "units": 4,
     "horses": 13,
-    "bet_horses": 10,
+    "bet_horses": 11,
     "total_stake": 5.2
   },
-  "staked": 4.0,
+  "staked": 4.4,
   "returned": 2.26,
-  "profit": -1.74,
+  "profit": -2.14,
   "bank": {
     "start": 102.16,
-    "end": 100.42,
+    "end": 100.02,
     "next_stake": 0.4,
     "ladder": [
       2,
@@ -345,6 +345,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 100.42
+    "season_end": 100.02
   }
 }
