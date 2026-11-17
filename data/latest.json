@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T13:00:41+0000",
+  "updated": "2026-11-17T13:32:00+0000",
   "races": [
     {
       "time": "11:50",
@@ -114,11 +114,11 @@
           "odds": "3/1",
           "jockey": "Eoghan Finegan",
           "trainer": "W J Martin",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "profit": -0.6,
+          "bank": 98.13
         }
       ]
     },
@@ -510,26 +510,26 @@
   "score": {
     "picks": 21,
     "races": 21,
-    "settled": 4,
+    "settled": 5,
     "won": 1,
     "placed": 2,
-    "lost": 1,
+    "lost": 2,
     "nr": 0,
-    "pending": 17
+    "pending": 16
   },
   "day": {
     "bet": 0.6,
     "units": 6,
     "horses": 21,
-    "bet_horses": 4,
+    "bet_horses": 5,
     "total_stake": 12.6
   },
-  "staked": 2.4,
+  "staked": 3.0,
   "returned": 1.91,
-  "profit": -0.49,
+  "profit": -1.09,
   "bank": {
     "start": 99.22,
-    "end": 98.73,
+    "end": 98.13,
     "next_stake": 0.6,
     "ladder": [
       2,
@@ -538,6 +538,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 98.73
+    "season_end": 98.13
   }
 }
