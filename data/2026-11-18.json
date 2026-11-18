@@ -1,0 +1,640 @@
+{
+  "date": "2026-11-18",
+  "updated": "2026-11-18T05:29:41+0000",
+  "races": [
+    {
+      "time": "12:33",
+      "meeting": "Hexham",
+      "name": "British Stallion Studs EBF 'National Hunt' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 48y",
+      "going": "Good-good to soft in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Lord Du Gouet",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:48",
+      "meeting": "Ffos Las",
+      "name": "Dandara Maiden Hurdle (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "No Walkover",
+          "stars": 5,
+          "odds": "11/8",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:18",
+      "meeting": "Ffos Las",
+      "name": "Dandara Maiden Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "1m 7f 182y",
+      "going": "Good-good to soft in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Diamond Street",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:33",
+      "meeting": "Hexham",
+      "name": "Paul Ferguson's Jumpers To Follow Handicap Hurdle (Div 1)",
+      "class": "5",
+      "distance": "2m 4f 28y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Takeyoutotheisland",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Bruce Lynn",
+          "trainer": "N W Alexander",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Dundalk",
+      "name": "Irish Stallion Farms EBF Auction Maiden",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rayastar",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Chris Hayes",
+          "trainer": "P J F Murphy",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:08",
+      "meeting": "Hexham",
+      "name": "Paul Ferguson's Jumpers To Follow Handicap Hurdle (Div 2)",
+      "class": "5",
+      "distance": "2m 4f 28y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Ratemenow",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Nathan Moscrop",
+          "trainer": "S Corbett",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:18",
+      "meeting": "Ffos Las",
+      "name": "Edwina Jones 80th Birthday Celebrations Novices' Handicap Chase",
+      "class": "5",
+      "distance": "2m 7f 177y",
+      "going": "Good-good to soft in places",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Wannabe",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Stan Sheppard",
+          "trainer": "T Lacey",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 1)",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "The Bear Trap",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Cillian Rowan",
+          "trainer": "A McGuinness",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:48",
+      "meeting": "Ffos Las",
+      "name": "Support Your Oncourse Bookmakers Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Good-good to soft in places",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Merry Away",
+          "stars": 5,
+          "odds": "1/1",
+          "jockey": "Ben Jones",
+          "trainer": "B Pauling",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 2)",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Pallatine Hills",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Siobhan Rutledge",
+          "trainer": "E & P Harty",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:08",
+      "meeting": "Hexham",
+      "name": "QuinnBet Handicap Chase",
+      "class": "5",
+      "distance": "2m 4f 15y",
+      "going": "Good-good to soft in places",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Scairp Dubh",
+          "stars": 5,
+          "odds": "13/2",
+          "jockey": "Jack Power",
+          "trainer": "J Parkinson & S Smith",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:18",
+      "meeting": "Ffos Las",
+      "name": "3A's Leisure Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f",
+      "going": "Good-good to soft in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "No Boundaries",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "C Gethings",
+          "trainer": "Mrs J Williams",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Nursery Handicap (0-60)",
+      "class": "",
+      "distance": "7f",
+      "going": "Standard",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rock On Johnny",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Camillus Byrne",
+          "trainer": "A McGuinness",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ffos Las",
+      "name": "Welsh Cottage Christmas Cakes Handicap Chase",
+      "class": "5",
+      "distance": "2m 3f 83y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Seasett",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "S Bowen",
+          "trainer": "M Bowen",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Dundalk",
+      "name": "Now Racing Every Wednesday At Dundalk Maiden",
+      "class": "",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Stooked",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Colin Keane",
+          "trainer": "G M Lyons",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Kempton",
+      "name": "Unibet/British Stallion Studs EBF Restricted Novice Stakes (GBB Race) (Div 1)",
+      "class": "5",
+      "distance": "6f",
+      "going": "Standard to slow",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Tredegar Square",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Jonny Peate",
+          "trainer": "J R Fanshawe",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "1m",
+      "going": "Standard",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Go Out",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Colin Keane",
+          "trainer": "Daniel Murphy",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "name": "Unibet/British Stallion Studs EBF Restricted Novice Stakes (GBB Race) (Div 2)",
+      "class": "5",
+      "distance": "6f",
+      "going": "Standard to slow",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Angel Footsteps",
+          "stars": 5,
+          "odds": "10/11",
+          "jockey": "Connor Planas",
+          "trainer": "M Botti",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "17:07",
+      "meeting": "Dundalk",
+      "name": "Safer Gambling Week 2026 Fillies Maiden",
+      "class": "",
+      "distance": "1m 4f",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Rhapsodic",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Colin Keane",
+          "trainer": "D K Weld",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "17:40",
+      "meeting": "Dundalk",
+      "name": "Book Online At DundalkStadium.com Handicap (0-60)",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "going": "Standard",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Medieval Night",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "J M Sheridan",
+          "trainer": "D Hogan",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Unibet's New VAR Goal Guarantee Nursery",
+      "class": "5",
+      "distance": "1m",
+      "going": "Standard to slow",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Divine Rhythm",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Ross Coakley",
+          "trainer": "W J Haggas",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "name": "Juddmonte EBF Restricted Maiden Stakes (GBB/GBBPlus Race)",
+      "class": "2",
+      "distance": "1m",
+      "going": "Standard to slow",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sterling Cooper",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Nicola Currie",
+          "trainer": "A M Balding",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New VAR Goal Guarantee Handicap",
+      "class": "2",
+      "distance": "1m",
+      "going": "Standard to slow",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Palladas",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Connor Planas",
+          "trainer": "C Appleby",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "name": "Unibet 3 Uniboosts A Day Handicap",
+      "class": "4",
+      "distance": "7f",
+      "going": "Standard to slow",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Enacting",
+          "stars": 5,
+          "odds": "7/1",
+          "jockey": "Jonny Peate",
+          "trainer": "J R Fanshawe",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Kempton",
+      "name": "Unibet More Extra Place Races Handicap",
+      "class": "5",
+      "distance": "1m 3f 219y",
+      "going": "Standard to slow",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crown Of Crowns",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Ross Coakley",
+          "trainer": "W J Haggas",
+          "pos": 0,
+          "res": null,
+          "stake": 0.8,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 25,
+    "races": 25,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 25
+  },
+  "day": {
+    "bet": 0.8,
+    "units": 8,
+    "horses": 25,
+    "bet_horses": 0,
+    "total_stake": 20.0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 95.1,
+    "end": 95.1,
+    "next_stake": 0.8,
+    "ladder": [
+      2,
+      2,
+      4,
+      6
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 95.1
+  }
+}
