@@ -1,0 +1,686 @@
+{
+  "date": "2026-11-19",
+  "updated": "2026-11-19T05:30:01+0000",
+  "races": [
+    {
+      "time": "11:18",
+      "meeting": "Lingfield",
+      "name": "All-Weather Championship Is Back Novice Stakes (GBB Race)",
+      "class": "4",
+      "distance": "1m 1y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Silk Braid",
+          "stars": 5,
+          "odds": "5/6",
+          "jockey": "Kaiya Fraser",
+          "trainer": "Harry Eustace",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "11:48",
+      "meeting": "Lingfield",
+      "name": "AWC Finals Day At Newcastle 26th March Nursery",
+      "class": "4",
+      "distance": "7f 1y",
+      "going": "Standard",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Boy Basilica",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Finley Marsh",
+          "trainer": "R Hughes",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "11:57",
+      "meeting": "Warwick",
+      "name": "Olly Murphy Proudly Sponsored By Betano 'National Hunt' Maiden Hurdle (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Good to soft-soft in places",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Friendly Glance",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Thomas Bellamy",
+          "trainer": "A King",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:08",
+      "meeting": "Thurles",
+      "name": "Irish Stallion Farms EBF Beginners Chase",
+      "class": "",
+      "distance": "2m 5f 132y",
+      "going": "Good",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Doctor Steinberg",
+          "stars": 5,
+          "odds": "8/11",
+          "jockey": "Paul Townend",
+          "trainer": "W P Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:18",
+      "meeting": "Lingfield",
+      "name": "AWC Season 14 Has Begun / EBF Restricted Maiden Fillies' Stakes (GBB Race) (Div 1)",
+      "class": "4",
+      "distance": "7f 1y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Valley Rising",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Callum Rodriguez",
+          "trainer": "Owen Burrows",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:27",
+      "meeting": "Warwick",
+      "name": "Olly Murphy Proudly Sponsored By Betano 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "2m",
+      "going": "Good to soft-soft in places",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Crookhaven",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "J J Burke",
+          "trainer": "O Murphy",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:40",
+      "meeting": "Thurles",
+      "name": "William Hill Challenge Series Handicap Chase",
+      "class": "",
+      "distance": "2m 5f 132y",
+      "going": "Good",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Iamagetaway",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Sam Ewing",
+          "trainer": "W R Crawford",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:53",
+      "meeting": "Lingfield",
+      "name": "AWC Season 14 Has Begun / EBF Restricted Maiden Fillies' Stakes (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "7f 1y",
+      "going": "Standard",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Classic Bellini",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:02",
+      "meeting": "Warwick",
+      "name": "Great British Bonus Supporting Breeders' Day Mares' Novices' Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 3f",
+      "going": "Good to soft-soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Largy Force",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:37",
+      "meeting": "Warwick",
+      "name": "Denis O'Connell Memorial Veterans' Handicap Chase",
+      "class": "2",
+      "distance": "3m",
+      "going": "Good to soft-soft in places",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Knappers Hill",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "P F Nicholls",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "meeting": "Thurles",
+      "name": "Irish Stallion Farms EBF Mares Maiden Hurdle",
+      "class": "",
+      "distance": "2m 6f 107y",
+      "going": "Good",
+      "runners": 15,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "I Dont Really Care",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "Daniel King",
+          "trainer": "R Hackett",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:03",
+      "meeting": "Lingfield",
+      "name": "All-Weather Championships Season XIV River Eden EBF Fillies' Stakes (Listed) (GBBPlus Race)",
+      "class": "1",
+      "distance": "1m 5f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Likealot",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Rossa Ryan",
+          "trainer": "R M Beckett",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:12",
+      "meeting": "Warwick",
+      "name": "Omoda And Jaecoo Race To Victory Mares' Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 5f 5y",
+      "going": "Good to soft-soft in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Strong Run",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Kielan Woods",
+          "trainer": "F O'Brien",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Thurles",
+      "name": "William Hill Challenge Series Handicap Hurdle",
+      "class": "",
+      "distance": "2m 4f 39y",
+      "going": "Good",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Cock And Bull",
+          "stars": 5,
+          "odds": "8/1",
+          "jockey": "Donagh Meyler",
+          "trainer": "E Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:38",
+      "meeting": "Lingfield",
+      "name": "All-Weather Championships Season XIV Fleur De Lys Fillies' Stakes (Listed)",
+      "class": "1",
+      "distance": "1m 1y",
+      "going": "Standard",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Sky Safari",
+          "stars": 5,
+          "odds": "7/2",
+          "jockey": "Daniel Muscutt",
+          "trainer": "J R Fanshawe",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Thurles",
+      "name": "Racing Again On The 26th November Handicap Hurdle (0-100)",
+      "class": "",
+      "distance": "2m 37y",
+      "going": "Good",
+      "runners": 17,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Liceo",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "P J O'Hanlon",
+          "trainer": "D A McLoughlin",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:08",
+      "meeting": "Lingfield",
+      "name": "ARC All Weather Bonus Is Back Handicap",
+      "class": "6",
+      "distance": "7f 1y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Credit Forgedd It",
+          "stars": 5,
+          "odds": "5/1",
+          "jockey": "Rossa Ryan",
+          "trainer": "A W Carroll",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:17",
+      "meeting": "Warwick",
+      "name": "Thoroughbred Breeders' Association Supporting Breeders' Day Mares' Open NH Flat Race (GBB Race)",
+      "class": "5",
+      "distance": "2m",
+      "going": "Good to soft-soft in places",
+      "runners": 16,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Olive Noir",
+          "stars": 5,
+          "odds": "10/1",
+          "jockey": "Ben Jones",
+          "trainer": "B Pauling",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Thurles",
+      "name": "Sign Up To GavinLynchRacing.com (Q.R.) Maiden Hurdle",
+      "class": "",
+      "distance": "2m 37y",
+      "going": "Good",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Marhaba Ghaiyyath",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Mr J L Gleeson",
+          "trainer": "J J Hanlon",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Newcastle",
+      "name": "Midnite It's Actually Pretty Good Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 42y",
+      "going": "Standard",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Savvy Disko",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Jack Callan",
+          "trainer": "S Woods",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Lingfield",
+      "name": "Midnite Built Different Handicap",
+      "class": "5",
+      "distance": "5f 6y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Got The Booty",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Rossa Ryan",
+          "trainer": "C G Cox",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Newcastle",
+      "name": "AWC Finals Day At Newcastle 26th March Novice Stakes (GBB Race)",
+      "class": "4",
+      "distance": "7f 14y",
+      "going": "Standard",
+      "runners": 13,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "El Ra'ady",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Harry Davies",
+          "trainer": "W J Haggas",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:40",
+      "meeting": "Newcastle",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Nursery",
+      "class": "6",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Angelic Melody",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Ryan Sexton",
+          "trainer": "Miss J A Camacho",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "18:10",
+      "meeting": "Newcastle",
+      "name": "AWC Is Back Handicap",
+      "class": "4",
+      "distance": "7f 14y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Frankies Dream",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Jason Hart",
+          "trainer": "J Candlish",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "18:40",
+      "meeting": "Newcastle",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap",
+      "class": "4",
+      "distance": "6f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "We Never Stop",
+          "stars": 5,
+          "odds": "25/1",
+          "jockey": "K Stott",
+          "trainer": "K A Ryan",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "19:10",
+      "meeting": "Newcastle",
+      "name": "AWC Season 14 Has Begun Handicap",
+      "class": "6",
+      "distance": "7f 14y",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Real Jack",
+          "stars": 5,
+          "odds": "9/2",
+          "jockey": "Sean Kirrane",
+          "trainer": "M Dods",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "19:40",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "4",
+      "distance": "5f",
+      "going": "Standard",
+      "runners": 14,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Paddy's Day",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Ethan Tindall",
+          "trainer": "N Tinkler",
+          "pos": 0,
+          "res": null,
+          "stake": 0.6,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 27,
+    "races": 27,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 27
+  },
+  "day": {
+    "bet": 0.6,
+    "units": 6,
+    "horses": 27,
+    "bet_horses": 0,
+    "total_stake": 16.2
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 96.23,
+    "end": 96.23,
+    "next_stake": 0.6,
+    "ladder": [
+      2,
+      4
+    ],
+    "unit": 0.1,
+    "season_start": 10.0,
+    "season_end": 96.23
+  }
+}
