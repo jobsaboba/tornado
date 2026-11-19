@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T17:00:57+0000",
+  "updated": "2026-11-19T18:30:56+0000",
   "races": [
     {
       "time": "11:18",
@@ -570,11 +570,11 @@
           "odds": "6/1",
           "jockey": "Jason Hart",
           "trainer": "J Candlish",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.6,
-          "profit": null,
-          "bank": null
+          "profit": 2.16,
+          "bank": 104.63
         }
       ]
     },
@@ -654,26 +654,26 @@
   "score": {
     "picks": 27,
     "races": 27,
-    "settled": 22,
-    "won": 7,
+    "settled": 23,
+    "won": 8,
     "placed": 8,
     "lost": 7,
     "nr": 1,
-    "pending": 4
+    "pending": 3
   },
   "day": {
     "bet": 0.6,
     "units": 6,
     "horses": 27,
-    "bet_horses": 22,
+    "bet_horses": 23,
     "total_stake": 15.6
   },
-  "staked": 13.2,
-  "returned": 19.44,
-  "profit": 6.24,
+  "staked": 13.8,
+  "returned": 22.2,
+  "profit": 8.4,
   "bank": {
     "start": 96.23,
-    "end": 102.47,
+    "end": 104.63,
     "next_stake": 0.6,
     "ladder": [
       2,
@@ -681,6 +681,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 102.47
+    "season_end": 104.63
   }
 }
