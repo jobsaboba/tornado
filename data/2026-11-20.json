@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T05:30:01+0000",
+  "updated": "2026-11-20T13:00:54+0000",
   "races": [
     {
       "time": "11:20",
@@ -18,11 +18,11 @@
           "odds": "8/1",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 1.44,
+          "bank": 104.27
         }
       ]
     },
@@ -42,11 +42,11 @@
           "odds": "11/4",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.07,
+          "bank": 104.2
         }
       ]
     },
@@ -66,11 +66,11 @@
           "odds": "5/4",
           "jockey": "Harry Atkins",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 103.9
         }
       ]
     },
@@ -90,11 +90,11 @@
           "odds": "7/2",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.63,
+          "bank": 104.53
         }
       ]
     },
@@ -115,8 +115,8 @@
           "jockey": "James Best",
           "trainer": "M Keighley",
           "pos": 0,
-          "res": null,
-          "stake": 0.3,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -138,11 +138,11 @@
           "odds": "11/10",
           "jockey": "Toby McCain-Mitchell",
           "trainer": "N & W Twiston-Davies",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 104.23
         }
       ]
     },
@@ -726,26 +726,26 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 0,
-    "won": 0,
-    "placed": 0,
-    "lost": 0,
-    "nr": 0,
-    "pending": 30
+    "settled": 5,
+    "won": 2,
+    "placed": 1,
+    "lost": 2,
+    "nr": 1,
+    "pending": 24
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 30,
-    "bet_horses": 0,
-    "total_stake": 9.0
+    "bet_horses": 5,
+    "total_stake": 8.7
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 1.5,
+  "returned": 2.9,
+  "profit": 1.4,
   "bank": {
     "start": 102.83,
-    "end": 102.83,
+    "end": 104.23,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -754,6 +754,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 102.83
+    "season_end": 104.23
   }
 }
