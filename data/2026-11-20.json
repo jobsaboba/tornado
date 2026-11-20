@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T20:31:20+0000",
+  "updated": "2026-11-20T21:00:49+0000",
   "races": [
     {
       "time": "11:20",
@@ -714,11 +714,11 @@
           "odds": "4/1",
           "jockey": "Rob Hornby",
           "trainer": "M Murphy",
-          "pos": 0,
-          "res": null,
+          "pos": 10,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 110.73
         }
       ]
     }
@@ -726,26 +726,26 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 27,
+    "settled": 28,
     "won": 11,
     "placed": 8,
-    "lost": 8,
+    "lost": 9,
     "nr": 2,
-    "pending": 1
+    "pending": 0
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 30,
-    "bet_horses": 27,
+    "bet_horses": 28,
     "total_stake": 8.4
   },
-  "staked": 8.1,
+  "staked": 8.4,
   "returned": 16.3,
-  "profit": 8.2,
+  "profit": 7.9,
   "bank": {
     "start": 102.83,
-    "end": 111.03,
+    "end": 110.73,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -754,6 +754,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 111.03
+    "season_end": 110.73
   }
 }
