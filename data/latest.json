@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T13:00:54+0000",
+  "updated": "2026-11-20T13:30:51+0000",
   "races": [
     {
       "time": "11:20",
@@ -162,11 +162,11 @@
           "odds": "8/1",
           "jockey": "Jamie Brace",
           "trainer": "Miss R Curtis",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.09,
+          "bank": 104.32
         }
       ]
     },
@@ -726,26 +726,26 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 5,
+    "settled": 6,
     "won": 2,
-    "placed": 1,
+    "placed": 2,
     "lost": 2,
     "nr": 1,
-    "pending": 24
+    "pending": 23
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 30,
-    "bet_horses": 5,
+    "bet_horses": 6,
     "total_stake": 8.7
   },
-  "staked": 1.5,
-  "returned": 2.9,
-  "profit": 1.4,
+  "staked": 1.8,
+  "returned": 3.29,
+  "profit": 1.49,
   "bank": {
     "start": 102.83,
-    "end": 104.23,
+    "end": 104.32,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -754,6 +754,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 104.23
+    "season_end": 104.32
   }
 }
