@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T15:00:58+0000",
+  "updated": "2026-11-20T15:30:53+0000",
   "races": [
     {
       "time": "11:20",
@@ -306,11 +306,11 @@
           "odds": "5/1",
           "jockey": "Tabitha Worsley",
           "trainer": "D Thompson",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 105.63
         }
       ]
     },
@@ -331,8 +331,8 @@
           "jockey": "Jack Tudor",
           "trainer": "Christian Williams",
           "pos": 0,
-          "res": null,
-          "stake": 0.3,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -354,11 +354,11 @@
           "odds": "3/1",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.54,
+          "bank": 106.17
         }
       ]
     },
@@ -726,26 +726,26 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 11,
-    "won": 4,
+    "settled": 13,
+    "won": 5,
     "placed": 5,
-    "lost": 2,
-    "nr": 1,
-    "pending": 18
+    "lost": 3,
+    "nr": 2,
+    "pending": 15
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 30,
-    "bet_horses": 11,
-    "total_stake": 8.7
+    "bet_horses": 13,
+    "total_stake": 8.4
   },
-  "staked": 3.3,
-  "returned": 6.4,
-  "profit": 3.1,
+  "staked": 3.9,
+  "returned": 7.24,
+  "profit": 3.34,
   "bank": {
     "start": 102.83,
-    "end": 105.93,
+    "end": 106.17,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -754,6 +754,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 105.93
+    "season_end": 106.17
   }
 }
