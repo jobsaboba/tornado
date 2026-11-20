@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T14:30:53+0000",
+  "updated": "2026-11-20T15:00:58+0000",
   "races": [
     {
       "time": "11:20",
@@ -258,11 +258,11 @@
           "odds": "5/1",
           "jockey": "Miss Amber Jackson-Fennell",
           "trainer": "N & W Twiston-Davies",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.9,
+          "bank": 106.0
         }
       ]
     },
@@ -282,11 +282,11 @@
           "odds": "11/4",
           "jockey": "William Shanahan",
           "trainer": "I Furtado",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.07,
+          "bank": 105.93
         }
       ]
     },
@@ -726,26 +726,26 @@
   "score": {
     "picks": 30,
     "races": 30,
-    "settled": 9,
-    "won": 3,
-    "placed": 4,
+    "settled": 11,
+    "won": 4,
+    "placed": 5,
     "lost": 2,
     "nr": 1,
-    "pending": 20
+    "pending": 18
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 30,
-    "bet_horses": 9,
+    "bet_horses": 11,
     "total_stake": 8.7
   },
-  "staked": 2.7,
-  "returned": 4.97,
-  "profit": 2.27,
+  "staked": 3.3,
+  "returned": 6.4,
+  "profit": 3.1,
   "bank": {
     "start": 102.83,
-    "end": 105.1,
+    "end": 105.93,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -754,6 +754,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 105.1
+    "season_end": 105.93
   }
 }
