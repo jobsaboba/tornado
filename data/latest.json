@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T16:01:25+0000",
+  "updated": "2026-11-21T16:31:07+0000",
   "races": [
     {
       "time": "11:00",
@@ -655,11 +655,11 @@
           "odds": "9/4",
           "jockey": "Mr P W Mullins",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 110.53
         }
       ]
     },
@@ -787,26 +787,26 @@
   "score": {
     "picks": 33,
     "races": 32,
-    "settled": 26,
+    "settled": 27,
     "won": 6,
     "placed": 8,
-    "lost": 12,
+    "lost": 13,
     "nr": 1,
-    "pending": 6
+    "pending": 5
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 33,
-    "bet_horses": 26,
+    "bet_horses": 27,
     "total_stake": 9.6
   },
-  "staked": 7.8,
+  "staked": 8.1,
   "returned": 7.9,
-  "profit": 0.1,
+  "profit": -0.2,
   "bank": {
     "start": 110.73,
-    "end": 110.83,
+    "end": 110.53,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -815,6 +815,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 110.83
+    "season_end": 110.53
   }
 }
