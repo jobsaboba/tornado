@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T15:31:09+0000",
+  "updated": "2026-11-21T16:01:25+0000",
   "races": [
     {
       "time": "11:00",
@@ -559,11 +559,11 @@
           "odds": "10/1",
           "jockey": "Keith Donoghue",
           "trainer": "J P Dempsey",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 1.8,
+          "bank": 111.52
         }
       ]
     },
@@ -583,11 +583,11 @@
           "odds": "11/4",
           "jockey": "T Eaves",
           "trainer": "S Whitaker",
-          "pos": 0,
-          "res": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 111.22
         }
       ]
     },
@@ -607,11 +607,11 @@
           "odds": "15/8",
           "jockey": "L Morris",
           "trainer": "James Owen",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.09,
+          "bank": 111.13
         }
       ]
     },
@@ -631,11 +631,11 @@
           "odds": "7/2",
           "jockey": "Ben Jones",
           "trainer": "Miss H C Knight",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 110.83
         }
       ]
     },
@@ -787,26 +787,26 @@
   "score": {
     "picks": 33,
     "races": 32,
-    "settled": 22,
-    "won": 5,
-    "placed": 7,
-    "lost": 10,
+    "settled": 26,
+    "won": 6,
+    "placed": 8,
+    "lost": 12,
     "nr": 1,
-    "pending": 10
+    "pending": 6
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 33,
-    "bet_horses": 22,
+    "bet_horses": 26,
     "total_stake": 9.6
   },
-  "staked": 6.6,
-  "returned": 5.59,
-  "profit": -1.01,
+  "staked": 7.8,
+  "returned": 7.9,
+  "profit": 0.1,
   "bank": {
     "start": 110.73,
-    "end": 109.72,
+    "end": 110.83,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -815,6 +815,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 109.72
+    "season_end": 110.83
   }
 }
