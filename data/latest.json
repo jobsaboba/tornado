@@ -1,750 +1,811 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T21:00:49+0000",
+  "date": "2026-11-21",
+  "updated": "2026-11-21T05:30:01+0000",
   "races": [
     {
-      "time": "11:20",
-      "meeting": "Chepstow",
-      "name": "Why Bet Elsewhere, David Lucas Bookmakers Maiden Hurdle (GBB Race)",
-      "class": "4",
-      "distance": "2m 3f 100y",
-      "going": "Hurdle: soft; chase: good",
-      "runners": 12,
+      "time": "11:00",
+      "meeting": "Lingfield",
+      "name": "AWC Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "going": "Standard",
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
-          "horse": "Moments In Time",
+          "horse": "Honey Dale",
           "stars": 5,
-          "odds": "8/1",
-          "jockey": "Harry Skelton",
-          "trainer": "D Skelton",
-          "pos": 1,
-          "res": "WIN",
+          "odds": "11/8",
+          "jockey": "Billy Loughnane",
+          "trainer": "Charlie Clover",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 1.44,
-          "bank": 104.27
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "11:50",
-      "meeting": "Chepstow",
-      "name": "Guaranteed Odds At David Lucas Bookmakers Novices' Hurdle (GBB Race) (Div 1)",
-      "class": "4",
-      "distance": "2m 16y",
-      "going": "Hurdle: soft; chase: good",
-      "runners": 14,
+      "time": "11:30",
+      "meeting": "Lingfield",
+      "name": "All-Weather Championship Is Back EBF Novice Stakes (GBB Race) (Div 1)",
+      "class": "3",
+      "distance": "7f 1y",
+      "going": "Standard",
+      "runners": 12,
       "picks": [
         {
           "rank": 1,
-          "horse": "Sea The Day",
+          "horse": "El Mutamaken",
           "stars": 5,
-          "odds": "11/4",
-          "jockey": "Harry Skelton",
-          "trainer": "D Skelton",
-          "pos": 3,
-          "res": "PLACE",
+          "odds": "5/2",
+          "jockey": "Billy Loughnane",
+          "trainer": "Owen Burrows",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.07,
-          "bank": 104.2
+          "profit": null,
+          "bank": null
+        },
+        {
+          "rank": 2,
+          "horse": "Aziz Malak",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "Harry Davies",
+          "trainer": "S Crisford",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "11:53",
+      "meeting": "Punchestown",
+      "name": "Sebden Steel Maiden Hurdle",
+      "class": "",
+      "distance": "2m 3f 87y",
+      "going": "Good to yielding-yielding in places",
+      "runners": 25,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Delamotte",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Paul Townend",
+          "trainer": "W P Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
       "time": "12:00",
-      "meeting": "Catterick",
-      "name": "Racing To School Reaches 25 Years Juvenile Hurdle (GBB Race)",
-      "class": "4",
-      "distance": "1m 7f 156y",
-      "going": "Good",
-      "runners": 11,
+      "meeting": "Lingfield",
+      "name": "All-Weather Championship Is Back EBF Novice Stakes (GBB Race) (Div 2)",
+      "class": "3",
+      "distance": "7f 1y",
+      "going": "Standard",
+      "runners": 12,
       "picks": [
         {
           "rank": 1,
-          "horse": "Sacre Chef",
+          "horse": "Bibury Star",
           "stars": 5,
-          "odds": "5/4",
-          "jockey": "Harry Atkins",
-          "trainer": "D Skelton",
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.3,
-          "profit": -0.3,
-          "bank": 103.9
-        }
-      ]
-    },
-    {
-      "time": "12:22",
-      "meeting": "Chepstow",
-      "name": "McCarthy Construction Novices' Hurdle (GBB Race) (Div 2)",
-      "class": "4",
-      "distance": "2m 16y",
-      "going": "Hurdle: soft; chase: good",
-      "runners": 14,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Old Habits",
-          "stars": 5,
-          "odds": "7/2",
-          "jockey": "S Bowen",
-          "trainer": "O Murphy",
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.63,
-          "bank": 104.53
-        }
-      ]
-    },
-    {
-      "time": "12:33",
-      "meeting": "Catterick",
-      "name": "Jumps Look Better On Racing TV Novices' Hurdle (GBB Race)",
-      "class": "4",
-      "distance": "2m 3f 66y",
-      "going": "Good",
-      "runners": 9,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Moments Away",
-          "stars": 5,
-          "odds": "5/2",
-          "jockey": "James Best",
-          "trainer": "M Keighley",
+          "odds": "8/13",
+          "jockey": "Billy Loughnane",
+          "trainer": "R Hughes",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
+          "res": null,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
       ]
     },
     {
-      "time": "12:45",
-      "meeting": "Ascot",
-      "name": "Ascot Promoting Safer Gambling Week 'National Hunt' Maiden Hurdle (GBB Race)",
-      "class": "2",
-      "distance": "2m 3f 63y",
-      "going": "Good-good to firm in places",
-      "runners": 8,
+      "time": "12:13",
+      "meeting": "Huntingdon",
+      "name": "Podkovan Won By A Czech Head Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "1m 7f 171y",
+      "going": "Good-good to soft in places",
+      "runners": 13,
       "picks": [
         {
           "rank": 1,
-          "horse": "Current Edition",
+          "horse": "Lastbutnotleased",
           "stars": 5,
-          "odds": "11/10",
-          "jockey": "Toby McCain-Mitchell",
-          "trainer": "N & W Twiston-Davies",
-          "pos": 3,
-          "res": "LOSE",
+          "odds": "2/1",
+          "jockey": "Paul O'Brien",
+          "trainer": "N J Henderson",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.3,
-          "bank": 104.23
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "12:57",
-      "meeting": "Chepstow",
-      "name": "Treble Odds L15s At David Lucas Handicap Chase (GBB Race)",
-      "class": "3",
-      "distance": "2m 3f 98y",
-      "going": "Hurdle: soft; chase: good",
+      "time": "12:28",
+      "meeting": "Punchestown",
+      "name": "Conway Piling Beginners Chase",
+      "class": "",
+      "distance": "2m 2f 200y",
+      "going": "Good to yielding-yielding in places",
+      "runners": 21,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mighty Park",
+          "stars": 5,
+          "odds": "2/1",
+          "jockey": "Mark Walsh",
+          "trainer": "W P Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:35",
+      "meeting": "Lingfield",
+      "name": "AWC Season 14 Has Begun EBF Novice Stakes (GBB Race)",
+      "class": "4",
+      "distance": "5f 6y",
+      "going": "Standard",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Iris Olivia",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "D Egan",
+          "trainer": "Charlie Clover",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "12:48",
+      "meeting": "Huntingdon",
+      "name": "Podkovan Dancing Through The Dark Handicap Hurdle",
+      "class": "5",
+      "distance": "3m 1f 10y",
+      "going": "Good-good to soft in places",
       "runners": 11,
       "picks": [
         {
           "rank": 1,
-          "horse": "Ben Solo",
+          "horse": "That Is Blue",
           "stars": 5,
-          "odds": "8/1",
-          "jockey": "Jamie Brace",
-          "trainer": "Miss R Curtis",
-          "pos": 2,
-          "res": "PLACE",
+          "odds": "11/2",
+          "jockey": "Charlie Bell",
+          "trainer": "Miss H C Knight",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.09,
-          "bank": 104.32
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "13:32",
-      "meeting": "Chepstow",
-      "name": "Albert Bartlett Triple Crown Series Handicap Hurdle (Qualifier)",
-      "class": "4",
-      "distance": "2m 3f 100y",
-      "going": "Hurdle: soft; chase: good",
+      "time": "13:10",
+      "meeting": "Lingfield",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "5",
+      "distance": "1m 2f",
+      "going": "Standard",
       "runners": 12,
       "picks": [
         {
           "rank": 1,
-          "horse": "Lejo Du Seuil",
+          "horse": "Mr Nugget",
           "stars": 5,
-          "odds": "6/1",
-          "jockey": "S Bowen",
-          "trainer": "Ian Williams",
-          "pos": 3,
-          "res": "PLACE",
+          "odds": "4/1",
+          "jockey": "D Egan",
+          "trainer": "D M Simcock",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.03,
-          "bank": 104.35
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "13:43",
-      "meeting": "Catterick",
-      "name": "Support The Injured Jockeys Fund Handicap Hurdle",
-      "class": "4",
-      "distance": "3m 1f 71y",
-      "going": "Good",
-      "runners": 9,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Jeteye",
-          "stars": 5,
-          "odds": "10/3",
-          "jockey": "Rebecca Hitchen",
-          "trainer": "S England",
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.6,
-          "bank": 104.95
-        }
-      ]
-    },
-    {
-      "time": "14:07",
-      "meeting": "Chepstow",
-      "name": "Happy 80th Birthday Pamela Hall Handicap Chase (GBB Race)",
-      "class": "4",
-      "distance": "2m 7f 136y",
-      "going": "Hurdle: soft; chase: good",
-      "runners": 12,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Patriotik",
-          "stars": 5,
-          "odds": "10/1",
-          "jockey": "Adam Wedge",
-          "trainer": "Mrs C Williams",
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.3,
-          "profit": 0.15,
-          "bank": 105.1
-        }
-      ]
-    },
-    {
-      "time": "14:30",
-      "meeting": "Ascot",
-      "name": "Ascot Shared Ownership Weekend Handicap Hurdle",
-      "class": "3",
-      "distance": "1m 7f 157y",
-      "going": "Good-good to firm in places",
+      "time": "13:15",
+      "meeting": "Haydock",
+      "name": "Betfair Supports Safer Gambling Week Newton Novices' Hurdle (Grade 2) (GBB Race)",
+      "class": "1",
+      "distance": "1m 7f 144y",
+      "going": "Good-good to soft in places",
       "runners": 8,
       "picks": [
         {
           "rank": 1,
-          "horse": "Moveit Like Minnie",
+          "horse": "Cosmic Connection",
           "stars": 5,
-          "odds": "5/1",
-          "jockey": "Miss Amber Jackson-Fennell",
-          "trainer": "N & W Twiston-Davies",
-          "pos": 1,
-          "res": "WIN",
+          "odds": "11/4",
+          "jockey": "Freddie Gordon",
+          "trainer": "C Gordon",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.9,
-          "bank": 106.0
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "14:42",
-      "meeting": "Chepstow",
-      "name": "David Lucas Best Prices Welsh Sport Handicap Hurdle",
-      "class": "5",
-      "distance": "2m 16y",
-      "going": "Hurdle: soft; chase: good",
+      "time": "13:38",
+      "meeting": "Punchestown",
+      "name": "Ryans Cleaning Handicap Chase",
+      "class": "",
+      "distance": "2m 5f 70y",
+      "going": "Good to yielding-yielding in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Predators Gold",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Paul Townend",
+          "trainer": "W P Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "13:45",
+      "meeting": "Lingfield",
+      "name": "Midnite Built Different Handicap",
+      "class": "4",
+      "distance": "6f 1y",
+      "going": "Standard",
       "runners": 12,
       "picks": [
         {
           "rank": 1,
-          "horse": "Northwest Passage",
+          "horse": "Tan Rapido",
           "stars": 5,
-          "odds": "11/4",
-          "jockey": "William Shanahan",
-          "trainer": "I Furtado",
-          "pos": 3,
-          "res": "PLACE",
+          "odds": "5/1",
+          "jockey": "Paddy Bradley",
+          "trainer": "C Fellowes",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.07,
-          "bank": 105.93
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "14:53",
-      "meeting": "Catterick",
-      "name": "racingtv.com/freetrial Female Jockeys' Handicap Chase",
-      "class": "5",
-      "distance": "3m 1f 54y",
-      "going": "Good",
+      "time": "13:58",
+      "meeting": "Huntingdon",
+      "name": "Prancing To The Pilsner Handicap Hurdle",
+      "class": "4",
+      "distance": "1m 7f 171y",
+      "going": "Good-good to soft in places",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "North Of Richmond",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Adam Wedge",
+          "trainer": "A M Hales",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Ascot",
+      "name": "Ladbrokes Get Your Free Racing Bet Today Mares' Handicap Hurdle",
+      "class": "3",
+      "distance": "3m 102y",
+      "going": "Good-good to firm in places",
       "runners": 9,
       "picks": [
         {
           "rank": 1,
-          "horse": "Illogical Logic",
+          "horse": "Porter In The Park",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Cameron Johnstone-Baker",
+          "trainer": "Miss E C Lavelle",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Lingfield",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "6f 1y",
+      "going": "Standard",
+      "runners": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fuseboard",
           "stars": 5,
           "odds": "5/1",
-          "jockey": "Tabitha Worsley",
-          "trainer": "D Thompson",
-          "pos": 5,
-          "res": "LOSE",
+          "jockey": "Joey Haynes",
+          "trainer": "C Banham",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.3,
-          "bank": 105.63
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Haydock",
+      "name": "Betfair Stayers' Red Rose Handicap Hurdle (Premier Handicap) (GBB Race)",
+      "class": "1",
+      "distance": "3m 58y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Seaniecon",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Jonjo O'Neill Jr.",
+          "trainer": "J & A O'Neill",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:33",
+      "meeting": "Huntingdon",
+      "name": "Podkovan Zero To Hero Handicap Chase",
+      "class": "5",
+      "distance": "2m 3f 189y",
+      "going": "Good-good to soft in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Chosen Hero",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Callum Pritchard",
+          "trainer": "James Owen",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ascot",
+      "name": "Restorations UK Berkshire National Handicap Chase (GBB Race)",
+      "class": "2",
+      "distance": "3m 5f 75y",
+      "going": "Good-good to firm in places",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Our Power",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Dylan Johnston",
+          "trainer": "S Thomas",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Punchestown",
+      "name": "Total Event Rental 3-Y-O Hurdle",
+      "class": "",
+      "distance": "1m 7f 187y",
+      "going": "Good to yielding-yielding in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Momentum Of Love",
+          "stars": 5,
+          "odds": "7/4",
+          "jockey": "Paul Townend",
+          "trainer": "W P Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "14:49",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 1)",
+      "class": "5",
+      "distance": "1m 4f 98y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mr Moonshine",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "O J Orr",
+          "trainer": "R A Fahey",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
       "time": "15:05",
-      "meeting": "Ascot",
-      "name": "Ladbrokes 'Get Your Free Racing Bet Today' Handicap Chase (GBB Race)",
-      "class": "4",
-      "distance": "2m 7f 185y",
-      "going": "Good-good to firm in places",
-      "runners": 10,
+      "meeting": "Lingfield",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "5",
+      "distance": "1m 1y",
+      "going": "Standard",
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
-          "horse": "Fever Dream",
+          "horse": "The Anthony Gover",
           "stars": 5,
-          "odds": "12/1",
-          "jockey": "Jack Tudor",
-          "trainer": "Christian Williams",
+          "odds": "3/1",
+          "jockey": "Billy Loughnane",
+          "trainer": "Dr R Newland",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
+          "res": null,
+          "stake": 0.3,
           "profit": null,
           "bank": null
         }
       ]
     },
     {
-      "time": "15:17",
-      "meeting": "Chepstow",
-      "name": "Free 5 Pound Bet At David Lucas Open NH Flat Race (GBB Race)",
+      "time": "15:10",
+      "meeting": "Huntingdon",
+      "name": "Podkovans Last Orders 'Junior' NH Flat Race (GBB Race)",
       "class": "5",
-      "distance": "2m 16y",
-      "going": "Hurdle: soft; chase: good",
+      "distance": "1m 7f 171y",
+      "going": "Good-good to soft in places",
       "runners": 12,
       "picks": [
         {
           "rank": 1,
-          "horse": "Hurricane Mick",
+          "horse": "Took You Two",
           "stars": 5,
-          "odds": "3/1",
-          "jockey": "Harry Skelton",
-          "trainer": "D Skelton",
-          "pos": 1,
-          "res": "WIN",
+          "odds": "5/1",
+          "jockey": "Thomas Bellamy",
+          "trainer": "A King",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.54,
-          "bank": 106.17
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "16:30",
-      "meeting": "Wolverhampton",
-      "name": "All Weather Championship Is Back Amateur Jockeys' Handicap",
-      "class": "6",
-      "distance": "1m 142y",
-      "going": "Standard",
-      "runners": 13,
+      "time": "15:23",
+      "meeting": "Punchestown",
+      "name": "Albert Bartlett Triple Crown Series At Punchestown Festival 2027 Qualifier Handicap Hurdle",
+      "class": "",
+      "distance": "2m 3f 87y",
+      "going": "Good to yielding-yielding in places",
+      "runners": 19,
       "picks": [
         {
           "rank": 1,
-          "horse": "Book Of Life",
+          "horse": "Thankyouforthedays",
           "stars": 5,
-          "odds": "7/1",
-          "jockey": "Mr Jack Loughnane",
-          "trainer": "P Morris",
-          "pos": 3,
-          "res": "PLACE",
+          "odds": "10/1",
+          "jockey": "Keith Donoghue",
+          "trainer": "J P Dempsey",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.06,
-          "bank": 106.23
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "16:45",
-      "meeting": "Dundalk",
-      "name": "Irishinjuredjockeys.com Nursery Handicap",
-      "class": "",
-      "distance": "5f",
+      "time": "15:29",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m 4f 98y",
       "going": "Standard",
       "runners": 9,
       "picks": [
         {
           "rank": 1,
-          "horse": "Premier View",
+          "horse": "Kartini",
           "stars": 5,
-          "odds": "9/4",
-          "jockey": "Conor Cusack",
-          "trainer": "H De Bromhead",
-          "pos": 1,
-          "res": "WIN",
+          "odds": "11/4",
+          "jockey": "T Eaves",
+          "trainer": "S Whitaker",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.4,
-          "bank": 106.63
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
-      "time": "17:15",
-      "meeting": "Dundalk",
-      "name": "Now Racing Every Wednesday At Dundalk Handicap (0-60)",
-      "class": "",
-      "distance": "6f",
+      "time": "15:40",
+      "meeting": "Lingfield",
+      "name": "Midnite It's Actually Pretty Good Handicap",
+      "class": "6",
+      "distance": "1m 4f 1y",
       "going": "Standard",
-      "runners": 17,
+      "runners": 12,
       "picks": [
         {
           "rank": 1,
-          "horse": "Surpass And Shine",
+          "horse": "Brave Leader",
+          "stars": 5,
+          "odds": "15/8",
+          "jockey": "L Morris",
+          "trainer": "James Owen",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ascot",
+      "name": "Ascot Advent Calendar Novices' Handicap Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "3m 102y",
+      "going": "Good-good to firm in places",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Herbygoesbananas",
           "stars": 5,
           "odds": "7/2",
-          "jockey": "Robyn Donaghue-Leahy",
-          "trainer": "P J Flynn",
-          "pos": 1,
-          "res": "WIN",
+          "jockey": "Ben Jones",
+          "trainer": "Miss H C Knight",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": 0.63,
-          "bank": 107.26
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "15:53",
+      "meeting": "Punchestown",
+      "name": "WTW Willis (Pro/Am) Flat Race",
+      "class": "",
+      "distance": "2m 160y",
+      "going": "Good to yielding-yielding in places",
+      "runners": 10,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Mister Boum",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "Mr P W Mullins",
+          "trainer": "W P Mullins",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Newcastle",
+      "name": "AWC Finals Day At Newcastle 26th March Nursery",
+      "class": "6",
+      "distance": "1m 5y",
+      "going": "Standard",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eagle Storm",
+          "stars": 5,
+          "odds": "3/1",
+          "jockey": "Jason Hart",
+          "trainer": "J Candlish",
+          "pos": 0,
+          "res": null,
+          "stake": 0.3,
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
       "time": "17:30",
-      "meeting": "Wolverhampton",
-      "name": "AWC Finals Day At Newcastle 26th March Maiden Fillies' Stakes (GBB/GBBPlus Race) (Div 1)",
-      "class": "3",
-      "distance": "1m 142y",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "6",
+      "distance": "5f",
       "going": "Standard",
-      "runners": 11,
+      "runners": 14,
       "picks": [
         {
           "rank": 1,
-          "horse": "Lady Phillips",
+          "horse": "Auradue",
           "stars": 5,
-          "odds": "2/1",
-          "jockey": "Rhys Clutterbuck",
-          "trainer": "R M Beckett",
-          "pos": 6,
-          "res": "LOSE",
+          "odds": "10/3",
+          "jockey": "Alistair Rawlinson",
+          "trainer": "S R Bowring",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.3,
-          "bank": 106.96
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
       "time": "18:00",
-      "meeting": "Wolverhampton",
-      "name": "AWC Finals Day At Newcastle 26th March Maiden Fillies' Stakes (GBB/GBBPlus Race) (Div 2)",
-      "class": "3",
-      "distance": "1m 142y",
+      "meeting": "Newcastle",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "6",
+      "distance": "1m 5y",
       "going": "Standard",
-      "runners": 11,
+      "runners": 14,
       "picks": [
         {
           "rank": 1,
-          "horse": "Zhuri",
+          "horse": "Oppenheimer",
           "stars": 5,
-          "odds": "8/11",
-          "jockey": "R Havlin",
-          "trainer": "J & T Gosden",
-          "pos": 2,
-          "res": "PLACE",
+          "odds": "9/4",
+          "jockey": "Hollie Doyle",
+          "trainer": "James Owen",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.13,
-          "bank": 106.83
-        }
-      ]
-    },
-    {
-      "time": "18:15",
-      "meeting": "Dundalk",
-      "name": "BAR 1 Betting 'Safer Gambling Week' Rated Race",
-      "class": "",
-      "distance": "7f",
-      "going": "Standard",
-      "runners": 12,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "City House",
-          "stars": 5,
-          "odds": "5/1",
-          "jockey": "Rory Mulligan",
-          "trainer": "A McGuinness",
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.3,
-          "profit": -0.3,
-          "bank": 106.53
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
       "time": "18:30",
-      "meeting": "Wolverhampton",
-      "name": "AWC Season 14 Selling Handicap",
-      "class": "4",
-      "distance": "1m 142y",
+      "meeting": "Newcastle",
+      "name": "All-Weather Championship Season 14 Has Begun Handicap",
+      "class": "6",
+      "distance": "7f 14y",
       "going": "Standard",
-      "runners": 11,
+      "runners": 14,
       "picks": [
         {
           "rank": 1,
-          "horse": "Kalamunda",
+          "horse": "Oxford Circus",
           "stars": 5,
-          "odds": "6/1",
-          "jockey": "K Shoemark",
-          "trainer": "J Parr",
-          "pos": 7,
-          "res": "LOSE",
+          "odds": "13/8",
+          "jockey": "Hollie Doyle",
+          "trainer": "James Owen",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.3,
-          "bank": 106.23
-        }
-      ]
-    },
-    {
-      "time": "18:45",
-      "meeting": "Dundalk",
-      "name": "Irish Stallion Farms EBF (C & G) Maiden",
-      "class": "",
-      "distance": "1m",
-      "going": "Standard",
-      "runners": 13,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Selosse",
-          "stars": 5,
-          "odds": "12/1",
-          "jockey": "Nathan Crosse",
-          "trainer": "Mrs J Harrington",
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.3,
-          "profit": -0.3,
-          "bank": 105.93
+          "profit": null,
+          "bank": null
         }
       ]
     },
     {
       "time": "19:00",
-      "meeting": "Wolverhampton",
-      "name": "AWC Trials Day - Lingfield 2nd January 2027 Nursery",
-      "class": "6",
-      "distance": "7f 36y",
-      "going": "Standard",
-      "runners": 12,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Printing Money",
-          "stars": 5,
-          "odds": "7/2",
-          "jockey": "A Mullen",
-          "trainer": "Dylan Cunha",
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.63,
-          "bank": 106.56
-        }
-      ]
-    },
-    {
-      "time": "19:15",
-      "meeting": "Dundalk",
-      "name": "Irish Stallion Farms EBF Fillies Maiden",
-      "class": "",
-      "distance": "1m",
-      "going": "Standard",
-      "runners": 17,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Castilian Queen",
-          "stars": 5,
-          "odds": "9/4",
-          "jockey": "Colin Keane",
-          "trainer": "G M Lyons",
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.3,
-          "profit": -0.3,
-          "bank": 106.26
-        }
-      ]
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "name": "All Weather Championship Handicap",
-      "class": "2",
-      "distance": "7f 36y",
-      "going": "Standard",
-      "runners": 10,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Secret Santa",
-          "stars": 5,
-          "odds": "5/1",
-          "jockey": "S M Levey",
-          "trainer": "R Hannon",
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.3,
-          "profit": 0.0,
-          "bank": 106.26
-        }
-      ]
-    },
-    {
-      "time": "19:45",
-      "meeting": "Dundalk",
-      "name": "Christmas Party Nights At Dundalk Stadium Apprentice Handicap",
-      "class": "",
-      "distance": "1m 2f 150y",
-      "going": "Standard",
-      "runners": 13,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Flying Fortress",
-          "stars": 5,
-          "odds": "6/1",
-          "jockey": "Sam Coen",
-          "trainer": "G P Cromwell",
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.3,
-          "profit": 1.08,
-          "bank": 107.34
-        }
-      ]
-    },
-    {
-      "time": "20:00",
-      "meeting": "Wolverhampton",
-      "name": "Midnite It's Actually Pretty Good Handicap",
-      "class": "6",
-      "distance": "6f 20y",
-      "going": "Standard",
-      "runners": 13,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Our Planet",
-          "stars": 5,
-          "odds": "16/1",
-          "jockey": "Cieren Fallon",
-          "trainer": "James Owen",
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.3,
-          "profit": 2.88,
-          "bank": 110.22
-        }
-      ]
-    },
-    {
-      "time": "20:15",
-      "meeting": "Dundalk",
-      "name": "Safer Gambling Week 2026 Handicap (0-60)",
-      "class": "",
-      "distance": "1m 4f",
-      "going": "Standard",
-      "runners": 17,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Young Churchill",
-          "stars": 5,
-          "odds": "9/2",
-          "jockey": "Adam Grant",
-          "trainer": "R O'Brien",
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.3,
-          "profit": 0.81,
-          "bank": 111.03
-        }
-      ]
-    },
-    {
-      "time": "20:30",
-      "meeting": "Wolverhampton",
+      "meeting": "Newcastle",
       "name": "Midnite Built Different Handicap",
       "class": "6",
-      "distance": "1m 1f 104y",
+      "distance": "6f",
       "going": "Standard",
       "runners": 13,
       "picks": [
         {
           "rank": 1,
-          "horse": "San Juanito",
+          "horse": "Roaring Ralph",
           "stars": 5,
-          "odds": "4/1",
-          "jockey": "Rob Hornby",
-          "trainer": "M Murphy",
-          "pos": 10,
-          "res": "LOSE",
+          "odds": "16/1",
+          "jockey": "Rhys Elliott",
+          "trainer": "M Dods",
+          "pos": 0,
+          "res": null,
           "stake": 0.3,
-          "profit": -0.3,
-          "bank": 110.73
+          "profit": null,
+          "bank": null
         }
       ]
     }
   ],
   "score": {
-    "picks": 30,
-    "races": 30,
-    "settled": 28,
-    "won": 11,
-    "placed": 8,
-    "lost": 9,
-    "nr": 2,
-    "pending": 0
+    "picks": 33,
+    "races": 32,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 33
   },
   "day": {
     "bet": 0.3,
     "units": 3,
-    "horses": 30,
-    "bet_horses": 28,
-    "total_stake": 8.4
+    "horses": 33,
+    "bet_horses": 0,
+    "total_stake": 9.9
   },
-  "staked": 8.4,
-  "returned": 16.3,
-  "profit": 7.9,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 102.83,
+    "start": 110.73,
     "end": 110.73,
     "next_stake": 0.3,
     "ladder": [
