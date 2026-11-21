@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T14:01:22+0000",
+  "updated": "2026-11-21T14:31:11+0000",
   "races": [
     {
       "time": "11:00",
@@ -319,11 +319,11 @@
           "odds": "3/1",
           "jockey": "Adam Wedge",
           "trainer": "A M Hales",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.06,
+          "bank": 110.82
         }
       ]
     },
@@ -343,11 +343,11 @@
           "odds": "15/2",
           "jockey": "Cameron Johnstone-Baker",
           "trainer": "Miss E C Lavelle",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 110.52
         }
       ]
     },
@@ -367,11 +367,11 @@
           "odds": "5/1",
           "jockey": "Joey Haynes",
           "trainer": "C Banham",
-          "pos": 0,
-          "res": null,
+          "pos": 10,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": 110.22
         }
       ]
     },
@@ -787,26 +787,26 @@
   "score": {
     "picks": 33,
     "races": 32,
-    "settled": 13,
+    "settled": 16,
     "won": 4,
-    "placed": 4,
-    "lost": 5,
+    "placed": 5,
+    "lost": 7,
     "nr": 1,
-    "pending": 19
+    "pending": 16
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 33,
-    "bet_horses": 13,
+    "bet_horses": 16,
     "total_stake": 9.6
   },
-  "staked": 3.9,
-  "returned": 4.05,
-  "profit": 0.15,
+  "staked": 4.8,
+  "returned": 4.29,
+  "profit": -0.51,
   "bank": {
     "start": 110.73,
-    "end": 110.88,
+    "end": 110.22,
     "next_stake": 0.3,
     "ladder": [
       1,
@@ -815,6 +815,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 110.88
+    "season_end": 110.22
   }
 }
