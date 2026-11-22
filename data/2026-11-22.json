@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-22T14:31:17+0000",
+  "updated": "2026-11-22T15:01:19+0000",
   "races": [
     {
       "time": "11:25",
@@ -378,11 +378,11 @@
           "odds": "5/2",
           "jockey": "Jack Doughty",
           "trainer": "C Hobson",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 108.76
         }
       ]
     },
@@ -402,11 +402,11 @@
           "odds": "11/2",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": 0.02,
+          "bank": 108.78
         }
       ]
     },
@@ -427,8 +427,8 @@
           "jockey": "Donagh Meyler",
           "trainer": "R O'Sullivan",
           "pos": 0,
-          "res": null,
-          "stake": 0.4,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -606,26 +606,26 @@
   "score": {
     "picks": 25,
     "races": 25,
-    "settled": 15,
+    "settled": 17,
     "won": 3,
-    "placed": 5,
-    "lost": 7,
-    "nr": 0,
-    "pending": 10
+    "placed": 6,
+    "lost": 8,
+    "nr": 1,
+    "pending": 7
   },
   "day": {
     "bet": 0.4,
     "units": 4,
     "horses": 25,
-    "bet_horses": 15,
-    "total_stake": 10.0
+    "bet_horses": 17,
+    "total_stake": 9.6
   },
-  "staked": 6.0,
-  "returned": 5.09,
-  "profit": -0.91,
+  "staked": 6.8,
+  "returned": 5.51,
+  "profit": -1.29,
   "bank": {
     "start": 110.07,
-    "end": 109.16,
+    "end": 108.78,
     "next_stake": 0.4,
     "ladder": [
       1,
@@ -635,6 +635,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 109.16
+    "season_end": 108.78
   }
 }
