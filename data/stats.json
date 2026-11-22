@@ -1,13 +1,13 @@
 {
   "season": {
-    "picks": 856,
-    "races": 853,
-    "days": 151,
+    "picks": 881,
+    "races": 878,
+    "days": 152,
     "won": 206,
     "placed": 255,
     "lost": 338,
     "nr": 57,
-    "pending": 0,
+    "pending": 25,
     "staked": 76476.7,
     "returned": 76576.77,
     "profit": 100.07,
@@ -33,5 +33,5 @@
     "profit": 5012.77,
     "picks": 5
   },
-  "updated": "2026-11-21T19:31:03+0000"
+  "updated": "2026-11-22T05:30:01+0000"
 }
