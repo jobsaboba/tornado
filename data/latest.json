@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-22T13:01:15+0000",
+  "updated": "2026-11-22T13:31:06+0000",
   "races": [
     {
       "time": "11:25",
@@ -186,11 +186,11 @@
           "odds": "2/1",
           "jockey": "W Buick",
           "trainer": "C Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": 0.48,
+          "bank": 110.18
         }
       ]
     },
@@ -210,11 +210,11 @@
           "odds": "16/1",
           "jockey": "Daniel King",
           "trainer": "B Connell",
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": -0.4,
+          "bank": 109.78
         }
       ]
     },
@@ -234,11 +234,11 @@
           "odds": "10/3",
           "jockey": "Sam Ewing",
           "trainer": "G Elliott",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.4,
-          "profit": null,
-          "bank": null
+          "profit": 0.8,
+          "bank": 110.58
         }
       ]
     },
@@ -606,26 +606,26 @@
   "score": {
     "picks": 25,
     "races": 25,
-    "settled": 7,
-    "won": 1,
+    "settled": 10,
+    "won": 3,
     "placed": 3,
-    "lost": 3,
+    "lost": 4,
     "nr": 0,
-    "pending": 18
+    "pending": 15
   },
   "day": {
     "bet": 0.4,
     "units": 4,
     "horses": 25,
-    "bet_horses": 7,
+    "bet_horses": 10,
     "total_stake": 10.0
   },
-  "staked": 2.8,
-  "returned": 2.43,
-  "profit": -0.37,
+  "staked": 4.0,
+  "returned": 4.51,
+  "profit": 0.51,
   "bank": {
     "start": 110.07,
-    "end": 109.7,
+    "end": 110.58,
     "next_stake": 0.4,
     "ladder": [
       1,
@@ -635,6 +635,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 109.7
+    "season_end": 110.58
   }
 }
