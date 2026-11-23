@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T20:01:33+0000",
+  "updated": "2026-11-23T20:31:29+0000",
   "races": [
     {
       "time": "12:25",
@@ -594,11 +594,11 @@
           "odds": "8/1",
           "jockey": "Rowan Scott",
           "trainer": "K P De Foy",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 2.4,
+          "bank": -843.89
         }
       ]
     },
@@ -630,26 +630,26 @@
   "score": {
     "picks": 26,
     "races": 26,
-    "settled": 24,
-    "won": 5,
+    "settled": 25,
+    "won": 6,
     "placed": 7,
     "lost": 12,
     "nr": 0,
-    "pending": 2
+    "pending": 1
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 26,
-    "bet_horses": 24,
+    "bet_horses": 25,
     "total_stake": 13.0
   },
-  "staked": 12.0,
-  "returned": 10.69,
-  "profit": -1.31,
+  "staked": 12.5,
+  "returned": 13.59,
+  "profit": 1.09,
   "bank": {
     "start": -844.98,
-    "end": -846.29,
+    "end": -843.89,
     "next_stake": 0.5,
     "ladder": [
       1,
@@ -660,6 +660,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -846.29
+    "season_end": -843.89
   }
 }
