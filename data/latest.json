@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T13:01:13+0000",
+  "updated": "2026-11-23T13:31:09+0000",
   "races": [
     {
       "time": "12:25",
@@ -91,8 +91,8 @@
           "jockey": "Stan Sheppard",
           "trainer": "H D Daly",
           "pos": 0,
-          "res": null,
-          "stake": 0.5,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -114,11 +114,11 @@
           "odds": "5/4",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.19,
+          "bank": 107.89
         }
       ]
     },
@@ -630,26 +630,26 @@
   "score": {
     "picks": 26,
     "races": 26,
-    "settled": 1,
+    "settled": 2,
     "won": 0,
-    "placed": 1,
+    "placed": 2,
     "lost": 0,
-    "nr": 2,
-    "pending": 23
+    "nr": 3,
+    "pending": 21
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 26,
-    "bet_horses": 1,
-    "total_stake": 12.0
+    "bet_horses": 2,
+    "total_stake": 11.5
   },
-  "staked": 0.5,
-  "returned": 0.33,
-  "profit": -0.17,
+  "staked": 1.0,
+  "returned": 0.64,
+  "profit": -0.36,
   "bank": {
     "start": 108.25,
-    "end": 108.08,
+    "end": 107.89,
     "next_stake": 0.5,
     "ladder": [
       1,
@@ -660,6 +660,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 108.08
+    "season_end": 107.89
   }
 }
