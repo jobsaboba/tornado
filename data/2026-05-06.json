@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "14:25",
@@ -20,9 +20,9 @@
           "trainer": "N W Alexander",
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.6,
-          "profit": -2.6,
-          "bank": -14.11
+          "stake": 18.4,
+          "profit": -18.4,
+          "bank": -202.6
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "N G Richards",
           "pos": 1,
           "res": "WIN",
-          "stake": 2.6,
-          "profit": 3.12,
-          "bank": -10.99
+          "stake": 18.4,
+          "profit": 22.08,
+          "bank": -180.52
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Ewan Whillans",
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.6,
-          "profit": -2.6,
-          "bank": -13.59
+          "stake": 18.4,
+          "profit": -18.4,
+          "bank": -198.92
         }
       ]
     }
@@ -86,32 +86,30 @@
     "pending": 0
   },
   "day": {
-    "bet": 2.6,
-    "units": 26,
+    "bet": 18.4,
+    "units": 184,
     "horses": 3,
     "bet_horses": 3,
-    "total_stake": 7.8
+    "total_stake": 55.2
   },
-  "staked": 7.8,
-  "returned": 5.72,
-  "profit": -2.08,
+  "staked": 55.2,
+  "returned": 40.48,
+  "profit": -14.72,
   "bank": {
-    "start": -11.51,
-    "end": -13.59,
-    "next_stake": 3.0,
+    "start": -184.2,
+    "end": -198.92,
+    "next_stake": 21.6,
     "ladder": [
-      4,
-      5,
-      7,
-      10,
-      13,
-      16,
-      19,
-      22,
-      26
+      32,
+      56,
+      80,
+      104,
+      128,
+      152,
+      184
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

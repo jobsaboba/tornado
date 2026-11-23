@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "14:00",
@@ -20,9 +20,9 @@
           "trainer": "I Jardine",
           "pos": 7,
           "res": "LOSE",
-          "stake": 8.6,
-          "profit": -8.6,
-          "bank": -47.24
+          "stake": 60.8,
+          "profit": -60.8,
+          "bank": -381.94
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "N Tinkler",
           "pos": 2,
           "res": "PLACE",
-          "stake": 8.6,
-          "profit": -2.9,
-          "bank": -50.14
+          "stake": 60.8,
+          "profit": -20.52,
+          "bank": -402.46
         }
       ]
     }
@@ -62,30 +62,28 @@
     "pending": 0
   },
   "day": {
-    "bet": 8.6,
-    "units": 86,
+    "bet": 60.8,
+    "units": 608,
     "horses": 2,
     "bet_horses": 2,
-    "total_stake": 17.2
+    "total_stake": 121.6
   },
-  "staked": 17.2,
-  "returned": 5.7,
-  "profit": -11.5,
+  "staked": 121.6,
+  "returned": 40.28,
+  "profit": -81.32,
   "bank": {
-    "start": -38.64,
-    "end": -50.14,
-    "next_stake": 10.2,
+    "start": -321.14,
+    "end": -402.46,
+    "next_stake": 76.0,
     "ladder": [
-      16,
-      19,
-      22,
-      38,
-      54,
-      70,
-      86
+      152,
+      152,
+      304,
+      456,
+      608
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

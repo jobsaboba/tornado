@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "14:25",
@@ -20,9 +20,9 @@
           "trainer": "Miss J A Camacho",
           "pos": 1,
           "res": "WIN",
-          "stake": 14.6,
-          "profit": 30.66,
-          "bank": -67.53
+          "stake": 106.4,
+          "profit": 223.44,
+          "bank": -510.65
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "T D Easterby",
           "pos": 5,
           "res": "LOSE",
-          "stake": 14.6,
-          "profit": -14.6,
-          "bank": -82.13
+          "stake": 106.4,
+          "profit": -106.4,
+          "bank": -617.05
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "E Walker",
           "pos": 3,
           "res": "PLACE",
-          "stake": 14.6,
-          "profit": -4.01,
-          "bank": -86.14
+          "stake": 106.4,
+          "profit": -29.26,
+          "bank": -646.31
         }
       ]
     }
@@ -86,29 +86,27 @@
     "pending": 0
   },
   "day": {
-    "bet": 14.6,
-    "units": 146,
+    "bet": 106.4,
+    "units": 1064,
     "horses": 3,
     "bet_horses": 3,
-    "total_stake": 43.8
+    "total_stake": 319.2
   },
-  "staked": 43.8,
-  "returned": 55.85,
-  "profit": 12.05,
+  "staked": 319.2,
+  "returned": 406.98,
+  "profit": 87.78,
   "bank": {
-    "start": -98.19,
-    "end": -86.14,
-    "next_stake": 13.0,
+    "start": -734.09,
+    "end": -646.31,
+    "next_stake": 106.4,
     "ladder": [
-      22,
-      38,
-      54,
-      70,
-      89,
-      108
+      304,
+      456,
+      608,
+      760
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

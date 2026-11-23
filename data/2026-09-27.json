@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "12:19",
@@ -20,9 +20,9 @@
           "trainer": "G Harris",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.72,
-          "bank": 97.37
+          "stake": 0.8,
+          "profit": 1.44,
+          "bank": -1027.57
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R M Beckett",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.54,
-          "bank": 97.91
+          "stake": 0.8,
+          "profit": 1.08,
+          "bank": -1026.49
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "B R Millman",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.11,
-          "bank": 97.8
+          "stake": 0.8,
+          "profit": -0.22,
+          "bank": -1026.71
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "B R Millman",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.16,
-          "bank": 97.64
+          "stake": 0.8,
+          "profit": -0.33,
+          "bank": -1027.04
         }
       ]
     }
@@ -110,25 +110,26 @@
     "pending": 0
   },
   "day": {
-    "bet": 0.4,
-    "units": 4,
+    "bet": 0.8,
+    "units": 8,
     "horses": 4,
     "bet_horses": 4,
-    "total_stake": 1.6
+    "total_stake": 3.2
   },
-  "staked": 1.6,
-  "returned": 2.59,
-  "profit": 0.99,
+  "staked": 3.2,
+  "returned": 5.17,
+  "profit": 1.97,
   "bank": {
-    "start": 96.65,
-    "end": 97.64,
-    "next_stake": 0.4,
+    "start": -1029.01,
+    "end": -1027.04,
+    "next_stake": 0.6,
     "ladder": [
       2,
-      2
+      3,
+      4
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

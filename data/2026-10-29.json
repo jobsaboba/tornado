@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "13:30",
@@ -20,9 +20,9 @@
           "trainer": "S Edmunds",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.1,
-          "bank": 100.28
+          "stake": 1.6,
+          "profit": -0.4,
+          "bank": -1031.83
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "P Hobbs & J White",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.11,
-          "bank": 100.17
+          "stake": 1.6,
+          "profit": -0.44,
+          "bank": -1032.27
         }
       ]
     }
@@ -62,28 +62,30 @@
     "pending": 0
   },
   "day": {
-    "bet": 0.4,
-    "units": 4,
+    "bet": 1.6,
+    "units": 16,
     "horses": 2,
     "bet_horses": 2,
-    "total_stake": 0.8
+    "total_stake": 3.2
   },
-  "staked": 0.8,
-  "returned": 0.59,
-  "profit": -0.21,
+  "staked": 3.2,
+  "returned": 2.36,
+  "profit": -0.84,
   "bank": {
-    "start": 100.38,
-    "end": 100.17,
-    "next_stake": 0.5,
+    "start": -1031.43,
+    "end": -1032.27,
+    "next_stake": 1.9,
     "ladder": [
-      1,
-      2,
-      2,
       3,
-      4
+      4,
+      6,
+      8,
+      10,
+      13,
+      16
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

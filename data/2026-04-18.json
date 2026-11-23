@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "12:17",
@@ -20,9 +20,9 @@
           "trainer": "Jamie Snowden",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.1,
-          "profit": -0.44,
-          "bank": 10.1
+          "stake": 4.8,
+          "profit": -1.92,
+          "bank": -11.24
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "G Hanmer",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.1,
-          "profit": -0.37,
-          "bank": 9.73
+          "stake": 4.8,
+          "profit": -1.62,
+          "bank": -12.86
         }
       ]
     },
@@ -67,10 +67,10 @@
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": -17.66
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "J P O'Brien",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.1,
-          "profit": -0.11,
-          "bank": 9.62
+          "stake": 4.8,
+          "profit": -0.48,
+          "bank": -18.14
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "O Greenall & J Guerriero",
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.1,
-          "profit": -1.1,
-          "bank": 8.52
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": -22.94
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "J W Mullins",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.1,
+          "stake": 4.8,
           "profit": 0.0,
-          "bank": 8.52
+          "bank": -22.94
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "Jamie Snowden",
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.1,
-          "profit": -1.1,
-          "bank": 7.42
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": -27.74
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "D Skelton",
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.1,
-          "profit": -1.1,
-          "bank": 6.32
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": -32.54
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "N J Henderson",
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.1,
-          "profit": -1.1,
-          "bank": 5.22
+          "stake": 4.8,
+          "profit": -4.8,
+          "bank": -37.34
         }
       ]
     }
@@ -222,39 +222,37 @@
   "score": {
     "picks": 9,
     "races": 9,
-    "settled": 8,
+    "settled": 9,
     "won": 0,
     "placed": 4,
-    "lost": 4,
-    "nr": 1,
+    "lost": 5,
+    "nr": 0,
     "pending": 0
   },
   "day": {
-    "bet": 1.1,
-    "units": 11,
+    "bet": 4.8,
+    "units": 48,
     "horses": 9,
-    "bet_horses": 8,
-    "total_stake": 8.8
+    "bet_horses": 9,
+    "total_stake": 43.2
   },
-  "staked": 8.8,
-  "returned": 3.48,
-  "profit": -5.32,
+  "staked": 43.2,
+  "returned": 15.18,
+  "profit": -28.02,
   "bank": {
-    "start": 10.54,
-    "end": 5.22,
-    "next_stake": 1.3,
+    "start": -9.32,
+    "end": -37.34,
+    "next_stake": 5.6,
     "ladder": [
-      2,
-      2,
-      3,
-      4,
-      5,
-      7,
-      9,
-      11
+      8,
+      16,
+      24,
+      32,
+      40,
+      48
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

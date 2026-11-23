@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "12:45",
@@ -20,9 +20,9 @@
           "trainer": "W J Haggas",
           "pos": 1,
           "res": "WIN",
-          "stake": 330.5,
-          "profit": 180.27,
-          "bank": -1824.29
+          "stake": 4362.4,
+          "profit": 2379.49,
+          "bank": -18611.66
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Mrs R Carr",
           "pos": 1,
           "res": "WIN",
-          "stake": 330.5,
-          "profit": 495.75,
-          "bank": -1328.54
+          "stake": 4362.4,
+          "profit": 6543.6,
+          "bank": -12068.06
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Miss L A Perratt",
           "pos": 3,
           "res": "PLACE",
-          "stake": 330.5,
-          "profit": 132.2,
-          "bank": -1196.34
+          "stake": 4362.4,
+          "profit": 1744.96,
+          "bank": -10323.1
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "G Tutty",
           "pos": 2,
           "res": "PLACE",
-          "stake": 330.5,
-          "profit": 33.05,
-          "bank": -1163.29
+          "stake": 4362.4,
+          "profit": 436.24,
+          "bank": -9886.86
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "W G Harrison",
           "pos": 10,
           "res": "LOSE",
-          "stake": 330.5,
-          "profit": -330.5,
-          "bank": -1493.79
+          "stake": 4362.4,
+          "profit": -4362.4,
+          "bank": -14249.26
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "L Williamson",
           "pos": 7,
           "res": "LOSE",
-          "stake": 330.5,
-          "profit": -330.5,
-          "bank": -1824.29
+          "stake": 4362.4,
+          "profit": -4362.4,
+          "bank": -18611.66
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "J S Goldie",
           "pos": 4,
           "res": "LOSE",
-          "stake": 330.5,
-          "profit": -330.5,
-          "bank": -2154.79
+          "stake": 4362.4,
+          "profit": -4362.4,
+          "bank": -22974.06
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "P Neville",
           "pos": 6,
           "res": "LOSE",
-          "stake": 330.5,
-          "profit": -330.5,
-          "bank": -2485.29
+          "stake": 4362.4,
+          "profit": -4362.4,
+          "bank": -27336.46
         }
       ]
     }
@@ -206,32 +206,30 @@
     "pending": 0
   },
   "day": {
-    "bet": 330.5,
-    "units": 3305,
+    "bet": 4362.4,
+    "units": 43624,
     "horses": 8,
     "bet_horses": 8,
-    "total_stake": 2644.0
+    "total_stake": 34899.2
   },
-  "staked": 2644.0,
-  "returned": 2163.27,
-  "profit": -480.73,
+  "staked": 34899.2,
+  "returned": 28553.89,
+  "profit": -6345.31,
   "bank": {
-    "start": -2004.56,
-    "end": -2485.29,
-    "next_stake": 376.9,
+    "start": -20991.15,
+    "end": -27336.46,
+    "next_stake": 5107.2,
     "ladder": [
-      464,
-      591,
-      877,
-      1163,
-      1449,
-      1913,
-      2377,
-      2841,
-      3305
+      7448,
+      10640,
+      13832,
+      21280,
+      28728,
+      36176,
+      43624
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

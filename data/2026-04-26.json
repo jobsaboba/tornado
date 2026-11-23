@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "14:45",
@@ -20,9 +20,9 @@
           "trainer": "S Hanlon",
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.9,
-          "profit": -1.9,
-          "bank": -3.88
+          "stake": 12.8,
+          "profit": -12.8,
+          "bank": -119.04
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R Hannon",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.9,
-          "profit": -0.47,
-          "bank": -4.35
+          "stake": 12.8,
+          "profit": -3.2,
+          "bank": -122.24
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "G Boughey",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.9,
-          "profit": -0.57,
-          "bank": -4.92
+          "stake": 12.8,
+          "profit": -3.84,
+          "bank": -126.08
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "James Owen",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.9,
-          "profit": -0.69,
-          "bank": -5.61
+          "stake": 12.8,
+          "profit": -4.64,
+          "bank": -130.72
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "S Hanlon",
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.9,
-          "profit": 0.09,
-          "bank": -5.52
+          "stake": 12.8,
+          "profit": 0.64,
+          "bank": -130.08
         }
       ]
     },
@@ -139,10 +139,10 @@
           "jockey": "K Stott",
           "trainer": "George Scott",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 12.8,
+          "profit": -12.8,
+          "bank": -142.88
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "J S Goldie",
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.9,
-          "profit": -0.47,
-          "bank": -5.99
+          "stake": 12.8,
+          "profit": -3.2,
+          "bank": -146.08
         }
       ]
     }
@@ -174,39 +174,37 @@
   "score": {
     "picks": 7,
     "races": 7,
-    "settled": 6,
+    "settled": 7,
     "won": 0,
     "placed": 5,
-    "lost": 1,
-    "nr": 1,
+    "lost": 2,
+    "nr": 0,
     "pending": 0
   },
   "day": {
-    "bet": 1.9,
-    "units": 19,
+    "bet": 12.8,
+    "units": 128,
     "horses": 7,
-    "bet_horses": 6,
-    "total_stake": 11.4
+    "bet_horses": 7,
+    "total_stake": 89.6
   },
-  "staked": 11.4,
-  "returned": 7.39,
-  "profit": -4.01,
+  "staked": 89.6,
+  "returned": 49.76,
+  "profit": -39.84,
   "bank": {
-    "start": -1.98,
-    "end": -5.99,
-    "next_stake": 2.2,
+    "start": -106.24,
+    "end": -146.08,
+    "next_stake": 15.2,
     "ladder": [
-      3,
-      4,
-      5,
-      7,
-      10,
-      13,
-      16,
-      19
+      24,
+      32,
+      56,
+      80,
+      104,
+      128
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

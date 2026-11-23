@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "13:00",
@@ -20,9 +20,9 @@
           "trainer": "O Murphy",
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.0,
-          "profit": -1.17,
-          "bank": -14.76
+          "stake": 21.6,
+          "profit": -8.42,
+          "bank": -207.34
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "N W Alexander",
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.0,
-          "profit": -1.01,
-          "bank": -15.77
+          "stake": 21.6,
+          "profit": -7.29,
+          "bank": -214.63
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "M Bowen",
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.0,
-          "profit": -0.45,
-          "bank": -16.22
+          "stake": 21.6,
+          "profit": -3.24,
+          "bank": -217.87
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "Ewan Whillans",
           "pos": 7,
           "res": "LOSE",
-          "stake": 3.0,
-          "profit": -3.0,
-          "bank": -19.22
+          "stake": 21.6,
+          "profit": -21.6,
+          "bank": -239.47
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "R M Smith",
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.0,
-          "profit": -0.15,
-          "bank": -19.37
+          "stake": 21.6,
+          "profit": -1.08,
+          "bank": -240.55
         }
       ]
     }
@@ -134,33 +134,31 @@
     "pending": 0
   },
   "day": {
-    "bet": 3.0,
-    "units": 30,
+    "bet": 21.6,
+    "units": 216,
     "horses": 5,
     "bet_horses": 5,
-    "total_stake": 15.0
+    "total_stake": 108.0
   },
-  "staked": 15.0,
-  "returned": 9.22,
-  "profit": -5.78,
+  "staked": 108.0,
+  "returned": 66.37,
+  "profit": -41.63,
   "bank": {
-    "start": -13.59,
-    "end": -19.37,
-    "next_stake": 3.4,
+    "start": -198.92,
+    "end": -240.55,
+    "next_stake": 24.8,
     "ladder": [
-      4,
-      5,
-      7,
-      10,
-      13,
-      16,
-      19,
-      22,
-      26,
-      30
+      32,
+      56,
+      80,
+      104,
+      128,
+      152,
+      184,
+      216
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

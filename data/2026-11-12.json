@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "11:43",
@@ -20,9 +20,9 @@
           "trainer": "G P Cromwell",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.4,
-          "profit": -0.4,
-          "bank": 99.05
+          "stake": 4.6,
+          "profit": -4.6,
+          "bank": -1057.59
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "O Murphy",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.17,
-          "bank": 98.88
+          "stake": 4.6,
+          "profit": -1.93,
+          "bank": -1059.52
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "H De Bromhead",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.84,
-          "bank": 99.72
+          "stake": 4.6,
+          "profit": 9.66,
+          "bank": -1049.86
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "Miss E C Lavelle",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.72,
-          "bank": 100.44
+          "stake": 4.6,
+          "profit": 8.28,
+          "bank": -1041.58
         }
       ]
     },
@@ -115,10 +115,10 @@
           "jockey": "Darragh O'Keeffe",
           "trainer": "E F Gallagher",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 4.6,
+          "profit": -4.6,
+          "bank": -1046.18
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "W Greatrex",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.22,
-          "bank": 100.66
+          "stake": 4.6,
+          "profit": 2.51,
+          "bank": -1043.67
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "G Elliott",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "profit": 0.36,
-          "bank": 101.02
+          "stake": 4.6,
+          "profit": 4.14,
+          "bank": -1039.53
         }
       ]
     },
@@ -188,9 +188,9 @@
           "trainer": "F G Hand",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.4,
-          "profit": -0.4,
-          "bank": 100.62
+          "stake": 4.6,
+          "profit": -4.6,
+          "bank": -1044.13
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "J Tickle",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": 0.2,
-          "bank": 100.82
+          "stake": 4.6,
+          "profit": 2.3,
+          "bank": -1041.83
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "D Skelton",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.4,
-          "profit": -0.4,
-          "bank": 100.42
+          "stake": 4.6,
+          "profit": -4.6,
+          "bank": -1046.43
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "D A McLoughlin",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 4.6,
           "profit": 0.0,
-          "bank": 100.42
+          "bank": -1046.43
         }
       ]
     },
@@ -284,9 +284,9 @@
           "trainer": "P C O'Connor",
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.4,
-          "profit": -0.1,
-          "bank": 100.32
+          "stake": 4.6,
+          "profit": -1.15,
+          "bank": -1047.58
         }
       ]
     }
@@ -294,34 +294,35 @@
   "score": {
     "picks": 12,
     "races": 12,
-    "settled": 11,
+    "settled": 12,
     "won": 4,
     "placed": 4,
-    "lost": 3,
-    "nr": 1,
+    "lost": 4,
+    "nr": 0,
     "pending": 0
   },
   "day": {
-    "bet": 0.4,
-    "units": 4,
+    "bet": 4.6,
+    "units": 46,
     "horses": 12,
-    "bet_horses": 11,
-    "total_stake": 4.4
+    "bet_horses": 12,
+    "total_stake": 55.2
   },
-  "staked": 4.4,
-  "returned": 5.27,
-  "profit": 0.87,
+  "staked": 55.2,
+  "returned": 60.61,
+  "profit": 5.41,
   "bank": {
-    "start": 99.45,
-    "end": 100.32,
-    "next_stake": 0.3,
+    "start": -1052.99,
+    "end": -1047.58,
+    "next_stake": 4.0,
     "ladder": [
-      1,
-      2,
-      2
+      10,
+      16,
+      22,
+      30
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

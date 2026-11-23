@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "13:03",
@@ -20,9 +20,9 @@
           "trainer": "R Bandey",
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.7,
-          "profit": -0.29,
-          "bank": 12.02
+          "stake": 3.2,
+          "profit": -1.34,
+          "bank": 4.43
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Miss R Curtis",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.7,
-          "profit": 1.15,
-          "bank": 13.17
+          "stake": 3.2,
+          "profit": 5.28,
+          "bank": 9.71
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Jamie Snowden",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.7,
-          "profit": 0.19,
-          "bank": 13.36
+          "stake": 3.2,
+          "profit": 0.85,
+          "bank": 10.56
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "N J Henderson",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.7,
-          "profit": 0.68,
-          "bank": 14.04
+          "stake": 3.2,
+          "profit": 3.12,
+          "bank": 13.68
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "M L W Bell",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.7,
-          "profit": -0.17,
-          "bank": 13.87
+          "stake": 3.2,
+          "profit": -0.8,
+          "bank": 12.88
         }
       ]
     },
@@ -140,9 +140,9 @@
           "trainer": "Miss R Curtis",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.7,
-          "profit": -0.7,
-          "bank": 13.17
+          "stake": 3.2,
+          "profit": -3.2,
+          "bank": 9.68
         }
       ]
     },
@@ -164,9 +164,9 @@
           "trainer": "W J Haggas",
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.7,
-          "profit": -0.7,
-          "bank": 12.47
+          "stake": 3.2,
+          "profit": -3.2,
+          "bank": 6.48
         }
       ]
     },
@@ -187,10 +187,10 @@
           "jockey": "Callum Pritchard",
           "trainer": "Sheila Lewis",
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 3.2,
+          "profit": -3.2,
+          "bank": 3.28
         }
       ]
     },
@@ -212,9 +212,9 @@
           "trainer": "E Bethell",
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.7,
-          "profit": -0.7,
-          "bank": 11.77
+          "stake": 3.2,
+          "profit": -3.2,
+          "bank": 0.08
         }
       ]
     },
@@ -236,9 +236,9 @@
           "trainer": "James Owen",
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.7,
-          "profit": -0.7,
-          "bank": 11.07
+          "stake": 3.2,
+          "profit": -3.2,
+          "bank": -3.12
         }
       ]
     },
@@ -260,9 +260,9 @@
           "trainer": "J S Goldie",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.7,
-          "profit": 1.05,
-          "bank": 12.12
+          "stake": 3.2,
+          "profit": 4.8,
+          "bank": 1.68
         }
       ]
     }
@@ -270,37 +270,35 @@
   "score": {
     "picks": 11,
     "races": 11,
-    "settled": 10,
+    "settled": 11,
     "won": 4,
     "placed": 2,
-    "lost": 4,
-    "nr": 1,
+    "lost": 5,
+    "nr": 0,
     "pending": 0
   },
   "day": {
-    "bet": 0.7,
-    "units": 7,
+    "bet": 3.2,
+    "units": 32,
     "horses": 11,
-    "bet_horses": 10,
-    "total_stake": 7.0
+    "bet_horses": 11,
+    "total_stake": 35.2
   },
-  "staked": 7.0,
-  "returned": 6.81,
-  "profit": -0.19,
+  "staked": 35.2,
+  "returned": 31.11,
+  "profit": -4.09,
   "bank": {
-    "start": 12.31,
-    "end": 12.12,
-    "next_stake": 0.9,
+    "start": 5.77,
+    "end": 1.68,
+    "next_stake": 4.0,
     "ladder": [
-      2,
-      2,
-      3,
-      4,
-      5,
-      7
+      8,
+      16,
+      24,
+      32
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

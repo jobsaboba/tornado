@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "14:30",
@@ -20,9 +20,9 @@
           "trainer": "Owen Burrows",
           "pos": 2,
           "res": "PLACE",
-          "stake": 657.8,
-          "profit": -180.89,
-          "bank": -9132.71
+          "stake": 10108.0,
+          "profit": -2779.7,
+          "bank": -122235.42
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "R A Teal",
           "pos": 3,
           "res": "PLACE",
-          "stake": 657.8,
-          "profit": -197.34,
-          "bank": -9330.05
+          "stake": 10108.0,
+          "profit": -3032.4,
+          "bank": -125267.82
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Harry Charlton",
           "pos": 1,
           "res": "WIN",
-          "stake": 657.8,
-          "profit": 1973.4,
-          "bank": -7356.65
+          "stake": 10108.0,
+          "profit": 30324.0,
+          "bank": -94943.82
         }
       ]
     }
@@ -86,31 +86,29 @@
     "pending": 0
   },
   "day": {
-    "bet": 657.8,
-    "units": 6578,
+    "bet": 10108.0,
+    "units": 101080,
     "horses": 3,
     "bet_horses": 3,
-    "total_stake": 1973.4
+    "total_stake": 30324.0
   },
-  "staked": 1973.4,
-  "returned": 3568.57,
-  "profit": 1595.17,
+  "staked": 30324.0,
+  "returned": 54835.9,
+  "profit": 24511.9,
   "bank": {
-    "start": -8951.82,
-    "end": -7356.65,
-    "next_stake": 627.3,
+    "start": -119455.72,
+    "end": -94943.82,
+    "next_stake": 9788.8,
     "ladder": [
-      1449,
-      1913,
-      2377,
-      2841,
-      3305,
-      3769,
-      4233,
-      4824
+      28728,
+      36176,
+      43624,
+      51072,
+      58520,
+      69160
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

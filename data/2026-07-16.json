@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "13:15",
@@ -20,9 +20,9 @@
           "trainer": "I Jardine",
           "pos": 1,
           "res": "WIN",
-          "stake": 91.5,
-          "profit": 54.9,
-          "bank": -463.63
+          "stake": 744.8,
+          "profit": 446.88,
+          "bank": -3290.1
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "Dr R Newland",
           "pos": 1,
           "res": "WIN",
-          "stake": 91.5,
-          "profit": 274.5,
-          "bank": -189.13
+          "stake": 744.8,
+          "profit": 2234.4,
+          "bank": -1055.7
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "Ollie Sangster",
           "pos": 5,
           "res": "LOSE",
-          "stake": 91.5,
-          "profit": -91.5,
-          "bank": -280.63
+          "stake": 744.8,
+          "profit": -744.8,
+          "bank": -1800.5
         }
       ]
     }
@@ -86,27 +86,25 @@
     "pending": 0
   },
   "day": {
-    "bet": 91.5,
-    "units": 915,
+    "bet": 744.8,
+    "units": 7448,
     "horses": 3,
     "bet_horses": 3,
-    "total_stake": 274.5
+    "total_stake": 2234.4
   },
-  "staked": 274.5,
-  "returned": 512.4,
-  "profit": 237.9,
+  "staked": 2234.4,
+  "returned": 4170.88,
+  "profit": 1936.48,
   "bank": {
-    "start": -518.53,
-    "end": -280.63,
-    "next_stake": 87.7,
+    "start": -3736.98,
+    "end": -1800.5,
+    "next_stake": 744.8,
     "ladder": [
-      286,
-      375,
-      464,
-      591
+      3192,
+      4256
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

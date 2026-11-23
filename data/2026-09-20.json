@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "14:00",
@@ -20,9 +20,9 @@
           "trainer": "Phillip Makin",
           "pos": 1,
           "res": "WIN",
-          "stake": 753.8,
-          "profit": 1130.7,
-          "bank": -411.09
+          "stake": 0.4,
+          "profit": 0.6,
+          "bank": -1026.71
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "I Jardine",
           "pos": 7,
           "res": "LOSE",
-          "stake": 753.8,
-          "profit": -753.8,
-          "bank": -1164.89
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": -1027.11
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "J S Goldie",
           "pos": 5,
           "res": "LOSE",
-          "stake": 753.8,
-          "profit": -753.8,
-          "bank": -1918.69
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": -1027.51
         }
       ]
     }
@@ -86,26 +86,28 @@
     "pending": 0
   },
   "day": {
-    "bet": 753.8,
-    "units": 7538,
+    "bet": 0.4,
+    "units": 4,
     "horses": 3,
     "bet_horses": 3,
-    "total_stake": 2261.4
+    "total_stake": 1.2
   },
-  "staked": 2261.4,
-  "returned": 1884.5,
-  "profit": -376.9,
+  "staked": 1.2,
+  "returned": 1.0,
+  "profit": -0.2,
   "bank": {
-    "start": -1541.79,
-    "end": -1918.69,
-    "next_stake": 1130.7,
+    "start": -1027.31,
+    "end": -1027.51,
+    "next_stake": 0.5,
     "ladder": [
-      3769,
-      3769,
-      7538
+      1,
+      2,
+      2,
+      3,
+      4
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "16:40",
@@ -20,9 +20,9 @@
           "trainer": "N Tinkler",
           "pos": 2,
           "res": "PLACE",
-          "stake": 59.1,
-          "profit": -14.78,
-          "bank": -464.29
+          "stake": 425.6,
+          "profit": -106.4,
+          "bank": -3355.87
         }
       ]
     }
@@ -38,29 +38,27 @@
     "pending": 0
   },
   "day": {
-    "bet": 59.1,
-    "units": 591,
+    "bet": 425.6,
+    "units": 4256,
     "horses": 1,
     "bet_horses": 1,
-    "total_stake": 59.1
+    "total_stake": 425.6
   },
-  "staked": 59.1,
-  "returned": 44.32,
-  "profit": -14.78,
+  "staked": 425.6,
+  "returned": 319.2,
+  "profit": -106.4,
   "bank": {
-    "start": -449.51,
-    "end": -464.29,
-    "next_stake": 71.8,
+    "start": -3249.47,
+    "end": -3355.87,
+    "next_stake": 532.0,
     "ladder": [
-      127,
-      197,
-      286,
-      375,
-      464,
-      591
+      1064,
+      2128,
+      3192,
+      4256
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

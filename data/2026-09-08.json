@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "16:42",
@@ -20,9 +20,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 818.6,
-          "profit": 613.95,
-          "bank": -7137.07
+          "stake": 13406.4,
+          "profit": 10054.8,
+          "bank": -90522.9
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "T Reed",
           "pos": 1,
           "res": "WIN",
-          "stake": 818.6,
-          "profit": 2946.96,
-          "bank": -4190.11
+          "stake": 13406.4,
+          "profit": 48263.04,
+          "bank": -42259.86
         }
       ]
     }
@@ -62,29 +62,27 @@
     "pending": 0
   },
   "day": {
-    "bet": 818.6,
-    "units": 8186,
+    "bet": 13406.4,
+    "units": 134064,
     "horses": 2,
     "bet_horses": 2,
-    "total_stake": 1637.2
+    "total_stake": 26812.8
   },
-  "staked": 1637.2,
-  "returned": 5198.11,
-  "profit": 3560.91,
+  "staked": 26812.8,
+  "returned": 85130.64,
+  "profit": 58317.84,
   "bank": {
-    "start": -7751.02,
-    "end": -4190.11,
-    "next_stake": 720.1,
+    "start": -100577.7,
+    "end": -42259.86,
+    "next_stake": 11278.4,
     "ladder": [
-      2377,
-      2841,
-      3305,
-      3769,
-      4233,
-      4824
+      43624,
+      51072,
+      58520,
+      69160
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }

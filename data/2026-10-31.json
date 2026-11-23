@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updated": "2026-11-23T13:31:09+0000",
+  "updated": "2026-11-23T14:14:48+0000",
   "races": [
     {
       "time": "12:43",
@@ -20,9 +20,9 @@
           "trainer": "D Skelton",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.5,
-          "profit": 0.27,
-          "bank": 100.44
+          "stake": 1.9,
+          "profit": 1.04,
+          "bank": -1031.23
         }
       ]
     },
@@ -44,9 +44,9 @@
           "trainer": "M Todhunter",
           "pos": 1,
           "res": "WIN",
-          "stake": 0.5,
-          "profit": 0.9,
-          "bank": 101.34
+          "stake": 1.9,
+          "profit": 3.42,
+          "bank": -1027.81
         }
       ]
     },
@@ -68,9 +68,9 @@
           "trainer": "A M Thomson",
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.5,
-          "profit": -0.5,
-          "bank": 100.84
+          "stake": 1.9,
+          "profit": -1.9,
+          "bank": -1029.71
         }
       ]
     },
@@ -92,9 +92,9 @@
           "trainer": "N W Alexander",
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.5,
-          "profit": -0.5,
-          "bank": 100.34
+          "stake": 1.9,
+          "profit": -1.9,
+          "bank": -1031.61
         }
       ]
     },
@@ -116,9 +116,9 @@
           "trainer": "R M Smith",
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.5,
-          "profit": -0.12,
-          "bank": 100.22
+          "stake": 1.9,
+          "profit": -0.47,
+          "bank": -1032.08
         }
       ]
     }
@@ -134,26 +134,28 @@
     "pending": 0
   },
   "day": {
-    "bet": 0.5,
-    "units": 5,
+    "bet": 1.9,
+    "units": 19,
     "horses": 5,
     "bet_horses": 5,
-    "total_stake": 2.5
+    "total_stake": 9.5
   },
-  "staked": 2.5,
-  "returned": 2.55,
-  "profit": 0.05,
+  "staked": 9.5,
+  "returned": 9.69,
+  "profit": 0.19,
   "bank": {
-    "start": 100.17,
-    "end": 100.22,
-    "next_stake": 0.5,
+    "start": -1032.27,
+    "end": -1032.08,
+    "next_stake": 1.7,
     "ladder": [
-      2,
-      2,
-      3
+      4,
+      6,
+      8,
+      10,
+      13
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 107.89
+    "season_end": -847.34
   }
 }
