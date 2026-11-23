@@ -20,7 +20,8 @@ rule — staked with the **Jacobs Ladder, one day at a time**.
   → it trims both ends, a new bank high resets to 1-2-2. The **My
   ledger** tab keeps every day you log: stakes, returns, P/L, bank.
 - Each-way at Ladbrokes (½ win · ½ place at 1/5 odds), settled with the
-  Grail's bet maths. Non-runners are refunded and don't stake; an
+  Grail's bet maths. Genuine non-runners are refunded and don't stake;
+  horses that ran but pulled up, fell or unseated are losing bets. An
   unfinished day shows planned stakes and leaves the ladder alone.
 
 Published by `~/racing-scripts/tornado.py --publish` — 05:30 each
