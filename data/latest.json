@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T05:30:01+0000",
+  "updated": "2026-11-23T13:01:13+0000",
   "races": [
     {
       "time": "12:25",
@@ -19,8 +19,8 @@
           "jockey": "Thomas Bellamy",
           "trainer": "A King",
           "pos": 0,
-          "res": null,
-          "stake": 0.5,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -32,7 +32,7 @@
       "name": "Boat At Erbistock Handicap Chase (GBB Race)",
       "class": "4",
       "distance": "2m 1f 77y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft",
       "runners": 8,
       "picks": [
         {
@@ -43,8 +43,8 @@
           "jockey": "B S Hughes",
           "trainer": "J W Mullins",
           "pos": 0,
-          "res": null,
-          "stake": 0.5,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -66,11 +66,11 @@
           "odds": "6/4",
           "jockey": "Callum Pritchard",
           "trainer": "B Pauling",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.17,
+          "bank": 108.08
         }
       ]
     },
@@ -80,7 +80,7 @@
       "name": "Bangor-On-Dee Memberships Now On Sale Novices' Handicap Chase (GBB Race)",
       "class": "4",
       "distance": "2m 4f 72y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft",
       "runners": 11,
       "picks": [
         {
@@ -105,7 +105,7 @@
       "class": "5",
       "distance": "1m 7f 171y",
       "going": "Good",
-      "runners": 12,
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
@@ -128,7 +128,7 @@
       "name": "Wrexham Lager Novices' Handicap Chase (GBB Race)",
       "class": "4",
       "distance": "3m 30y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft",
       "runners": 12,
       "picks": [
         {
@@ -152,7 +152,7 @@
       "name": "Outerspace Group 'National Hunt' Maiden Hurdle (GBB Race)",
       "class": "4",
       "distance": "2m 3f 123y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft (Good in places)",
       "runners": 14,
       "picks": [
         {
@@ -176,8 +176,8 @@
       "name": "Mount Vines Mares' Maiden Hurdle (GBB Race)",
       "class": "4",
       "distance": "2m 145y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
-      "runners": 14,
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
       "picks": [
         {
           "rank": 1,
@@ -201,7 +201,7 @@
       "class": "5",
       "distance": "2m 4f 145y",
       "going": "Good",
-      "runners": 9,
+      "runners": 8,
       "picks": [
         {
           "rank": 1,
@@ -225,7 +225,7 @@
       "class": "4",
       "distance": "2m 3f 137y",
       "going": "Good",
-      "runners": 11,
+      "runners": 10,
       "picks": [
         {
           "rank": 1,
@@ -234,30 +234,6 @@
           "odds": "6/1",
           "jockey": "David Bass",
           "trainer": "H D Daly",
-          "pos": 0,
-          "res": null,
-          "stake": 0.5,
-          "profit": null,
-          "bank": null
-        }
-      ]
-    },
-    {
-      "time": "15:30",
-      "meeting": "Newcastle",
-      "name": "Midnite A Next Generation Betting App Apprentice Handicap",
-      "class": "5",
-      "distance": "1m 2f 42y",
-      "going": "Standard",
-      "runners": 14,
-      "picks": [
-        {
-          "rank": 1,
-          "horse": "Jodhpur Blue",
-          "stars": 5,
-          "odds": "12/1",
-          "jockey": "C J Whiteley",
-          "trainer": "Ian Williams",
           "pos": 0,
           "res": null,
           "stake": 0.5,
@@ -417,7 +393,7 @@
       "class": "6",
       "distance": "5f 21y",
       "going": "Standard",
-      "runners": 11,
+      "runners": 10,
       "picks": [
         {
           "rank": 1,
@@ -537,7 +513,7 @@
       "class": "6",
       "distance": "5f",
       "going": "Standard",
-      "runners": 14,
+      "runners": 13,
       "picks": [
         {
           "rank": 1,
@@ -561,7 +537,7 @@
       "class": "6",
       "distance": "7f 36y",
       "going": "Standard",
-      "runners": 12,
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
@@ -652,28 +628,28 @@
     }
   ],
   "score": {
-    "picks": 27,
-    "races": 27,
-    "settled": 0,
+    "picks": 26,
+    "races": 26,
+    "settled": 1,
     "won": 0,
-    "placed": 0,
+    "placed": 1,
     "lost": 0,
-    "nr": 0,
-    "pending": 27
+    "nr": 2,
+    "pending": 23
   },
   "day": {
     "bet": 0.5,
     "units": 5,
-    "horses": 27,
-    "bet_horses": 0,
-    "total_stake": 13.5
+    "horses": 26,
+    "bet_horses": 1,
+    "total_stake": 12.0
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.5,
+  "returned": 0.33,
+  "profit": -0.17,
   "bank": {
     "start": 108.25,
-    "end": 108.25,
+    "end": 108.08,
     "next_stake": 0.5,
     "ladder": [
       1,
@@ -684,6 +660,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": 108.25
+    "season_end": 108.08
   }
 }
