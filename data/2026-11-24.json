@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T05:30:01+0000",
+  "updated": "2026-11-24T13:01:30+0000",
   "races": [
     {
       "time": "11:56",
@@ -18,11 +18,11 @@
           "odds": "5/1",
           "jockey": "Jonjo O'Neill Jr.",
           "trainer": "J & A O'Neill",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 1.5,
+          "bank": -842.89
         }
       ]
     },
@@ -42,11 +42,11 @@
           "odds": "3/1",
           "jockey": "Marco Ghiani",
           "trainer": "M Botti",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -843.39
         }
       ]
     },
@@ -66,11 +66,11 @@
           "odds": "7/4",
           "jockey": "Oakley Brown",
           "trainer": "A Keatley",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 0.53,
+          "bank": -842.86
         }
       ]
     },
@@ -90,11 +90,11 @@
           "odds": "7/2",
           "jockey": "Jason Watson",
           "trainer": "J Tate",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.07,
+          "bank": -842.93
         }
       ]
     },
@@ -114,11 +114,11 @@
           "odds": "10/11",
           "jockey": "Paul Townend",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 0.27,
+          "bank": -842.66
         }
       ]
     },
@@ -259,8 +259,8 @@
           "jockey": "Sam Ewing",
           "trainer": "G Elliott",
           "pos": 0,
-          "res": null,
-          "stake": 0.5,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -475,8 +475,8 @@
           "jockey": "Simon Torrens",
           "trainer": "R Tyner",
           "pos": 0,
-          "res": null,
-          "stake": 0.5,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -750,26 +750,26 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 0,
-    "won": 0,
-    "placed": 0,
-    "lost": 0,
-    "nr": 0,
-    "pending": 31
+    "settled": 5,
+    "won": 3,
+    "placed": 1,
+    "lost": 1,
+    "nr": 2,
+    "pending": 24
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 31,
-    "bet_horses": 0,
-    "total_stake": 15.5
+    "bet_horses": 5,
+    "total_stake": 14.5
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 2.5,
+  "returned": 4.23,
+  "profit": 1.73,
   "bank": {
     "start": -844.39,
-    "end": -844.39,
+    "end": -842.66,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -778,6 +778,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -844.39
+    "season_end": -842.66
   }
 }
