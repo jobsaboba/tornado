@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T18:31:41+0000",
+  "updated": "2026-11-24T19:31:40+0000",
   "races": [
     {
       "time": "11:56",
@@ -666,11 +666,11 @@
           "odds": "4/1",
           "jockey": "Callum Hutchinson",
           "trainer": "A M Balding",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -846.34
         }
       ]
     },
@@ -750,26 +750,26 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 25,
+    "settled": 26,
     "won": 8,
     "placed": 6,
-    "lost": 11,
+    "lost": 12,
     "nr": 2,
-    "pending": 4
+    "pending": 3
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 31,
-    "bet_horses": 25,
+    "bet_horses": 26,
     "total_stake": 14.5
   },
-  "staked": 12.5,
+  "staked": 13.0,
   "returned": 11.05,
-  "profit": -1.45,
+  "profit": -1.95,
   "bank": {
     "start": -844.39,
-    "end": -845.84,
+    "end": -846.34,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -778,6 +778,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -845.84
+    "season_end": -846.34
   }
 }
