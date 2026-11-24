@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T17:01:23+0000",
+  "updated": "2026-11-24T17:31:23+0000",
   "races": [
     {
       "time": "11:56",
@@ -594,11 +594,11 @@
           "odds": "13/8",
           "jockey": "Hollie Doyle",
           "trainer": "A Watson",
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -845.14
         }
       ]
     },
@@ -750,26 +750,26 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 22,
+    "settled": 23,
     "won": 8,
     "placed": 5,
-    "lost": 9,
+    "lost": 10,
     "nr": 2,
-    "pending": 7
+    "pending": 6
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 31,
-    "bet_horses": 22,
+    "bet_horses": 23,
     "total_stake": 14.5
   },
-  "staked": 11.0,
+  "staked": 11.5,
   "returned": 10.75,
-  "profit": -0.25,
+  "profit": -0.75,
   "bank": {
     "start": -844.39,
-    "end": -844.64,
+    "end": -845.14,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -778,6 +778,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -844.64
+    "season_end": -845.14
   }
 }
