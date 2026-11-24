@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T13:31:15+0000",
+  "updated": "2026-11-24T14:01:33+0000",
   "races": [
     {
       "time": "11:56",
@@ -210,11 +210,11 @@
           "odds": "4/6",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 0.2,
+          "bank": -843.36
         }
       ]
     },
@@ -234,11 +234,11 @@
           "odds": "15/2",
           "jockey": "Charles Bishop",
           "trainer": "H Fry",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -843.86
         }
       ]
     },
@@ -750,26 +750,26 @@
   "score": {
     "picks": 31,
     "races": 31,
-    "settled": 8,
-    "won": 4,
+    "settled": 10,
+    "won": 5,
     "placed": 1,
-    "lost": 3,
+    "lost": 4,
     "nr": 2,
-    "pending": 21
+    "pending": 19
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 31,
-    "bet_horses": 8,
+    "bet_horses": 10,
     "total_stake": 14.5
   },
-  "staked": 4.0,
-  "returned": 4.83,
-  "profit": 0.83,
+  "staked": 5.0,
+  "returned": 5.53,
+  "profit": 0.53,
   "bank": {
     "start": -844.39,
-    "end": -843.56,
+    "end": -843.86,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -778,6 +778,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -843.56
+    "season_end": -843.86
   }
 }
