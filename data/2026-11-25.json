@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T17:01:42+0000",
+  "updated": "2026-11-25T17:32:42+0000",
   "races": [
     {
       "time": "12:16",
@@ -583,11 +583,11 @@
           "odds": "9/2",
           "jockey": "Cieren Fallon",
           "trainer": "W J Haggas",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": -0.03,
+          "bank": -847.18
         }
       ]
     },
@@ -607,11 +607,11 @@
           "odds": "9/4",
           "jockey": "Donagh O'Connor",
           "trainer": "Robson Aguiar",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": -0.19,
+          "bank": -847.37
         }
       ]
     },
@@ -631,11 +631,11 @@
           "odds": "5/4",
           "jockey": "Billy Loughnane",
           "trainer": "C Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": 0.53,
+          "bank": -846.84
         }
       ]
     },
@@ -883,26 +883,26 @@
   "score": {
     "picks": 37,
     "races": 36,
-    "settled": 22,
-    "won": 8,
-    "placed": 4,
+    "settled": 25,
+    "won": 9,
+    "placed": 6,
     "lost": 10,
     "nr": 2,
-    "pending": 13
+    "pending": 10
   },
   "day": {
     "bet": 0.7,
     "units": 7,
     "horses": 37,
-    "bet_horses": 22,
+    "bet_horses": 25,
     "total_stake": 24.5
   },
-  "staked": 15.4,
-  "returned": 16.09,
-  "profit": 0.69,
+  "staked": 17.5,
+  "returned": 18.5,
+  "profit": 1.0,
   "bank": {
     "start": -847.84,
-    "end": -847.15,
+    "end": -846.84,
     "next_stake": 0.7,
     "ladder": [
       2,
@@ -912,6 +912,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -847.15
+    "season_end": -846.84
   }
 }
