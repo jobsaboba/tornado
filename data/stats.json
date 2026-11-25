@@ -4,12 +4,12 @@
     "races": 971,
     "days": 155,
     "won": 233,
-    "placed": 278,
+    "placed": 279,
     "lost": 426,
     "nr": 19,
-    "pending": 19,
-    "staked": 791676.3,
-    "returned": 790822.65,
+    "pending": 18,
+    "staked": 791677.0,
+    "returned": 790823.35,
     "profit": -853.65,
     "roi": -0.1,
     "bank_start": 10.0,
@@ -33,5 +33,5 @@
     "profit": 58317.84,
     "picks": 2
   },
-  "updated": "2026-11-25T15:31:29+0000"
+  "updated": "2026-11-25T16:01:31+0000"
 }
