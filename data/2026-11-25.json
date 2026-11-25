@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T13:31:21+0000",
+  "updated": "2026-11-25T14:01:59+0000",
   "races": [
     {
       "time": "12:16",
@@ -138,11 +138,11 @@
           "odds": "6/4",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": 0.63,
+          "bank": -845.04
         }
       ]
     },
@@ -296,8 +296,8 @@
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
           "pos": 0,
-          "res": null,
-          "stake": 0.7,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -883,26 +883,26 @@
   "score": {
     "picks": 37,
     "races": 36,
-    "settled": 4,
-    "won": 3,
+    "settled": 5,
+    "won": 4,
     "placed": 0,
     "lost": 1,
-    "nr": 1,
-    "pending": 32
+    "nr": 2,
+    "pending": 30
   },
   "day": {
     "bet": 0.7,
     "units": 7,
     "horses": 37,
-    "bet_horses": 4,
-    "total_stake": 25.2
+    "bet_horses": 5,
+    "total_stake": 24.5
   },
-  "staked": 2.8,
-  "returned": 4.97,
-  "profit": 2.17,
+  "staked": 3.5,
+  "returned": 6.3,
+  "profit": 2.8,
   "bank": {
     "start": -847.84,
-    "end": -845.67,
+    "end": -845.04,
     "next_stake": 0.7,
     "ladder": [
       2,
@@ -912,6 +912,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -845.67
+    "season_end": -845.04
   }
 }
