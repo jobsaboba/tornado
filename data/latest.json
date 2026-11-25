@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T19:01:30+0000",
+  "updated": "2026-11-25T19:31:32+0000",
   "races": [
     {
       "time": "12:16",
@@ -799,11 +799,11 @@
           "odds": "5/4",
           "jockey": "Billy Loughnane",
           "trainer": "C Appleby",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": -0.26,
+          "bank": -844.12
         }
       ]
     },
@@ -883,26 +883,26 @@
   "score": {
     "picks": 37,
     "races": 36,
-    "settled": 31,
+    "settled": 32,
     "won": 10,
-    "placed": 7,
+    "placed": 8,
     "lost": 14,
     "nr": 2,
-    "pending": 4
+    "pending": 3
   },
   "day": {
     "bet": 0.7,
     "units": 7,
     "horses": 37,
-    "bet_horses": 31,
+    "bet_horses": 32,
     "total_stake": 24.5
   },
-  "staked": 21.7,
-  "returned": 25.68,
-  "profit": 3.98,
+  "staked": 22.4,
+  "returned": 26.12,
+  "profit": 3.72,
   "bank": {
     "start": -847.84,
-    "end": -843.86,
+    "end": -844.12,
     "next_stake": 0.7,
     "ladder": [
       2,
@@ -912,6 +912,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -843.86
+    "season_end": -844.12
   }
 }
