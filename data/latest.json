@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T13:01:10+0000",
+  "updated": "2026-11-26T13:31:18+0000",
   "races": [
     {
       "time": "11:54",
@@ -91,10 +91,10 @@
           "jockey": "David Bass",
           "trainer": "M Comley",
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -845.64
         }
       ]
     },
@@ -115,10 +115,10 @@
           "jockey": "Mike O'Connor",
           "trainer": "H De Bromhead",
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -846.14
         }
       ]
     },
@@ -547,26 +547,26 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 3,
+    "settled": 5,
     "won": 1,
     "placed": 1,
-    "lost": 1,
+    "lost": 3,
     "nr": 0,
-    "pending": 20
+    "pending": 18
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 23,
-    "bet_horses": 3,
+    "bet_horses": 5,
     "total_stake": 11.5
   },
-  "staked": 1.5,
+  "staked": 2.5,
   "returned": 1.39,
-  "profit": -0.11,
+  "profit": -1.11,
   "bank": {
     "start": -845.03,
-    "end": -845.14,
+    "end": -846.14,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -574,6 +574,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -845.14
+    "season_end": -846.14
   }
 }
