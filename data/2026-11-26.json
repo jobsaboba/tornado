@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T13:31:18+0000",
+  "updated": "2026-11-26T14:01:22+0000",
   "races": [
     {
       "time": "11:54",
@@ -138,11 +138,11 @@
           "odds": "3/1",
           "jockey": "Kielan Woods",
           "trainer": "A M Hales",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -846.64
         }
       ]
     },
@@ -162,11 +162,11 @@
           "odds": "7/4",
           "jockey": "Ben Jones",
           "trainer": "B Pauling",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.16,
+          "bank": -846.8
         }
       ]
     },
@@ -547,26 +547,26 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 5,
+    "settled": 7,
     "won": 1,
-    "placed": 1,
-    "lost": 3,
+    "placed": 2,
+    "lost": 4,
     "nr": 0,
-    "pending": 18
+    "pending": 16
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 23,
-    "bet_horses": 5,
+    "bet_horses": 7,
     "total_stake": 11.5
   },
-  "staked": 2.5,
-  "returned": 1.39,
-  "profit": -1.11,
+  "staked": 3.5,
+  "returned": 1.73,
+  "profit": -1.77,
   "bank": {
     "start": -845.03,
-    "end": -846.14,
+    "end": -846.8,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -574,6 +574,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -846.14
+    "season_end": -846.8
   }
 }
