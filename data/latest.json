@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T05:30:02+0000",
+  "updated": "2026-11-26T13:01:10+0000",
   "races": [
     {
       "time": "11:54",
@@ -18,11 +18,11 @@
           "odds": "10/11",
           "jockey": "Tristan Durrell",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 0.27,
+          "bank": -844.76
         }
       ]
     },
@@ -43,10 +43,10 @@
           "jockey": "Phillip Enright",
           "trainer": "O McKiernan",
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -845.26
         }
       ]
     },
@@ -66,11 +66,11 @@
           "odds": "15/2",
           "jockey": "Danny McMenamin",
           "trainer": "J Parkinson & S Smith",
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": 0.12,
+          "bank": -845.14
         }
       ]
     },
@@ -547,26 +547,26 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 0,
-    "won": 0,
-    "placed": 0,
-    "lost": 0,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
     "nr": 0,
-    "pending": 23
+    "pending": 20
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 23,
-    "bet_horses": 0,
+    "bet_horses": 3,
     "total_stake": 11.5
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 1.5,
+  "returned": 1.39,
+  "profit": -0.11,
   "bank": {
     "start": -845.03,
-    "end": -845.03,
+    "end": -845.14,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -574,6 +574,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -845.03
+    "season_end": -845.14
   }
 }
