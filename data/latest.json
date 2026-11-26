@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T15:31:57+0000",
+  "updated": "2026-11-26T16:02:31+0000",
   "races": [
     {
       "time": "11:54",
@@ -354,11 +354,11 @@
           "odds": "6/1",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -846.56
         }
       ]
     },
@@ -378,11 +378,11 @@
           "odds": "9/4",
           "jockey": "James Robottom",
           "trainer": "A J Honeyball",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.14,
+          "bank": -846.7
         },
         {
           "rank": 2,
@@ -391,11 +391,11 @@
           "odds": "12/1",
           "jockey": "Dylan Johnston",
           "trainer": "J Tizzard",
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -847.2
         }
       ]
     },
@@ -415,11 +415,11 @@
           "odds": "7/2",
           "jockey": "Kevin Healy",
           "trainer": "A McNamara",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.5,
-          "profit": null,
-          "bank": null
+          "profit": -0.5,
+          "bank": -847.7
         }
       ]
     },
@@ -547,26 +547,26 @@
   "score": {
     "picks": 23,
     "races": 22,
-    "settled": 13,
+    "settled": 17,
     "won": 4,
-    "placed": 3,
-    "lost": 6,
+    "placed": 4,
+    "lost": 9,
     "nr": 1,
-    "pending": 9
+    "pending": 5
   },
   "day": {
     "bet": 0.5,
     "units": 5,
     "horses": 23,
-    "bet_horses": 13,
+    "bet_horses": 17,
     "total_stake": 11.0
   },
-  "staked": 6.5,
-  "returned": 5.47,
-  "profit": -1.03,
+  "staked": 8.5,
+  "returned": 5.83,
+  "profit": -2.67,
   "bank": {
     "start": -845.03,
-    "end": -846.06,
+    "end": -847.7,
     "next_stake": 0.5,
     "ladder": [
       2,
@@ -574,6 +574,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -846.06
+    "season_end": -847.7
   }
 }
