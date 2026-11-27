@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T13:01:05+0000",
+  "updated": "2026-11-27T14:30:56+0000",
   "races": [
     {
       "time": "11:40",
@@ -66,11 +66,11 @@
           "odds": "5/4",
           "jockey": "Harry Atkins",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.7,
-          "profit": null,
-          "bank": null
+          "profit": 0.53,
+          "bank": -848.82
         }
       ]
     },
@@ -534,26 +534,26 @@
   "score": {
     "picks": 22,
     "races": 22,
-    "settled": 2,
-    "won": 1,
+    "settled": 3,
+    "won": 2,
     "placed": 1,
     "lost": 0,
     "nr": 1,
-    "pending": 19
+    "pending": 18
   },
   "day": {
     "bet": 0.7,
     "units": 7,
     "horses": 22,
-    "bet_horses": 2,
+    "bet_horses": 3,
     "total_stake": 14.7
   },
-  "staked": 1.4,
-  "returned": 1.92,
-  "profit": 0.52,
+  "staked": 2.1,
+  "returned": 3.15,
+  "profit": 1.05,
   "bank": {
     "start": -849.87,
-    "end": -849.35,
+    "end": -848.82,
     "next_stake": 0.7,
     "ladder": [
       2,
@@ -562,6 +562,6 @@
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -849.35
+    "season_end": -848.82
   }
 }
