@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T14:31:07+0000",
+  "updated": "2026-11-28T15:01:06+0000",
   "races": [
     {
       "time": "11:40",
@@ -402,11 +402,11 @@
           "odds": "10/1",
           "jockey": "Ryan Mania",
           "trainer": "Harry Derham",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.15,
+          "bank": -849.97
         }
       ]
     },
@@ -426,11 +426,11 @@
           "odds": "15/8",
           "jockey": "Paul Townend",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.34,
+          "bank": -849.63
         }
       ]
     },
@@ -450,11 +450,11 @@
           "odds": "6/1",
           "jockey": "Jack Stenhouse",
           "trainer": "P Hobbs & J White",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 1.08,
+          "bank": -848.55
         }
       ]
     },
@@ -822,32 +822,32 @@
   "score": {
     "picks": 34,
     "races": 34,
-    "settled": 14,
-    "won": 4,
-    "placed": 4,
+    "settled": 17,
+    "won": 6,
+    "placed": 5,
     "lost": 6,
     "nr": 2,
-    "pending": 18
+    "pending": 15
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 34,
-    "bet_horses": 14,
+    "bet_horses": 17,
     "total_stake": 9.6
   },
-  "staked": 4.2,
-  "returned": 3.62,
-  "profit": -0.58,
+  "staked": 5.1,
+  "returned": 6.09,
+  "profit": 0.99,
   "bank": {
     "start": -849.54,
-    "end": -850.12,
+    "end": -848.55,
     "next_stake": 0.3,
     "ladder": [
       3
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -850.12
+    "season_end": -848.55
   }
 }
