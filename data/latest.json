@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T05:30:01+0000",
+  "updated": "2026-11-28T13:01:07+0000",
   "races": [
     {
       "time": "11:40",
@@ -18,11 +18,11 @@
           "odds": "9/2",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.81,
+          "bank": -848.73
         }
       ]
     },
@@ -42,11 +42,11 @@
           "odds": "5/4",
           "jockey": "Paul Townend",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.11,
+          "bank": -848.84
         }
       ]
     },
@@ -67,10 +67,10 @@
           "jockey": "Jack Stenhouse",
           "trainer": "A Ralph",
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": -849.14
         }
       ]
     },
@@ -91,10 +91,10 @@
           "jockey": "S Bowen",
           "trainer": "W Greatrex",
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": -849.44
         }
       ]
     },
@@ -114,11 +114,11 @@
           "odds": "4/1",
           "jockey": "Danny Mullins",
           "trainer": "W P Mullins",
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.3,
+          "bank": -849.74
         }
       ]
     },
@@ -138,11 +138,11 @@
           "odds": "4/6",
           "jockey": "Jamie Brace",
           "trainer": "Miss R Curtis",
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": 0.12,
+          "bank": -849.62
         }
       ]
     },
@@ -162,11 +162,11 @@
           "odds": "11/4",
           "jockey": "Jack Tudor",
           "trainer": "J Tizzard",
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.3,
-          "profit": null,
-          "bank": null
+          "profit": -0.07,
+          "bank": -849.69
         }
       ]
     },
@@ -187,8 +187,8 @@
           "jockey": "Jack Kennedy",
           "trainer": "G Elliott",
           "pos": 0,
-          "res": null,
-          "stake": 0.3,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -355,8 +355,8 @@
           "jockey": "Harry Brown",
           "trainer": "D McCain Jnr",
           "pos": 0,
-          "res": null,
-          "stake": 0.3,
+          "res": "NR",
+          "stake": null,
           "profit": null,
           "bank": null
         }
@@ -822,32 +822,32 @@
   "score": {
     "picks": 34,
     "races": 34,
-    "settled": 0,
-    "won": 0,
-    "placed": 0,
-    "lost": 0,
-    "nr": 0,
-    "pending": 34
+    "settled": 7,
+    "won": 2,
+    "placed": 2,
+    "lost": 3,
+    "nr": 2,
+    "pending": 25
   },
   "day": {
     "bet": 0.3,
     "units": 3,
     "horses": 34,
-    "bet_horses": 0,
-    "total_stake": 10.2
+    "bet_horses": 7,
+    "total_stake": 9.6
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 2.1,
+  "returned": 1.95,
+  "profit": -0.15,
   "bank": {
     "start": -849.54,
-    "end": -849.54,
+    "end": -849.69,
     "next_stake": 0.3,
     "ladder": [
       3
     ],
     "unit": 0.1,
     "season_start": 10.0,
-    "season_end": -849.54
+    "season_end": -849.69
   }
 }
